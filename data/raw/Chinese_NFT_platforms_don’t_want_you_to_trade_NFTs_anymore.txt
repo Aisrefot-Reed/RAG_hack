@@ -1,0 +1,16 @@
+Title: Chinese NFT platforms don’t want you to trade NFTs anymore
+URL: https://www.technologyreview.com/2022/04/23/1051058/chinese-nft-platform-guidance-tech-blockchain/
+
+The initiative is designed to make it harder to trade NFTs and impossible to speculate in them. Ultimately, the shifting political atmosphere around NFTs may help test whether they hold any intrinsic value.
+
+In the US, most NFTs are minted on the Ethereum blockchain and traded in Ethereum; they are among the most hyped cryptocurrency products in recent years. But in China, where cryptocurrency trading and mining are banned, NFTs have managed to find a breathing space by staying away from crypto. Instead, major tech companies like Alibaba and Tencent have their own NFT marketplaces. Popular brands like Audi and McDonald’s, which released NFT offerings to Chinese consumers to jump on the bandwagon, did not host them on public blockchains.
+
+However, there’s always been a sense of uncertainty in the industry: as with all young tech creations that don’t fit into traditional regulatory frameworks, the countdown started early for when the Chinese government would step in. Since 2017, China has maintained a hard stance against crypto unparalleled around the world. The Chinese financial and cyber regulators have not yet outright banned the trading of NFTs, but the silence is casting a long shadow over the business.
+
+This new joint statement is not an official statement from the government, but it’s close. “While the pledge letter doesn’t have any legal effect, it is somewhat binding to the members of these three associations,” says Jay Si, a Shanghai-based lawyer at the Chinese law firm Zhong Lun.
+
+While the state is silently considering its move, NFT industry players are trying to stay on the safe side.
+
+For example, NFT platforms owned by the prominent Chinese tech companies don’t use the term “NFT” anywhere. Instead, they call them “digital collectibles.” The idea is that they are not much different from your Funko Pop toys or vinyl collections, except they are online, on private-company-owned blockchains that are not fully transparent to the public. Collectors have to buy them with government-issued currency, and resale is not allowed.
+
+Alibaba, for example, released its NFT app Jingtan in December and is now releasing NFTs as often as every day. These limited-edition offerings—usually 10,000 copies of renowned Chinese artworks or works by digital-native artists—are sold at prices no higher than $5. Buyers may have to click in milliseconds to secure the purchase, but it doesn’t cost much. And once they own it, they need to wait six months before “gifting” the item to another user, who needs to wait another two years before gifting it again. Last year, Alibaba banned its own secondhand marketplace from listing any NFT products. Because of these rules, the NFTs have no official resale value, so they won’t work as a financial investment.

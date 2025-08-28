@@ -1,0 +1,20 @@
+Title: The Defense Department has produced the first tools for catching deepfakes
+URL: https://www.technologyreview.com/2018/08/07/66640/the-defense-department-has-produced-the-first-tools-for-catching-deepfakes/
+
+The most common technique for generating fake videos involves using machine learning to swap one person’s face onto another's. The resulting videos, known as “deepfakes,” are simple to make, and can be surprisingly realistic. Further tweaks, made by a skilled video editor, can make them seem even more real.
+
+Video trickery involves using a machine-learning technique known as generative modeling, which lets a computer learn from real data before producing fake examples that are statistically similar. A recent twist on this involves having two neural networks, known as generative adversarial networks, work together to produce ever more convincing fakes (see “The GANfather: The man who’s given machines the gift of imagination”).
+
+The tools for catching deepfakes were developed through a program—run by the US Defense Advanced Research Projects Agency (DARPA)—called Media Forensics. The program was created to automate existing forensics tools, but has recently turned its attention to AI-made forgery.
+
+"We've discovered subtle cues in current GAN-manipulated images and videos that allow us to detect the presence of alterations,” says Matthew Turek, who runs the Media Forensics program.
+
+Tucker Carlson gets his own Nicolas Cage makeover. University at Albany, SUNY
+
+One remarkably simple technique was developed by a team led by Siwei Lyu, a professor at the State University of New York at Albany, , and one of his students. “We generated about 50 fake videos and tried a bunch of traditional forensics methods. They worked on and off, but not very well,” Lyu says.
+
+Then, one afternoon, while studying several deepfakes, Lyu realized that the faces made using deepfakes rarely, if ever, blink. And when they do blink, the eye-movement is unnatural. This is because deepfakes are trained on still images, which tend to show a person with his or her eyes open.
+
+Others involved in the DARPA challenge are exploring similar tricks for automatically catching deepfakes: strange head movements, odd eye color, and so on. “We are working on exploiting these types of physiological signals that, for now at least, are difficult for deepfakes to mimic,” says Hany Farid, a leading digital forensics expert at Dartmouth College.
+
+DARPA’s Turek says the agency will run more contests “to ensure the technologies in development are able to detect the latest techniques."

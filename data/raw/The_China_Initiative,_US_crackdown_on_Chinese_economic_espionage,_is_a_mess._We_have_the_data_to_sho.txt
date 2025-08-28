@@ -1,0 +1,36 @@
+Title: The China Initiative, US crackdown on Chinese economic espionage, is a mess. We have the data to show it.
+URL: https://www.technologyreview.com/2021/12/02/1040656/china-initative-us-justice-department/
+
+Now, an investigation by MIT Technology Review shows that the China Initiative has strayed far from its initial mission. Instead of focusing on economic espionage and national security, the initiative now appears to be an umbrella term for cases with almost any connection to China, whether they involve state-sponsored hackers, smugglers, or, increasingly, academics accused of failing to disclose all ties to China on grant-related forms. To date, only about a quarter of defendants charged under the initiative have been convicted, and about half of those defendants with open charges have yet to see the inside of an American courtroom.
+
+Although the program has become a top priority of US law enforcement and domestic counterintelligence efforts—and an unusual one, as the first country-specific initiative—many details have remained murky. The DOJ has not publicly defined the initiative or answered many basic questions about it, making it difficult to understand, let alone assess or exercise oversight of it, according to many civil rights advocates, lawmakers, and scholars. While the threat of Chinese intellectual property theft is real, critics wonder if the China Initiative is the right way to counteract it.
+
+Today, after months of research and investigation, MIT Technology Review is publishing a searchable database of 77 cases and more than 150 defendants. While likely incomplete, the database represents the most comprehensive accounting of the China Initiative prosecutions to date.
+
+Our reporting and analysis showed that the climate of fear created by the prosecutions has already pushed some talented scientists to leave the United States and made it more difficult for others to enter or stay, endangering America’s ability to attract new talent in science and technology from China and around the world.
+
+Here’s what we found:
+
+The DOJ has neither officially defined the China Initiative nor explained what leads it to label a case as part of the initiative.
+
+The initiative’s focus increasingly has moved away from economic espionage and hacking cases to “research integrity” issues, such as failures to fully disclose foreign affiliations on forms.
+
+A significant number of research integrity cases have been dropped or dismissed.
+
+Only about a quarter of people and institutions charged under the China Initiative have been convicted.
+
+Many cases have little or no obvious connection to national security or the theft of trade secrets.
+
+Nearly 90% of the defendants charged under the initiative are of Chinese heritage.
+
+Although new activity appears to have slowed since Donald Trump lost the 2020 US presidential election, prosecutions and new cases continue under the Biden administration.
+
+The Department of Justice does not list all cases believed to be part of the China Initiative on its webpage and has deleted others linked to the project.
+
+Two days after MIT Technology Review requested comment from the DOJ regarding the initiative, the department made significant changes to its own list of cases.
+
+Lawmakers say our findings are “startling.”
+
+The Justice Department is “intentionally obtuse with us and will not address specific cases,” said Representative Judy Chu, a Democrat from California. “Whenever we ask for data, they usually don’t give it back to us. What you have are numbers, and it is startling to see what [they] are.”
+
+Two days after MIT Technology Review requested comment from the DOJ regarding the initiative, the department made significant changes to its own list of cases, adding some and deleting 39 defendants previously connected to the China Initiative from its website. This included several instances where the government had announced prosecutions with great fanfare, only for the cases to fail—including one that was dismissed by a judge after a mistrial.

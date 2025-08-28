@@ -1,0 +1,18 @@
+Title: Steam-powered spacecraft could jump-start asteroid exploration
+URL: https://www.technologyreview.com/2019/02/27/103362/steam-powered-spacecraft-could-jump-start-asteroid-exploration/
+
+After landing on an icy body such an asteroid, WINE will drill into the ice. It melts the water, captures it, and refreezes it inside the spacecraft’s tank, which takes up about a third of its volume. When it’s ready to prepare for takeoff, it heats the frozen water using solar or nuclear power over the course of about 10 days, building up pressure inside. Then, in a burst, the pressure is released as steam, firing the spacecraft to its next nearby destination. The concept is reminiscent of the ones proposed by asteroid-mining companies Deep Space Industries (DSI) and Planetary Resources. Grant Bonin, former chief engineer of DSI, once called its prototype Prospector-1 craft “a flying steam kettle.”
+
+Steam power is already proving to be an effective tool in Earth orbit. DSI had previously applied a technique known as water-based electrothermal propulsion (essentially steam power) to develop the Comet, a device that could maneuver satellites in orbit. Bradford Space, which purchased DSI, continues to sell it. On the recent ride-sharing SSO-A SmallSat Express launch last year, four of the satellites that hitched a ride were equipped with the water-propelled Comet. DSI’s former competitor Planetary Resources proposed a similar concept, hoping that the satellites could be refilled forever with fuel made of water mined from near-Earth asteroids, rather than ending their mission when they ran out of propellant.
+
+Comet propulsion system. Bradford Space
+
+Silicon Valley startup Momentus is also trying to push the in-orbit capabilities of water to the next level by turning it into plasma. They want to get higher performance out the water by superheating it to temperatures close to those found on the surface of the sun. The resulting force would be used to move satellites around the Earth. The company’s first space-based test of its electrothermal thruster is slated for this year.
+
+Metzger sees WINE operating in swarms around the asteroid belt, scouting out prime places for mining, or being used to extend the range of a planetary lander. “At the end of the day you would get an atlas of solar system bodies,” says Kris Zacny, the director of the Exploration Technology Group at Honeybee Robotics, which is working with UCF.
+
+Using steam in this way isn’t particularly efficient. In space, however, water can fill a specific niche. It’s environmentally friendly, offers the prospect of deep-space refills, and is proven here at home. “The biggest appeal of steam engines is their simplicity,” says Alison Dufresne, a space propulsion and systems engineer at Bradford Space. “Steam engines have been around for a long time. We know how they work.”
+
+In theory, as long as WINE has access to solar or nuclear power and water, it will be able to explore indefinitely. However, the steam thrust gives the craft only enough power to move in very low-gravity situations, meaning it won’t be rocketing from Jupiter to Mars anytime soon.
+
+The craft’s mining and propulsion system was successfully tested here on Earth last month. The tests showed that WINE can create enough force to hop between asteroids using water mined from model asteroid material. However, it’s still a long way off from an initial launch, although the team is looking for partners to make that happen. “We’ve been using steam for centuries,” says Zacny. “Without it we wouldn’t be here right now. So steam could be this first step to exploring space.”

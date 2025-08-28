@@ -1,0 +1,1 @@
+of doing more of this in real time. I think it has a great future. It ties into how we all benefit from Moore’s Law. It’s always useful to look over the next five or 10 years and say–we know that chips are going to get faster, cheaper, more dense. There’s going to be more addressable memory. So what does that mean? Realtime AI is one example of what it means.

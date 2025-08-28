@@ -1,0 +1,20 @@
+Title: An electric plane with no moving parts has made its first flight
+URL: https://www.technologyreview.com/2018/11/21/103758/an-electric-plane-with-no-moving-parts-has-made-its-first-flight/
+
+The inaugural flight was made possible by a process known as electroaerodynamic propulsion, an idea that has been around since the 1960s. The concept itself is a lot harder to visualize than a typical spinning propeller. It takes advantage of what’s known as ionic wind.
+
+Using very high voltages—in the plane’s case, 40,000 volts—the thruster generates ions in the air around two electrodes. The electric field created between these throws the ions from a smaller electrode over to a larger one. These ions collide with normal air molecules while traveling, creating the ionic wind and pushing the plane forward. Since the ions are moving between two stationary electrodes, no moving parts are required to power the plane.
+
+MIT
+
+So why haven’t we been using this technology in our planes all along? When it was conceived of in the 1960s, researchers came to the conclusion that it couldn’t create the level of thrust needed to sustain flight. When Steven Barrett, an MIT professor of aeronautics and astronautics, took a closer look at this research in 2009, he wasn’t deterred by those results. He saw untapped potential. “I was inspired by the science fiction ideas of planes and spacecraft,” says Barrett. “I thought about what physics could allow that.”
+
+Nine years—and many failures—later, Barrett and his group finally have a flying plane. Just about. Keep in mind, the test plane didn’t have anyone or anything riding onboard. At this point it can barely keep itself in the air, let alone cargo—and that’s with the tests taking place inside a wind-free gym and only lasting around 12 seconds.
+
+There’s still a long way to go before your LA-to-New York trip can be done without moving parts, but this was still a major aviation milestone. “Although it is still a long way off from commercial gas turbine propulsion … electroaerodynamic propulsion has the potential to be a game-changer for short-range, small-payload drone flights,” says Priyanka Dhopade, a researcher at the Oxford Thermofluids Institute.
+
+Even if this type of propulsion can’t get efficient enough for commercial aircraft, Barrett believes it could be used in conjunction with jet engines. He says that electroaerodynamic propulsion systems can be embedded in the skin of a plane and used to reenergize the air traveling along the aircraft. Currently, this air ends up behind the aircraft, moving slowly and dragging it back. The addition of the new propulsion systems could eliminate this drag and increase fuel efficiency.
+
+This is what the MIT team is planning to focus on next, in addition to optimizing the prototype craft. “We’ve only had a few years to develop this technology,” says Barrett. “Conventional propulsion has had 100 years, so we have some catching up to do. But I think we can.”
+
+Note: This story was amended to delete a reference to desktop fans using ionic wind—they do not.

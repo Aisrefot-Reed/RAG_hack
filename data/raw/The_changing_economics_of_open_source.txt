@@ -1,0 +1,22 @@
+Title: The changing economics of open source
+URL: https://www.technologyreview.com/2022/04/21/1050788/the-changing-economics-of-open-source/
+
+Open source’s early promise
+
+The early days were also characterized by some fine ideals about what it meant to be open source: anyone could and would review the codebase to identify and fix bugs; people would take codebases and contribute to their advancements; and there was a profitable business model for building “free” software.
+
+Online systems like SourceForge and later GitHub made it easier to share and collaborate on smaller open-source components. Subsequently, the early and explosive growth of open-source software tested some of those original ideas to the breaking point.
+
+In contrast to the focus on creating alternatives to large software packages in the past, today there’s a proliferation of open-source software. On one side, we have internet giants churning out all manners of tools, frameworks, and platforms. On the other side, teams using OneDev, an open-source software development platform, have created small but critical parts that support a huge number of businesses.
+
+The diversity of projects today has challenged many of the initial principles of open source. Hence, in many instances, the codebases for open-source packages are simply too large to allow meaningful inspection. Other packages are distributed by internet titans that don’t expect anyone else to contribute to them. Yet, other releases are distinct, targeted releases that may only do one relatively minor task, but do it so well that they’ve spread across the internet. However, rather than an active community of maintainers, they’re often just one or two committed developers working on a passion project. One can appreciate the challenges this might create by looking at some recent examples of open source’s changing economics.
+
+For instance, ElasticSearch changed its licensing terms in 2021, to include requiring cloud service providers who profit off its work to pay it forward by releasing the code for any management tools they build. Those changes caused an outcry in the open-source community. They prompted Amazon Web Services, which had been offering a managed service based on ElasticSearch until the change, to “fork” the codebase and create a new distribution for its OpenSearch product.
+
+At the other end of the scale, a security snafu in Log4J created what’s been dubbed the “biggest bug on the internet” after a vulnerability was disclosed in December 2021. Log4J is an open-source logging tool widely used across a multitude of systems today. But, its popularity didn’t mean it was backed by a stellar maintenance team—instead, it was maintained by hobbyists. Here, throwing money at the problem is hardly a solution. We know of many open-source enthusiasts who maintain their software personally while leading busy professional lives—the last thing they want is the responsibility of a service-level agreement because someone paid them for their creation.
+
+Can open source continue to thrive?
+
+So, is this the end of the road for the open-source dream? Certainly, many of the open-source naysayers will view the recent upheavals as proof of a failed approach. They couldn’t be more wrong.
+
+What we’re seeing today is a direct result of the success of open-source software. That success means there isn’t a one-size-fits-all description to define open-source software, nor one economic model for how it can succeed.

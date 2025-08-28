@@ -1,0 +1,22 @@
+Title: These exclusive satellite images show that Saudi Arabia’s sci-fi megacity is well underway
+URL: https://www.technologyreview.com/2022/12/09/1064544/satellite-images-line-megacity-google/
+
+Analysis of the satellite images by Soar Earth, an Australian startup that aggregates satellite imagery and crowdsourced maps into an online digital atlas, suggests that the workers have already excavated around 26 million cubic meters of earth and rock—78 times the volume of the world’s tallest building, the Burj Khalifa. Official drone footage of The Line’s construction site, released in October, indeed showed fleets of bulldozers, trucks, and diggers excavating its foundations. Visit The Line’s location on Google Maps and Google Earth, however, and you will see little more than bare rock and sand.
+
+The area of The Line, highlighted in yellow, shows numerous excavators in the area (red dots) moving earth to the areas in purple. Blue dots representing construction vehicles can be seen throughout the base for the construction workers. Arrays of solar panels have been shaded in green. SOAR
+
+The strange gap in imagery raises questions about who gets to access high-res satellite technology. And if the largest urban construction site on the planet doesn’t appear on Google Maps, what else can’t we see?
+
+The Line is as controversial as it is futuristic. Critics doubt the practical and environmental wisdom of building such a massive structure in the desert. And many of the technologies it is supposed to incorporate remain unproven, including cloud seeding, air taxis, domestic robot servants, and seawater desalination using renewable power. And part of the site has been home to the Huwaitat people, who have been evicted from the area to make way. One person protesting their displacement was allegedly shot dead by Saudi security forces, and three more recently received death sentences.
+
+Nevertheless, initial construction began in April 2022, and in June The Line’s parent company, Neom, awarded tunneling and blasting contracts for high-speed passenger and freight rail tunnels.
+
+It was when the drone footage of the early work was released that Amir Farhand, CEO and founder of Soar Earth, started wondering: Where were the high-resolution images of this half-trillion-dollar project?
+
+Google sources its satellite images from a range of providers, including governmental satellites like the US’s Landsat and the EU’s Sentinel 2, as well as commercial providers such as Maxar and Planet. While the lower-resolution Landsat and Sentinel 2 images were available to download, confirming that some construction activity was happening, at least one private company seemed to have stopped taking high-resolution pictures of The Line’s site sometime in March.
+
+A closer view of the main camp built to house the construction workers SOAR
+
+“When we started zooming in, we found that there were significant gaps in Maxar’s coverage,” says Farhand. “In fact, high-definition imagery was nonexistent publicly.”
+
+Soar then approached some of its users in the open-source intelligence community, who confirmed that they could not access detailed images of the area either. “It wasn’t just us having this problem. It was other people as well,” says Farhand. “That’s when we thought, something has to be up.”

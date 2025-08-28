@@ -1,0 +1,24 @@
+Title: Watch This $100 Drone Try to Do a Bumblebee’s Job
+URL: https://www.technologyreview.com/2017/02/09/243611/watch-this-100-drone-try-to-do-a-bumblebees-job/
+
+The latest effort comes from Japan, where investigators at the National Institute of Advanced Industrial Science, in Tsukuba, were looking for new uses for sticky substances called ionic liquid gels that have unusual physical properties.
+
+To make their pollinator, the team purchased $100 drones from Amazon and then added patches of horsehair to their undersides. After painting on the gels, which are moist and are about as sticky as a Post-It note, the drones were ready to grab and release pollen grains.
+
+As shown in the video above, the researchers flew the drones smack into the male and female parts of pink and white Japanese lilies. It’s the first time a drone has pollinated a flower, according to project leader Eijiro Miyako.
+
+The invention is still no replacement for the bumblebee. According to Joe Traynor, a “bee broker” in California, the almond industry in that state alone requires 1.8 million hives—containing around 35 billion bees—to pollinate 900,000 acres of almond trees that sprout three trillion flowers.
+
+“I don’t see any technology that could replace bees,” says Traynor.
+
+Nature’s pollination figures are staggering. Still, with fewer bees we may need alternatives, and fast. In some parts of China where bees have disappeared, fruit orchards are already being pollinated by hand by workers who climb trees with long brushes to touch every flower.
+
+The Japanese flower-swatting drone isn’t close to being as efficient as a person with a brush. For one thing, it’s flown using a remote control and “it’s impossible to replace bees with a manual drone,” Miyako notes. He says it was challenging to get a bull’s-eye even though a lily, with its extravagant, protruding sex organs, is the probably the easiest target in the whole plant kingdom.
+
+To create their artificial bee, Japanese scientists glued horsehair to the bottom of a $100 drone purchased from Amazon.com.
+
+The Japanese team isn’t the only one looking at artificial bees. The invention firm Intellectual Ventures, run by former Microsoft CSO Nathan Myhrvold, filed a patent application in 2015 for flying pollinators guided across a farm using a computerized flight plan. A team of Polish scientists last year produced videos of a hovering drone able to tickle plastic flowers with a brush.
+
+Miyako thinks “it will be perfectly feasible” to pollinate plants in the open with a drone, but only with the addition of high-resolution cameras, GPS, and maybe artificial intelligence, features that could be challenging to add to an ultra-small airborne robot.
+
+Bees are in decline due to causes not yet fully understood, although disease and farmland pesticides play a role. In January, the U.S. Fish & Wildlife Service for the first time put a bumblebee on the endangered species list, saying the once abundant rusty patched bumblebee is now in a “race against extinction.”

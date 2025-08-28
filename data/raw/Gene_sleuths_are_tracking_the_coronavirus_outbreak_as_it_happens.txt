@@ -1,0 +1,20 @@
+Title: Gene sleuths are tracking the coronavirus outbreak as it happens
+URL: https://www.technologyreview.com/2020/03/04/905512/gene-sleuths-are-tracking-the-coronavirus-outbreak-as-it-happens/
+
+And that’s where the virus’s evolutionary tree is useful, helping to trace the spread of the germ and detect where containment is and isn’t working.
+
+The genetic data shows that the virus entered Europe multiple times. It also now suggests that an outbreak in Munich in January, which researchers believed was caught early, might not have been successfully contained.
+
+Since February 1, about a fourth of new infections—in Mexico, Finland, Scotland, and Italy as well as the first case in Brazil—appeared genetically similar to the Munich cluster, says Trevor Bedford, a researcher at the Fred Hutchinson Cancer Research Center and one of the creators of Nextstrain.
+
+“Patient 1” of the Munich branch was a 33-year-old German businessman from Bavaria who became sick with a sore throat and chills on January 24. Investigators say before feeling ill he'd met with a Chinese business partner visiting from Shanghai, who herself later tested positive for the virus.
+
+Within four days, more employees of the company, Webasto, tested positive. Although the company closed its headquarters, it wasn’t enough. According to the genetic data, the Munich event could be linked to a decent part of the overall European outbreak, which includes more than 3,000 cases in Italy.
+
+“An extremely important take home message here is that just because a cluster has been identified and ‘contained’ doesn’t actually mean this case did not seed a transmission chain that went undetected until it grew to be [a] sizable outbreak,” Bedford posted to Twitter.
+
+That’s exactly what viral detectives think may have happened in Washington State in the US, where a first case was discovered nearly six weeks ago. In February, though, when they sequenced the virus from a new case, they found it shared a specific mutation with the first one.
+
+That meant the two were related and the virus had been silently spreading inside the US all along. Since then, Washington has reported 27 cases and nine deaths, including people who died earlier without being properly diagnosed.
+
+In the wake of the Washington outbreak, critics have blamed the US Centers for Disease Control and Prevention for limiting who could get tested, effectively blinding experts to the course of the outbreak.

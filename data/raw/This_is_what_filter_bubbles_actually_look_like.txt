@@ -1,0 +1,12 @@
+Title: This is what filter bubbles actually look like
+URL: https://www.technologyreview.com/2018/08/22/140661/this-is-what-filter-bubbles-actually-look-like/
+
+How Russian trolls exploit division
+
+The polarization seen in the diagrams above is fertile ground for misinformation operations such as the one Russia conducted to influence the 2016 US election.
+
+Instead of trying to force their messages into the mainstream, these adversaries target polarized communities and “embed” fake accounts within them. The false personas engage with real people in those communities to build credibility. Once their influence has been established, they can introduce new viewpoints and amplify divisive and inflammatory narratives that are already circulating. It’s the digital equivalent of moving to an isolated and tight-knit community, using its own language quirks and catering to its obsessions, running for mayor, and then using that position to influence national politics.
+
+The first of the two maps in the GIF image below shows the US political spectrum on the eve of the 2016 election. The second map highlights the followers of a 30-something American woman called Jenna Abrams, a following gained with her viral tweets about slavery, segregation, Donald Trump, and Kim Kardashian. Her far-right views endeared her to conservatives, and her entertaining shock tactics won her attention from several mainstream media outlets and got her into public spats with prominent people on Twitter, including a former US ambassador to Russia. Her following in the right-wing Twittersphere enabled her to influence the broader political conversation. In reality, she was one of many fake personas created by the infamous St. Petersburg troll farm known as the Internet Research Agency.
+
+The Iranian blogosphere

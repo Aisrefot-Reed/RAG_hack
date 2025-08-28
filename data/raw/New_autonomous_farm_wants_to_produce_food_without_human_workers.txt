@@ -1,0 +1,22 @@
+Title: New autonomous farm wants to produce food without human workers
+URL: https://www.technologyreview.com/2018/10/03/139937/new-autonomous-farm-wants-to-produce-food-without-human-workers/
+
+But it’s no ordinary farm. For starters, the company’s 15 human employees share their work space with robots who quietly go about the business of tending rows and rows of leafy greens.
+
+Today Iron Ox is opening its first production facility in San Carlos, near San Francisco. The 8,000-square-foot indoor hydroponic facility—which is attached to the startup’s offices—will be producing leafy greens at a rate of roughly 26,000 heads a year. That’s the production level of a typical outdoor farm that might be five times bigger. The opening is the next big step toward fulfilling the company’s grand vision: a fully autonomous farm where software and robotics fill the place of human agricultural workers, which are currently in short supply.
+
+Courtesy of Iron Ox
+
+Iron Ox isn’t selling any of the food it produces just yet (it is still in talks with a number of local restaurants and grocers). So for now, those tens of thousands of heads of lettuce are going to a local food bank and to the company salad bar. Its employees had better love eating lettuce.
+
+The farm’s non-lettuce-consuming staff consists of a series of robotic arms and movers. The arms individually pluck the plants from their hydroponic trays and transfer them to new trays as they increase in size, maximizing their health and output—a luxury most outdoor farms don’t have. Big white mechanical movers carry the 800-pound water-filled trays around the facility.
+
+Courtesy of Iron Ox
+
+At first, making sure these different machines worked together was tricky. “We had different robots doing different tasks, but they weren’t integrated together into a production environment,” says Alexander.
+
+So Iron Ox has developed software—nicknamed “The Brain”—to get them to collaborate. Like an all-seeing eye, it keeps watch over the farm, monitoring things like nitrogen levels, temperature, and robot location. It orchestrates both robot and human attention wherever it is needed.
+
+Yes, although most of the operation is automated, it still does require a bit of human input. Currently, workers help with seeding and processing of crops, but Alexander says he hopes to automate these steps.
+
+But why go to the trouble of automating farming at all?

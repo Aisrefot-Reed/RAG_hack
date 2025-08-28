@@ -1,0 +1,22 @@
+Title: How to regulate Big Tech without breaking it up
+URL: https://www.technologyreview.com/2019/06/07/135034/big-tech-monopoly-breakup-amazon-apple-facebook-google-regulation-policy/
+
+The core problem, Mayer-Schönberger says, isn’t that big companies are big per se, but that because innovation now depends on having so much data, smaller companies can’t keep up. He suggests that large companies be required to share anonymized data with less powerful competitors (read our interview with him this week for more on that idea). In Germany, for instance, big insurers already share some data with smaller ones. That way, startups have a chance too.
+
+Solution 2. Don’t let big tech platforms discriminate in favor of themselves
+
+Hal Singer, a senior fellow at the George Washington Institute of Public Policy, agrees that breakups could be inefficient, but unlike Mayer-Schönberger, he doesn’t care about data inequality. So what if Google dominates because all their data makes their products the best? “If they win these ancillary markets on the merits, that’s a good thing,” he says.
+
+So, says Singer, the problem isn’t that Google might get too good. Nor is it—as others, including Warren, have argued—that Google both hosts restaurant reviews as a platform and has its own reviews. That could be making things more efficient and lead to benefits. The problem, he says, is that Google edges out competitors like Yelp by giving its own reviews special treatment on its platform, even when they’re not as good.
+
+Singer proposes a nondiscrimination principle that would prevent this. This is how cable channels are already regulated. Other companies worried about favoritism when Comcast started making content, but Congress didn’t break up the conglomerate. “They said, ‘We’re going to let you have a foot in the content space, but you can’t use your platform to artificially give a leg up to your own affiliated properties,’” Singer says. Now, independent networks can bring complaints to a neutral arbitrator that is responsible for making sure everyone is treated fairly.
+
+Singer thinks this idea can apply to companies like Google and Amazon, too. The biggest concern is that tiny businesses won’t have power to take on the likes of Google, but he’s hopeful that if larger businesses sue—as in the case of the National Football League’s suit against Comcast, which was settled—norms will change to favor complaints from smaller brands.
+
+Solution 3: Stop tech companies from locking in their users
+
+Yet another camp focuses on how users get locked in by the network effect. If most people are already on Facebook, few will choose to leave for a new social network, partly because their friends won’t be there and partly because they can’t copy over the stuff they posted to Facebook. Advocates of “data portability” say that being able to move data from one platform to another could foster competition.
+
+Even better is “data interoperability,” which enables different services to work together—for instance, allowing Instagram users to post to Snapchat and vice versa. When AOL and Time Warner merged in 2001, the Federal Communications Commission forced AIM Instant Messenger to become compatible with other messaging systems to promote competition.
+
+Todd McKinnon, the CEO of identity-management company Okta, says governments or nonprofits should create a “digital identity wallet” that gives people more control over their personal information. “If the consumer truly owned the account and it was portable, it would lessen the lock-in to these services,” he says. Though having lots of social networks doesn’t necessarily guarantee that they’ll all respect users’ privacy, McKinnon believes that giving consumers more choice gives companies “more of a motivation to operate in ways that consumers prefer.”

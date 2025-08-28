@@ -1,0 +1,14 @@
+Title: Chameleon-inspired robot skin changes colors instantly
+URL: https://www.technologyreview.com/2021/08/10/1031511/chameleon-inspired-robot-changes-colors-instantly/
+
+“[Building] a first prototype was very slow,” says Hwan Ko. The first step was determining if the robot would be modeled after a vertebrate—an animal with a backbone—or an invertebrate, like a squid or an octopus. Since an invertebrate model could offer more freedom of movement, the team initially made plans to mimic the octopus, but Hwan Ko says that idea proved “too ambitious.”
+
+After fiddling with different designs and material structures, the team finally decided to tackle the simpler form of the chameleon itself. By shaping the nanowires into simple patterns composed of dots, lines, or scale shapes, they were able to create the complex effect shown in this video.
+
+Although previous research into artificial camouflage has often been tagged for military use, Hwan Ko hopes their work will have a wider impact, particularly in the fields of transportation, beauty, and fashion. Future applications could include cars that adapt their colors to stand out, and even color-changing cloth.
+
+“This chameleon skin, the surface, basically is a kind of display,” he says. “It can be used for a soft or stretchable or flexible display.”
+
+Because the technology is temperature-dependent, though, it doesn’t work as well in extreme cold, which can make it harder for the faux chameleon to realize the full spectrum of color.
+
+Ramses Martinez, an assistant professor at Purdue University who also studies bio-inspired robotics, says that translating other biologically inspired systems into new technologies could lead to more possibilities, including systems that help locate survivors after an earthquake.

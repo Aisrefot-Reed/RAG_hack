@@ -1,0 +1,20 @@
+Title: Ghost ships, crop circles, and soft gold: A GPS mystery in Shanghai
+URL: https://www.technologyreview.com/2019/11/15/131940/ghost-ships-crop-circles-and-soft-gold-a-gps-mystery-in-shanghai/
+
+In fact, something far more dangerous was happening, and the Manukai’s captain was unaware of it. Although the American ship’s GPS signals initially seemed to have just been jammed, both it and its neighbor had also been spoofed—their true position and speed replaced by false coordinates broadcast from the ground. This is serious, as 50% of all casualties at sea are linked to navigational mistakes that cause collisions or groundings.
+
+When mariners simply lose a GPS signal, they can fall back on paper charts, radar, and visual navigation. But if a ship’s GPS signal is spoofed, its captain—and any nearby vessels tracking it via AIS— will be told that the ship is somewhere else entirely. Nor did the attacks stop once the Manukai was safely at its dock. Several times that day, its AIS system reported that it was over three miles distant.
+
+Wikimedia Commons
+
+Half a world away from Shanghai, a tip landed on the Washington, DC, desk of a researcher at the Center for Advanced Defense Studies (C4ADS), a nonprofit that analyzes global conflict and security issues. The new tip, from a shipping industry source, suggested that somebody was spoofing GPS signals in Shanghai.
+
+This was the first time that C4ADS had heard of widespread maritime spoofing not obviously linked to the Russians. A few months earlier, the organization had published a report that detailed how Russia used GPS jamming in the Crimea, the Black Sea, Syria, Norway, and Finland. It also contained evidence that a Russian mobile electronic warfare team had been disrupting GPS signals during President Putin’s public appearances.
+
+After receiving the tip, C4ADS looked at the AIS data, which it purchased from a startup that records AIS broadcasts around the world. Analysts noticed that the attacks had actually started the previous summer, increasing as the months rolled on. The most intense interference was recorded on the very day in July that the Manukai’s captain reported difficulties, when a total of nearly 300 vessels had their locations spoofed. While the disruption was affecting ships right across Shanghai, most of those spoofed were vessels navigating the Huangpu River.
+
+And this was very different from the hacking seen in Russian waters, where vessels were all spoofed to a single point. The Shanghai data showed ships jumping every few minutes to different locations on rings on the eastern bank of the Huangpu. On a visualization of the data spanning days and weeks, the ships appeared to congregate in large circles.
+
+The C4ADS researchers had never seen circular patterns like this before. Perhaps bugs or malware in the ships’ AIS or GPS systems were causing the effect? To rule that out, they sought data from another form of transportation completely: cycling.
+
+China has about as many bicycles as the rest of the world combined, with nearly 10 million in Shanghai alone. Some of the city’s cyclists use smartphone fitness apps to track their rides. One in particular, Strava, shares a global heat map of anonymized activities from the previous two years. Zooming in to Shanghai, C4ADS analysts could see the same mysterious riverside circles glowing on Strava’s heat map. The spoofing attacks were affecting all GPS devices, not just those on ships.

@@ -1,0 +1,16 @@
+Title: How to Save Your Digital Soul
+URL: https://www.technologyreview.com/2017/05/25/105875/how-to-save-your-digital-soul/
+
+Of course it won’t really be you—or Beyoncé, or Michael Jackson, or whomever an Oben avatar depicts—but it could be a decent, potentially fun approximation that’s useful for all kinds of things. Maybe, like Jain, you want a virtual you to read stories to your kids when you can’t be there in person. Perhaps you’re a celebrity who wants to let fans do duets with your avatar on a mobile or virtual-reality app, or the estate of a dead celebrity who wants to continue to keep that person “alive” with avatar-based performances. The opportunities are endless—and, perhaps, endlessly eerie.
+
+Oben, based in Pasadena, California, has raised about $9 million so far. The company is planning to release an app late this year that lets people make their own personal avatar and share video clips of it with friends.
+
+Oben is also working with some as-yet-unnamed bands in Asia to make mobile-based avatars that will be able to sing duets with fans, and last month it announced it will launch a virtual-reality-enabled version of its avatar technology with the massively popular social app WeChat, for the HTC Vive headset.
+
+For now, producing the kind of avatar Jain showed me still takes a lot of time, and it doesn’t even include the body below the waist (Jain says the company is experimenting with animating other body parts, but mainly it’s “focusing on other things”). While the avatar can be made with just one photo and two to 20 minutes of reading from a phoneme-rich script (the more, the better), a good avatar still takes Oben’s deep-learning system about eight hours to create. This includes cleaning up the recorded audio, creating a voice print for the person that reflects qualities such as accent and timbre, and making the 3-D visual model (facial movements are predicted from the selfie and voice print, Jain says). While speaking sounds pretty good, the singing clips I heard sounded very Auto-Tuned.
+
+The avatars in the forthcoming app will be less focused on perfection but much faster to build, he says. Oben is also trying to figure out how to match speech and facial expressions so that the avatars can speak any language in a natural-looking way; for now, they’re limited to English and Chinese.
+
+If digital copies like Oben’s are any good, they will raise questions about what should happen to your digital self over time. If you die, should an existing avatar be retained? Is it disturbing if others use digital breadcrumbs you left behind to, in a sense, re-create your digital self, as this demo video Oben made a couple of years ago depicts?
+
+Jain isn’t sure what the right answer is, though he agrees that, like other companies that deal with user data, Oben does have to address death. And beyond big questions, there are potentially big business opportunities in that issue. The company’s business model is likely to be, in part, predicated on it: he says Oben has been approached by the estates of numerous celebrities, some of them long dead, some recently deceased.

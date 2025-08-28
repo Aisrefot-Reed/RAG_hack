@@ -1,0 +1,1 @@
+rated vehicle, DeepPIV illuminates one cross-section of the creature’s body at a time. “What we get is a video, and each video frame ends up as one of the images of our stack,” says Joost Daniels, an engineer in Katija’s lab who’s working to refine DeepPIV. “And once you’ve got a stack of images, it’s not much different from how people would analyze CT or MRI scans.”

@@ -1,0 +1,12 @@
+Title: If you did the Mannequin Challenge, you are now advancing robotics research
+URL: https://www.technologyreview.com/2019/06/26/134382/if-you-did-the-mannequin-challenge-you-are-now-advancing-robotics-research/
+
+The data: To approach this problem, a team at Google AI turned to an unexpected data set: thousands of YouTube videos of people performing the Mannequin Challenge. (If it happened to pass you by at the time, this involved standing as still as possible while someone moved around you, filming the pose from all angles.) These videos also happen to be a novel source of data for understanding the depth of a 2D image.
+
+The method: The researchers converted 2,000 of the videos into 2D images with high-resolution depth data and used them to train a neural network. It was then able to predict the depth of moving objects in a video at much higher accuracy than was possible with previous state-of-the-art methods. Last week, the researchers were awarded a best paper honorable mention at a major computer vision conference.
+
+Unknowing participants: The researchers also released their data set to support future research, meaning that thousands of people who participated in the Mannequin Challenge will unknowingly continue to contribute to the advancement of computer vision and robotics research. While that may come as an uncomfortable surprise to some, this is the rule in AI research rather than the exception.
+
+Many of the field’s most foundational data sets, including Fei-Fei Li’s ImageNet, which kicked off the deep-learning revolution, were compiled from publicly available data scraped from Twitter, Wikipedia, Flickr, and other sources. The practice is motivated by the immense amount of data required to train deep-learning algorithms and has only been exacerbated in recent years as researchers produce ever bigger models to achieve breakthrough results.
+
+Data privacy: As we have written before, this data-scraping practice is neither obviously good nor bad but calls into question the norms around consent in the industry. As data becomes increasingly commoditized and monetized, technologists should think about whether the way they’re using someone’s data aligns with the spirit of why it was originally generated and shared.

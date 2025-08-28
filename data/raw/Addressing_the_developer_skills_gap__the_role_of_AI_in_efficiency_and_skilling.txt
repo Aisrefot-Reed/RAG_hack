@@ -1,0 +1,40 @@
+Title: Addressing the developer skills gap: the role of AI in efficiency and skilling
+URL: https://venturebeat.com/ai/addressing-the-developer-skills-gap-the-role-of-ai-in-efficiency-and-skilling/
+
+Presented by SAP
+
+Businesses are facing a significant developer talent challenge on two fronts. On one hand, IDC reports an expected shortage of 4 million full-time developers in 2025. On the other, some prominent companies have announced a pause on developer hiring, indicating they believe AI will address many developer needs. In that regard, the question becomes whether today’s developers possess the right skills in an AI-first world.
+
+These challenges don’t just impact tech companies. Software is the backbone of every industry and every company. Without skilled developers in place, companies risk slowing their innovation and hindering their overall market growth.
+
+To combat the developer skills shortage, there are short-term and long-term solutions available. In the short term, many companies are betting on AI to quickly increase their developer efficiency and empower business users. AI-powered tools and platforms can accelerate learning by providing personalized training, offering real-time feedback, creating documentation and automating repetitive tasks. In the long term, businesses are investing in training the next generation of developers.
+
+Both solutions play a pivotal role in addressing the talent-gap of skilled developers.
+
+Code more efficiently with AI and empower your workforce
+
+AI enables developers of all skill levels to become more efficient. By automating repetitive, mundane tasks such as debugging errors and sample data generation, senior developers can focus their time on creative, higher-level problem solving. AI is a game changer for early-career developers, too, as it can offer code explanation, personalized learnings and hands-on experience without the pressure of overly complex environments.
+
+Companies can implement these types of AI features by adopting application development and automation solutions. SAP Build, for example, offers a comprehensive suite of low-code, code-first and generative AI tools on the SAP Business Technology Platform, which makes it easy for companies to accelerate application development, streamline their workflows and reduce costs. A recent GigaOm study reported that customers who use SAP Build increased their developer velocity by 3x and achieved a 59% reduction in development effort and resource requirements compared to using multiple developer tools for custom development.
+
+AI-powered capabilities uniquely understand development frameworks and leverage large language models (LLMs) specifically tailored for their workloads. This enables developers to deliver precise, contextualized outcomes and accelerate coding and code-first/no-code–based application development. For SAP Build, embedded features such as automated code generation and code optimization, means development teams finish projects in less than half the time.
+
+In addition to AI-powered tools, companies are equipping their business users with low-code capabilities to quickly create applications and extensions. In doing so, the people closest to the business can quickly innovate.
+
+Take thyssenkrupp AG for example. Their citizen developers utilized SAP Build to develop and launch a social media recruiting channel, aimed at attracting, recruiting and evaluating candidates for difficult-to-fill positions. This new administration cockpit application allowed HR teams to design and deploy custom survey questionnaires and manage workflows for different HR applications, leading to positive outcomes of improved candidate quality, time saved in the recruiting process and greater agility to adapt to evolving recruitment needs.
+
+Addressing the developer skills shortage
+
+A recent World Economic Forum report noted 44% of employees’ core skills are expected to change in the next five years. While AI continues to reshape industries and transform businesses, the need to train and upskill the next generation of developers remains evident. Organizations are considering how to drive reskilling and upskilling, data-driven decision-making and continuous learning at scale.
+
+With this goal in mind, AI-powered tools are revolutionizing how we learn and grow. Gone are the days of traditional classroom-based developer training methods. In its place — hands-on AI-platforms that can create customized learning paths, tailored to a developer’s skill level and progress, ensuring they receive the most relevant and effective training. Developers can learn best practices and avoid common mistakes in real time thanks to AI chatbots, predictive ghost-text coding suggestions and recommended improvements on code.
+
+At SAP, learners can make use of a vast offering of courses on our Learning site where learning journeys, like those for SAP Build, equip developers with tools for AI-enhanced application development, emphasizing productivity and innovation.
+
+With learning and AI tools for coding, companies can mitigate the impact of this shortage and ensure that every industry continues to thrive. Embracing AI-driven solutions will not only help bridge the gap but also pave the way for innovative breakthroughs and sustained growth.
+
+Michael Ameling is SAP’s chief product officer for Business Technology Platform
+
+sales@venturebeat.com.
+
+Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact

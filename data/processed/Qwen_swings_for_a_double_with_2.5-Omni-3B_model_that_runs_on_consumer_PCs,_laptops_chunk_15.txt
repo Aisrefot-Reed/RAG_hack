@@ -1,0 +1,1 @@
+ way to get closer to multimodal AI with fewer resources, but not yet a turnkey solution for production.

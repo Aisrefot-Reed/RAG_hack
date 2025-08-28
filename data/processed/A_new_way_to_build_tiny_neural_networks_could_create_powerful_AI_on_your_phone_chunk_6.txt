@@ -1,0 +1,1 @@
+e training, typically only a fraction of its connections remain strong, while the others end up pretty weak—so weak that you can actually delete, or “prune,” them without affecting the network’s performance.

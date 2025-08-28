@@ -1,0 +1,12 @@
+newspaper3k
+lxml[html_clean]
+lxml_html_clean
+requests
+beautifulsoup4
+fake-useragent
+tqdm
+pyyaml
+faiss-cpu
+sentence-transformers
+langchain
+openai

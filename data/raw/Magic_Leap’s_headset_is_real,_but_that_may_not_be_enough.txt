@@ -1,0 +1,20 @@
+Title: Magic Leap’s headset is real, but that may not be enough
+URL: https://www.technologyreview.com/2018/08/08/141125/magic-leaps-headset-is-real-but-that-may-not-be-enough/
+
+The company hopes developers and other creative types will start coming up with answers shortly. Because today Magic Leap will start selling its long-awaited first gadget, a pair of black, tinted, fly-eyed goggles called Magic Leap One.
+
+It’s not for everyone. You’ll first have to register as a developer—the company hopes a community of developers will emerge to build apps for the headset, as they do for smartphones—and shell out $2,295 (for comparison, Microsoft’s HoloLens headset, also still aimed at developers, costs $3,000 or $5,000). You also have to be at least 18, and able to have it delivered to you in one of several US cities where it will be initially available, such as New York or Seattle. If none of these hurdles stops you, you’ll receive the headset, a wearable computer that connects to it, and a one-handed controller. A rechargeable battery gives the whole system enough juice to work for up to three hours at a time.
+
+The ML One is the culmination of everything that CEO Rony Abovitz and the rest of his team have been working on since 2011. The company’s marketing, depicting things like a whale jumping out of a gym floor and a tiny elephant in a pair of cupped hands, envisioned a product so good at blending digital creations with the real world that it would kindle childlike wonder in users. The new headset represents a chance for Magic Leap to finally live up to the hype.
+
+The Magic Leap One headset connects to a small wearable computer, and works with a handheld controller. Alicia Vera
+
+The news is that in many ways, it does. When I went to visit the company last month, I placed a headset over my face and saw sea turtles flying around the room in which I stood, leaving tiny trails of bubbles in their wake and moving when I poked them. I shot a ray gun at nasty alien robots as they jumped through a portal in a wall. Overall, the visuals were crisp and vivid, and in some cases I was able to see several digital images, positioned at various depths, at the same time.
+
+It was way, way smaller and more portable than the early prototypes I saw back in late 2014 when I first visited the company. At that time, I looked through fixed lenses on a giant scaffolding-like device to see an impressively realistic blue monster. A cart-based (but still not portable) device let me view and poke at a tiny, steampunk-style flying robot. Even then, I was so impressed that MIT Technology Review included Magic Leap’s efforts—what it was then calling “cinematic reality”—in our 2015 list of 10 Breakthrough Technologies.
+
+That was one of the few views outsiders have gotten into the company up until now. It has raised more than $2.3 billion, and filed for hundreds of patents related to things like projecting digital images in the real world (dozens of them have been granted). Yet for most of that time Magic Leap has combined maddening secrecy with exaggerated marketing stunts, leading many developers and techie consumers to conclude that the company was little more than vaporware.
+
+In 2015, for instance, it released a YouTube video titled “Just another day in the office” that showed robots dropping into an office from a portal in the ceiling. The original description on YouTube stated it was “a game” the company was “playing around the office right now.” In fact, the clip was the same as or similar to one I had seen a few months earlier and had been told was simply a game trailer. (On YouTube, at least, where 4 million people have watched it, it has since been renamed “Original Concept Video”). Demos shot through ML One that the company showed off during a recent Twitch livestream, like a tiny rock-throwing monster, looked lame, and were mocked mercilessly.
+
+So when I was asked this summer to go back to Florida to try the ML One ahead of its release, I was prepared for secrecy, obfuscation, and pretty lame visuals. I got some of the first two, but I think ML One is likely the best AR headset out there right now.

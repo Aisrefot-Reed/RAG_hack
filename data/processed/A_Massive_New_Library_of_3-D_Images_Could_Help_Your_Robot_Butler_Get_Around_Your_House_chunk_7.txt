@@ -1,0 +1,1 @@
+ besides robotics and architecture, but says applications could emerge quickly. Srinivasa adds that others are using synthetic or virtual scenes to train machine-vision systems. “Although simulating real-life imagery is often unrealistic, as you can see from the CGI in movies, simulating depth is quite realistic,” he says.

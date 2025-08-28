@@ -1,0 +1,18 @@
+Title: A robot hand taught itself to solve a Rubik’s Cube after creating its own training regime
+URL: https://www.technologyreview.com/2019/10/15/75292/a-robot-hand-taught-itself-to-solve-a-rubiks-cube-after-creating-its-own-training-regime/
+
+In the latest paper, OpenAI takes this technique one step further. Previously, the researchers had to randomize the parameters in the environment by hand-picking which permutations they thought would lead to a better algorithm. Now the training system does this by itself. Each time the robot reaches a certain level of mastery in the existing environment, the simulator tweaks its own parameters to make the training conditions even harder.
+
+The result is an even more robust algorithm that can move at the precision required to rotate a Rubik’s cube in real life. Through testing, the researchers found that Dactyl also successfully solved the cube under various conditions that it hadn’t been trained on. For example, it was able to complete the task while wearing a rubber glove, while having a few fingers bound together, and while being prodded by a stuffed toy giraffe.
+
+General-purpose robots
+
+OpenAI believes the latest results provide strong evidence that their approach will unlock more general-purpose robots that can adapt in open-ended environments such as a home kitchen. “A Rubik’s cube is one of the most complicated rigid objects out there,” says Marcin Andrychowicz of OpenAI. “I think other objects won’t be much more complicated.”
+
+Though there are more complex tasks that involve more objects or deformable objects, he says, he feels confident that the lab’s method can train robots for all of them: “I think this approach is the approach to widespread adoption of robotics.”
+
+Both Berenson and Kaelbling, however, remain skeptical. “There can be an impression that there’s one unified theory or system, and now OpenAI’s just applying it to this task and that task,” Berenson says of the previous and current paper. “But that’s not what’s happening at all. These are isolated tasks. There are common components, but there’s also a huge amount of engineering here to make each new task work.”
+
+“That’s why I feel a little bit uncomfortable with the claims about this leading to general-purpose robots,” he says. “I see this as a very specific system meant for a specific application.”
+
+Part of the problem, Berenson believes, is reinforcement learning itself. By nature, the technique is designed to master one particular thing, with some flexibility for handling variations. But in the real world, the number of potential variations extends beyond what can reasonably be simulated. In a cleaning task, for example, you could have different kinds of mops, different kinds of spills, and different kinds of floors.

@@ -1,0 +1,1 @@
+. In the long term the Facebook AI team is also interested in developing more sophisticated conversational agents that can respond to visual cues as well as just words. One project is developing a system called Image Chat, for example, that can converse sensibly and with personality about the photos a user might send.

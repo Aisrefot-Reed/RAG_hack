@@ -1,0 +1,20 @@
+Title: 2020
+URL: https://www.technologyreview.com/10-breakthrough-technologies/2020/
+
+Novel drugs are being designed to treat unique genetic mutations.
+
+Here’s a definition of a hopeless case: a child with a fatal disease so exceedingly rare that not only is there no treatment, there’s not even anyone in a lab coat studying it. “Too rare to care,” goes the saying.
+
+That’s about to change, thanks to new classes of drugs that can be tailored to a person’s genes. If an extremely rare disease is caused by a specific DNA mistake—as several thousand are—there’s now at least a fighting chance for a genetic fix.
+
+One such case is that of Mila Makovec, a little girl suffering from a devastating illness caused by a unique genetic mutation, who got a drug manufactured just for her. Her case made the New England Journal of Medicine in October, after doctors moved from a readout of her genetic error to a treatment in just a year. They called the drug milasen, after her.
+
+The treatment hasn’t cured Mila. But it seems to have stabilized her condition: it has reduced her seizures, and she has begun to stand and walk with assistance.
+
+Mila’s treatment was possible because creating a gene medicine has never been faster or had a better chance of working. The new medicines might take the form of gene replacement, gene editing, or antisense (the type Mila received), a sort of molecular eraser, which erases or fixes erroneous genetic messages. What the treatments have in common is that they can be programmed, in digital fashion and with digital speed, to correct or compensate for inherited diseases, letter for DNA letter.
+
+How many stories like Mila’s are there? So far, just a handful.
+
+But more are on the way. Where researchers would have once seen obstacles and said “I’m sorry,” they now see solutions in DNA and think maybe they can help.
+
+The real challenge for “n-of-1” treatments (a reference to the number of people who get the drug) is that they defy just about every accepted notion of how pharmaceuticals should be developed, tested, and sold. Who will pay for these drugs when they help one person, but still take large teams to design and manufacture?

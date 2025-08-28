@@ -1,0 +1,8 @@
+Title: The only black hole we’ve ever seen has a shadow that wobbles
+URL: https://www.technologyreview.com/2020/09/23/1008740/black-hole-m87-image-shadow-crescent-shape-wobbles-event-horizon-telescope/
+
+First, the shadow diameter of the event horizon doesn’t change over time, which is exactly what Einstein’s theory of general relativity predicts for a supermassive black hole of M87*’s size. However, the second insight is that the bright crescent adorning this shadow is far from stable: it wobbles. There’s so much turbulent matter surrounding M87* that it makes sense the crescent would bug out and get fidgety. But the fact that we can watch it over time means we now have an established method for studying the physics of one of the most extreme kinds of environment in the entire universe.
+
+“We want to understand physics in the extreme conditions in the vicinity of a black hole and learn about how the black hole interacts with the matter in its immediate environment,” says Maciek Wielgus, an astronomer with the Harvard-Smithsonian Center for Astrophysics and the lead author of the new study. “Studying the dynamics of the crescent-like appearance of a black hole is a way to probe this fascinating environment.”
+
+Before the EHT, scientists didn’t have the sensitive tools needed to study the structural changes a black hole goes through. “It was like watching a movie with a 1-pixel resolution,” says Wielgus. “You see that the brightness is changing in time—clearly something is going on there—but good luck figuring out what the movie is about.”

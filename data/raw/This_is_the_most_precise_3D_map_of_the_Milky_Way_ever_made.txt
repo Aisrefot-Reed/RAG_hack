@@ -1,0 +1,6 @@
+Title: This is the most precise 3D map of the Milky Way ever made
+URL: https://www.technologyreview.com/2020/12/03/1013001/this-is-the-most-precise-3d-map-of-the-milky-way-ever-made/
+
+Data collected by the European Space Agency’s Gaia observatory has been used to create the most detailed 3D map of the galaxy ever made. The new data set could help scientists unravel many mysteries about the universe’s expansion and the solar system’s future.
+
+What is Gaia? Launched in 2013, the Gaia observatory is intended to observe as many of the galaxy’s stars as possible. It is designed to measure stellar positions, distances, motions, and brightness with more precision than any instrument before, with the goal of cataloguing approximately 1 billion objects. It is designed to observe each object about 70 times or so in order to track their motions and velocities over time, accurate enough to measure the width of a hair from 2,000 kilometers away.

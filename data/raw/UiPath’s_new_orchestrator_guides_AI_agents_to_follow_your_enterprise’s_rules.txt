@@ -1,0 +1,44 @@
+Title: UiPath’s new orchestrator guides AI agents to follow your enterprise’s rules
+URL: https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+By now, many enterprises have begun exploring AI agents and determining whether deploying them is a viable option for their business. But many still equate agents with something most companies have had for years: automation.
+
+Automation pioneer UiPath sees agents and orchestrating the entire ecosystem — a little differently.
+
+The company announced its new UiPath Platform for Agentic Automation. However, it made clear that agents are not a new version of robotic process automation (RPA); rather, they are another tool that enterprises can integrate with RPA to complete workflows.
+
+Daniel Dines, UiPath founder and CEO, told VentureBeat in an interview that agents cannot be fully automated as they are built today.
+
+“The big problem with LLMs today is that they are nondeterministic, so you cannot run them directly in an autonomous fashion,” Dines said. “If you look at most implementations of agents, these are actually chatbots. So we’re moving from chat in, chat out to an agent that is data in, action out, where we orchestrate between agents, humans and robots.”
+
+Key to UiPath’s offering is its AI orchestration layer, Maestro. It oversees the flow of information from agents to the human employee to the automation layer. UiPath described Maestro as a centralized supervisor who “automates, models and optimizes complex business processes” and monitors performance.
+
+Breaking down agents and automation
+
+Maestro takes user prompts and breaks down the process into manageable steps to complete it. Instead of allowing agents to access information indiscriminately, Dines said Maestro has three steps.
+
+First, the agent takes the prompt, analyzes it, and recommends how to complete the query. Next, a human user approves of the recommendation. Then, an RPA tool will execute on that recommendation, completing the request.
+
+Dines said Maestro makes the workflow more transparent and accountable because a human remains in the loop and a rules-based RPA finishes the task. For UiPath, separating agents that take in data to make a recommendation from the automation that acts upon that recommendation ensures enterprises don’t let agents have unfettered access to their entire system.
+
+“I think it’s a very powerful way for enterprises to adopt agents. And look, in many discussions with clients, I think they resonate very well because they are really concerned about the unlimited agency of agents,” Dines said.
+
+UiPath also integrates with the orchestration framework provider LangChain to offer open, multi-agent frameworks. The Platform for Agentic Automation also works with Anthropic and Microsoft frameworks, with UiPath being part of Google’s Agent-to-Agent protocol.
+
+Not every agent is automation
+
+Dines insists that thinking about agents as a complete stack solution, where the agents read the data and then take action,
+
+“Agents being nondeterministic in nature are transactional; they create effects on the underlying systems. No client I know will take risks on this,” Dines said. “Transactions should be 100% reliable, and only automations can offer this type of reliability. So our solution is the best of those worlds.”
+
+He added that “maybe in some future” agentic AI “will become more reliable, and some actions you can you can delegate to agents, but it should be a progression.”
+
+Others in the industry believe that agents are the next evolution of automation. In fact, the entire premise of agentic AI is to have a system that does things on the user’s behalf. A secondary goal for many is to have “ambient” agents, where AI agents run in the background, proactively act for the user and alert people to any changes that need their attention.
+
+UiPath, however, still needs to make a case that its approach to agents is more effective than all-in-one agent offerings and cuts through the hype surrounding agents that do everything for users.
+
+Companies like ServiceNow, Salesforce, Writer and Microsoft have all released agentic platforms aimed at enterprise users. Writer’s new platform relies on self-evolving models for autonomous agents.
+
+Enterprises also showed excitement around the idea that AI agents could streamline much of their work and automate many manual tasks in companies.

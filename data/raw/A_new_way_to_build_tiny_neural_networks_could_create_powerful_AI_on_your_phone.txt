@@ -1,0 +1,20 @@
+Title: A new way to build tiny neural networks could create powerful AI on your phone
+URL: https://www.technologyreview.com/2019/05/10/135426/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/
+
+Put another way, within every neural network exists a far smaller one that can be trained to achieve the same performance as its oversize parent. This isn’t just exciting news for AI researchers. The finding has the potential to unlock new applications—some of which we can’t yet fathom—that could improve our day-to-day lives. More on that later.
+
+But first, let’s dive into how neural networks work to understand why this is possible.
+
+A diagram of a neural network learning to recognize a lion. JEFF CLUNE/SCREENSHOT
+
+How neural networks work
+
+You may have seen neural networks depicted in diagrams like the one above: they’re composed of stacked layers of simple computational nodes that are connected in order to compute patterns in data.
+
+The connections are what’s important. Before a neural network is trained, these connections are assigned random values between 0 and 1 that represent their intensity. (This is called the “initialization” process.) During training, as the network is fed a series of, say, animal photos, it tweaks and tunes those intensities—sort of like the way your brain strengthens or weakens different neuron connections as you accumulate experience and knowledge. After training, the final connection intensities are then used in perpetuity to recognize animals in new photos.
+
+While the mechanics of neural networks are well understood, the reason they work the way they do has remained a mystery. Through lots of experimentation, however, researchers have observed two properties of neural networks that have proved useful.
+
+Observation #1. When a network is initialized before the training process, there’s always some likelihood that the randomly assigned connection strengths end up in an untrainable configuration. In other words, no matter how many animal photos you feed the neural network, it won’t achieve a decent performance, and you just have to reinitialize it to a new configuration. The larger the network (the more layers and nodes it has), the less likely that is. Whereas a tiny neural network may be trainable in only one of every five initializations, a larger network may be trainable in four of every five. Again, why this happens had been a mystery, but that’s why researchers typically use very large networks for their deep-learning tasks. They want to increase their chances of achieving a successful model.
+
+Observation #2. The consequence is that a neural network usually starts off bigger than it needs to be. Once it’s done training, typically only a fraction of its connections remain strong, while the others end up pretty weak—so weak that you can actually delete, or “prune,” them without affecting the network’s performance.

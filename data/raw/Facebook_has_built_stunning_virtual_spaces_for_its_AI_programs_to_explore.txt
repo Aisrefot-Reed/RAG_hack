@@ -1,0 +1,8 @@
+Title: Facebook has built stunning virtual spaces for its AI programs to explore
+URL: https://www.technologyreview.com/2019/06/14/134939/facebook-built-stunning-virtual-spaces-for-its-ai-programs-to-explore/
+
+Mirror world: The environments were created by mapping real offices and homes using a high-definition 3D camera rig. The researchers also developed new software to deal with reflections, which can easily confuse such scanning systems. Whereas other simulation engines run at around 50 to 100 frames per second, Facebook says AI Habitat runs at over 10,000 frames per second, which makes it possible to test AI agents rapidly.
+
+Home alone: These virtual spaces can be loaded into a new environment called AI Habitat, inside which AI programs can explore and learn. The algorithms will first be trained to recognize objects in different settings. But over time they should build some common-sense understanding about the conventions of the physical world—like the fact that tables typically support other objects.
+
+Uncommon sense: A lack of common sense is a glaring problem for today’s AI systems. Unlike a person, a chatbot or robot cannot rely on an understanding of the world—things like physics, logic, and social norms—to figure out the intent of an ambiguous command. The complexity and ambiguity of language makes this situation all too common.

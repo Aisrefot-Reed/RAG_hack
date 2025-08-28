@@ -1,0 +1,30 @@
+Title: How Facebook and Google fund global misinformation
+URL: https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/
+
+We found over 2,000 pages in both countries engaged in this clickbait-like behavior. (That could be an undercount, because not all Facebook pages are tracked by CrowdTangle.) Many have millions of followers and likely reach even more users. In his 2019 report, Allen found that 75% of users who were exposed to clickbait content from farms run in Macedonia and Kosovo had never followed any of the pages. Facebook’s content-recommendation system had instead pushed it into their news feeds.
+
+When MIT Technology Review sent Facebook a list of these pages and a detailed explanation of our methodology, Osborne called the analysis “flawed.” “While some Pages here may have been on our publisher lists, many of them didn’t actually monetize on Facebook,” he said.
+
+Indeed, these numbers do not indicate that all of these pages generated ad revenue. Instead, it is an estimate, based on data Facebook has made publicly available, of the number of pages associated with clickbait actors in Cambodia and Vietnam that Facebook has made eligible to monetize on the platform.
+
+Osborne also confirmed that more of the Cambodia-run clickbait-like pages we found had directly registered with one of Facebook’s monetization programs than we previously believed. In our analysis, we found 35% of the pages in our clusters had done so in the last two years. The other 65% would have indirectly generated ad revenue by heavily promoting content from the registered page to a wider audience. Osborne said that in fact about half of the pages we found, or roughly 150 more pages, had directly registered at one point with a monetization program, primarily Instant Articles.
+
+Shortly after we approached Facebook, operators of clickbait pages in Myanmar began complaining in online forums that their pages had been booted out of Instant Articles. Osborne declined to respond to our questions about the latest enforcement actions the company has taken.
+
+Facebook has continuously sought to weed these actors out of its programs. For example, only 30 of the Cambodia-run pages are still monetizing, Osborne said. But our data from Facebook’s publisher lists shows enforcement is often delayed and incomplete—clickbait pages can stay within monetization programs for hundreds of days before they are taken down. The same actors will also spin up new pages once their old ones have demonetized.
+
+Allen is now open-sourcing the code we used to encourage other independent researchers to refine and build on our work.
+
+Using the same methodology, we also found more than 400 foreign-run pages targeting predominantly US audiences in clusters that appeared in Facebook’s Publisher lists over the last two years. (We did not include pages from countries whose primary language is English.) The set includes a monetizing cluster run in part out of Macedonia aimed at women and the LGBTQ community. It has eight Facebook pages, including two verified ones with over 1.7 million and 1.5 million followers respectively, and posts content from five websites, each registered with Google AdSense and Audience Network. It also has three Instagram accounts, which monetize through gift shops and collaborations and by directing users to the same largely plagiarized websites. Admins of the Facebook pages and Instagram accounts did not respond to our requests for comment.
+
+The LGBT News and Women's Rights News pages on Facebook post identical content from five of its own affiliated sites monetizing with Instant Articles and Google AdSense, as well as from other news outlets that it appears to have paid partnerships with.
+
+Osborne said Facebook is now investigating the accounts after we brought them to the company’s attention. Choi said Google has removed AdSense ads from hundreds of pages on these sites in the past because of policy violations but that the sites themselves are still allowed to monetize based on the company’s regular reviews.
+
+While it’s possible that the Macedonians who run the pages do indeed care about US politics and about women’s and LGBTQ rights, the content is undeniably generating revenue. This means what they promote is most likely guided by what wins and loses with Facebook’s news feed algorithm.
+
+The activity of a single page or cluster of pages may not feel significant, says Camille François, a researcher at Columbia University who studies organized disinformation campaigns on social media. But when hundreds or thousands of actors are doing the same thing, amplifying the same content, and reaching millions of audience members, it can affect the public conversation. “What people see as the domestic conversation on a topic can actually be something completely different,” François says. “It’s a bunch of paid people pretending to not have any relationship with one another, optimizing what to post.”
+
+Osborne said Facebook has created several new policies and enforcement protocols in the last two years to address this issue, including penalizing pages run out of one country that behave as if they are local to another, as well as penalizing pages that build an audience on the basis of one topic and then pivot to another. But both Allen and Rio say the company’s actions have failed to close fundamental loopholes in the platform’s policies and designs—vulnerabilities that are fueling a global information crisis.
+
+“It’s affecting countries first and foremost outside the US but presents a massive risk to the US long term as well,” Rio says. “It’s going to affect pretty much anywhere in the world when there are heightened events like an election.”

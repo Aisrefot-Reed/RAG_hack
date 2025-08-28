@@ -1,0 +1,24 @@
+Title: Protecting your business in the age of ransomware
+URL: https://www.technologyreview.com/2022/02/07/1044537/protecting-your-business-in-the-age-of-ransomware/
+
+The GDPI survey uncovered that 64% of leaders are concerned they’ll experience a disruptive event, such as data loss or downtime, in the next year. With the frequency of ransomware attacks on the rise, all businesses should expect an attack. Whether or not you should be fearful depends on how prepared you are.
+
+A threat like no other
+
+Many cybersecurity threats are destructive, but few pack as big a punch as ransomware. Its profound effects stretch across your entire organization, halting operations, disrupting business-critical services, and sometimes even putting people at risk. These attacks are also among the costliest to mitigate.
+
+What makes ransomware unique, however, is its “in your face” style. You can discreetly mitigate other security incidents, but ransomware attacks have become so overt that your customers will most likely know about them. What would that do to your brand reputation and trust?
+
+The perfect crime
+
+For cybercriminals, ransomware is the perfect crime for the digital age. Not only does it have a low entry barrier, but it yields a greater return on investment than garden-variety cybercrime. Like a savvy entrepreneur, a threat actor goes where the best opportunities are—and today, that’s ransomware.
+
+A ransomware attack requires little technical skill, thanks to the availability of ransomware-as-a-service on the dark web marketplace. The ransomware operators don’t have to concern themselves with reconnaissance, gaining initial access or writing exploits. All these services, and plenty others, are available in abundance—complete with 24/7 customer service.
+
+On top of that, the attackers don’t have to go far to monetize. When you’re hit with ransomware, you become, in essence, an instant “customer” of theirs. They know you need your systems to be up and running as fast as possible, and you need to prevent the potential release of your data. They have your instant attention and the power—unless you have the means to defend yourself and recover your data.
+
+Defense starts with the basics
+
+To guard against ransomware, you have to start with the basics. First, implement the NIST Cybersecurity Framework (or a similar framework designed for your industry). Once you have the essential pieces in place—patching, antivirus, security awareness, and so on—you can build to the more sophisticated defenses, such as zero-trust and identity and access management.
+
+Regardless of what other defenses you have in place, one of the most critical steps in fighting a ransomware infection is data backup. The more robust your backup plan, the less power and hold the attackers will have over you.

@@ -1,0 +1,1 @@
+rs could try to guess whether their teammate is a human or a machine.

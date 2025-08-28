@@ -1,0 +1,16 @@
+Title: The internet is taking over a person’s life for Halloween. And you can be a part of it.
+URL: https://www.technologyreview.com/2018/10/31/139263/the-internet-is-taking-over-a-persons-life-for-halloween-and-you-can-be-a-part-of-it/
+
+The MIT team created an interface where people can see and hear what the actor is doing and seeing, as well as suggest the next actions to take. The researchers estimate that the experiment, which will move east to west across MIT’s campus, will take about two hours. That is, if people stay on track.
+
+“One of the features of intelligent behavior is the ability to make long-term plans,” says Niccolo Pescetelli, one of the researchers leading the project. “Right now we don’t have any evidence crowds can do that. The planning is lacking, since there is no central control. We are pushing the limits in that direction.”
+
+But it’s not just about completing the route as quickly as possible. For the researchers, success will be seeing how the participants push the bounds of the challenge. During tests using 10 to 15 people, the crowd approached strangers, random bystanders tried to help the actor with directions across campus, and the group entered into conversations that took an awkwardly long time. Pescetelli says that this time, as soon as one command is completed, another will be loaded up ready for the actor to execute.
+
+So what’s the point, apart from a bit of spooky Halloween fun?
+
+Tests of digital crowdsourcing are nothing new. In 2014, thousands of people used the game-streaming service Twitch to play the video game Pokémon Red en masse using crowdsourced commands. And past projects by the Scalable Cooperation group at the Media Lab have explored similar ideas, such as how groups can write horror stories collaboratively.
+
+But the experiment tonight will push internet cooperation to the next level, requiring quick suggestions and voting that will guide what is happening in the real world. The hope is that it will give insight into how real crowds work together, and provide clues as to how such systems can be used in more serious situations. “When there is a time-critical task like an election or a rally, things can be unpredictable,” says Manuel Cebrian, the group’s leader. “In a way, we wanted to reflect on that.”
+
+If you want to become a part of the internet hive mind, you can tune into the stream tonight at 11.

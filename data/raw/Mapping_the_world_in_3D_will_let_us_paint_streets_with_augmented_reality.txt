@@ -1,0 +1,24 @@
+Title: Mapping the world in 3D will let us paint streets with augmented reality
+URL: https://www.technologyreview.com/2019/04/17/239303/mapping-the-world-in-3d-will-let-us-paint-streets-with-augmented-reality/
+
+London-based startup Scape reckons that’s what it can provide. The firm’s visual positioning service uses GPS and multiple camera images to work out exactly where you are within two or three seconds, according to cofounder Edward Miller. It has collected over two billion street images to precisely 3D-map more than 100 cities around the world, including London, San Francisco, Paris, Moscow, and Tokyo. Some of the data was collected by employees cycling around the cities with cameras attached to their bicycles, but Scape’s platform can process images from any source.
+
+Scape
+
+In use, Scape’s algorithms extract “points of interest” (like street signs, storefronts, or lampposts) from any image in order to compare it with the billions already in its database. Its system then uses triangulation to deduce the angle and distance from which the object was observed, returning its precise location to the end user. This kind of accuracy will anchor AR to the world better than is possible with GPS or other technologies—making it far more impressive and versatile.
+
+“Scape is about taking this to the next level. It’s about expanding this capability out to an entire living, breathing city,” Miller says.
+
+Scape
+
+There are some exciting applications of AR already, mostly within the entertainment world: just a few days ago Snapchat celebrated the launch of the latest season of Game of Thrones by unleashing virtual dragons in New York. But many commercial companies also want AR products that are locked in a specific place for customers as they walk through a city. Relying on GPS to do this doesn’t really work too well at the moment (beyond games like Pokémon Go).
+
+“Using existing location technologies, you can navigate through a city with an accuracy of a few meters. This is okay, but for augmented reality, you’ll need a completely different level of precision,” says Krystian Mikolajczyk, a computer vision expert at Imperial University.
+
+Of course, this kind of accuracy won’t just be a boon for AR applications. The challenge of how to make machines understand their surroundings is one that lots of companies are grappling with.
+
+For example, Waymo packs its cars with GPS, lidar, cameras, and radar sensors to help them navigate autonomously. Starship Technologies, which provides robot delivery services, uses a similar approach. The difference here is the level of precision—and the fact that Scape is doing it purely using cameras, which are significantly cheaper than lidar and other laser technologies. Its platform also differs from others in generating maps that can cope with changes to the environment, which is crucial for creating one unified version of the world for both people and computers. This will be important for letting humans collect robot or drone deliveries, for example.
+
+Scape wants to use its location services to become the underlying infrastructure upon which driverless cars, robotics, and augmented-reality services sit.
+
+“Our end goal is a one-to-one map of the world covering everything,” says Miller. “Our ambition is to be as invisible as GPS is today.”

@@ -1,0 +1,22 @@
+Title: How CRISPR could help save crops from devastation caused by pests
+URL: https://www.technologyreview.com/2023/02/02/1067679/crispr-crops-pests/
+
+Less than a decade after it was first identified in California, an invasive insect called the glassy-winged sharpshooter had turned the bacterium that causes Pierce’s from a nuisance to a nightmare. The oblong bug, with wings like red-tinged stained glass, is quicker and flies further afield than sharpshooters native to the state, and it can feed on tougher grapevines. Its arrival, which the state suspects was in the late ‘80s, supercharged the spread of the disease.
+
+An adult glassy-winged sharpshooter, Homalodisca vitripennis. RODRIGO KRUGNER/USDA-ARS
+
+Through inspections and targeted pesticide spraying, the state has largely been able to confine the invasive sharpshooter to Southern California. But the disease still has no cure, and it’s at risk of getting worse and harder to combat due to climate change.
+
+Researchers are now looking to add cutting-edge technology to California’s anti-Pierce’s arsenal, by changing the genome of the glassy-winged sharpshooter so that it can no longer spread the bacterium.
+
+Such a solution is possible thanks to CRISPR gene-editing technology, which has made modifying the genes of any organism increasingly simple. The technique has been used in experiments in cancer immunotherapy, apple breeding, and—controversially—human embryos. Now a growing number of researchers are applying it to agricultural pests, aiming to control a range of insects that together destroy about 40% of global crop production each year. If successful, these efforts could reduce reliance on insecticides and provide an alternative to genetic modifications to crops.
+
+For now, these gene-edited insects are shut away in labs across the globe, but that is poised to change. This year, a US company expects to start greenhouse tests in conjunction with the US Department of Agriculture (USDA) of fruit-damaging insects made sterile using CRISPR. At the same time, scientists at government and private institutions are beginning to learn more about pest genetics and to make edits in more species.
+
+The use of gene-edited organisms remains controversial, and edited agricultural pests haven’t been approved for widespread release in the US yet. A potentially lengthy and still-evolving regulatory process awaits. But scientists say CRISPR has ushered in a critical moment for the use of gene edits in insects that impact agriculture, with more discoveries on the horizon.
+
+“Until CRISPR, the technology simply wasn’t there,” says Peter Atkinson, an entomologist at the University of California, Riverside, who is working on modifying the sharpshooter. “We’re entering this new age where genetic control can be realistically contemplated.”
+
+Know your enemy
+
+Scientists didn’t know much about the genetics of the glassy-winged sharpshooter until recently. The first draft of its genome was mapped out in 2016, by a group at the USDA and Baylor College of Medicine, in Texas. But the map had gaps. In 2021, researchers at UC Riverside, including Atkinson, filled in many of them to produce a more complete version.

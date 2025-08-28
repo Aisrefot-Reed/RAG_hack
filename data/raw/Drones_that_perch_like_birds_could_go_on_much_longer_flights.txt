@@ -1,0 +1,14 @@
+Title: Drones that perch like birds could go on much longer flights
+URL: https://www.technologyreview.com/2019/03/13/136633/drones-that-perch-like-birds-could-go-on-much-longer-flights/
+
+“Perching and resting can provide lower power consumption, better stability, and larger view ranges in many cases,” says Yale University’s Kaiyu Hang, lead author of a paper published in Science Robotics today. He says this strategy would be very useful for so-called perch-and-stare applications, where drones sit up high and make long-term observations.
+
+Drone perching has been explored before, but it has often required complicated maneuvering. The new drone has a gripper that lets it grab onto anything smaller than its opening width, like branches, signs, or lights. The team outfitted the drone with three controllable fingers tipped with “contact modules” (attachments that serve as the connecting point to objects) that let it mimic the perching styles of different animals, such as bats or birds of prey.
+
+Original image: Yale university/Hong Kong University of Science and Technology/RPL, KTH Royal Institute of Technology/Orebro University/University of Hong Kong
+
+For example, by hooking one of its sides onto an edge, the drone can switch off two propellers, using about 45% less energy. It can also grasp a rod to hang upside down like a bat, allowing all the rotors to be shut off. Or it can even rest on a stick, which—although the propellers would need to stay on—uses about 69% less energy than hovering.
+
+Giving drones grip can also enable greater lifting strength and safer interactions with humans. “Once an unmanned aerial vehicle (UAV) is perched, it will be able to lift dramatically larger loads without requiring any power from the rotors,” says Hang.
+
+Next up for the team is equipping these drones for real-life conditions, like weather outdoors. If these drones can consistently get their footing, they could be in for some marathon flights ahead. With a few breaks thrown in, of course.

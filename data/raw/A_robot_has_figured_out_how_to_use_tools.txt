@@ -1,0 +1,20 @@
+Title: A robot has figured out how to use tools
+URL: https://www.technologyreview.com/2019/04/11/65893/a-robot-has-figured-out-how-to-use-tools/
+
+Chelsea Finn, a researcher at Google Brain, and Sergey Levine, an assistant professor at UC Berkeley, developed the robotic system together with several of Levine’s students. (Finn and Levine were named Innovators Under 35 by MIT Technology Review in 2018 and 2016, respectively.)
+
+The setup consists of an off-the-shelf robot arm that can be controlled by a person or a computer. It also includes a camera that sees the environment within reach of the arm—and, most important, a computer running a very large neural network that lets the robot learn.
+
+The robot worked out how to make use of simple implements, including a dustpan and broom and a duster, to move other objects around. The work hints at how robots might someday learn to perform sophisticated manipulations, and solve abstract problems, for themselves. “It’s exciting because it means the robot can figure out what to do with a tool in situations it hasn’t seen before,” Finn says. “We really want to study that sort of generality, rather than a robot learning to use one tool.”
+
+The researchers have previously shown how a robot can learn to move objects without explicit instruction. By observing and experimenting, the robot develops a simple model of cause and effect (“Push an object this way, and it’ll end up over there”). The new robot learns in a similar way, but it builds a more complex model of the physical world (“Moving this item can move those other items over there”).
+
+The robotic system learns in several ways. To get a basic understanding of cause and effect, it experiments with objects on its own, nudging them around to see the results. It is also fed data from lots of previous robot learning. Throughout, a recurrent neural network learns to predict what will happen in a scene if the robot takes a particular action.
+
+To master tool use, the robot also observes human behavior. Combining its lessons from the two types of learning then lets the robot determine how to use an object in a new situation.
+
+Annie Xie, an undergraduate student at UC Berkeley involved with the project, writes about the work in a related blog post: “With a mix of demonstration data and unsupervised experience, a robot can use novel objects as tools and even improvise tools in the absence of traditional ones.”
+
+Levine, a leading researcher in robotic learning, says he was surprised by the robot’s ability to improvise. In one case, for example, the robot decided that a water bottle, because of its shape and size, could be used to sweep objects across a surface.
+
+“When you show it things that aren’t actually tools, it could come up with ways to use them that were a little bit surprising,” Levine says.

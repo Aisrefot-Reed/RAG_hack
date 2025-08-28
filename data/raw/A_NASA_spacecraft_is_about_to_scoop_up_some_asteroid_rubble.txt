@@ -1,0 +1,34 @@
+Title: A NASA spacecraft is about to scoop up some asteroid rubble
+URL: https://www.technologyreview.com/2020/10/14/1010397/nasa-spacecraft-osiris-rex-scoop-up-asteroid-rubble-sample-return-bennu/
+
+2,500 feet above the surface—4.5 hours from touchdown
+
+The spacecraft begins a maneuver to depart orbit and transit toward Nightingale. Shortly after it leaves orbit, the TAGSAM arm is deployed, the spacecraft rotates into the proper orientation, and the navigation camera that enables the NFT system is redirected toward Bennu’s surface. From here, the NFT will be working to constantly determine OSIRIS-REx’s position and ensure its safety relative to a map of hazards on the surface.
+
+410 feet—20 minutes from touchdown
+
+The spacecraft’s solar arrays are folded into a “Y-wing” position. OSIRIS-REx fires its thrusters to perform a “checkpoint burn,” which ensures that the spacecraft is heading toward Nightingale.
+
+177 feet—10 minutes from touchdown
+
+Thrusters fire again for the “matchpoint burn” to match the spacecraft’s speed with the asteroid’s rotation. This sets up the precise contact and velocity for the touchdown, and the spacecraft is essentially in a free-fall descent to the surface.
+
+16 feet
+
+This is the final benchmark before the actual sample collection occurs. If the NFT thinks the TAGSAM arm is coming down on something dangerous flagged by the hazard map, it will automatically execute an abort burn that moves the spacecraft up and away from the surface. Billett says there’s about a 5.8% chance this might happen. Otherwise, it keeps heading down.
+
+Touchdown
+
+TAGSAM will make brief and very gentle contact with the surface for five to 10 seconds. During that time, the nitrogen gas bottle fires, and sample collection gets under way. Once it’s over, the thrusters will fire again and the spacecraft will head out to a safe distance from the asteroid.
+
+An animation of the sample collection by TAGSAM in the low-gravity environment of Bennu.
+
+The aftermath
+
+The goal is for the TAGSAM head to pick up at least 60 grams of material (although it could potentially acquire as much as two kilograms). The team will run a series of experiments over the next week or so to verify if this has been achieved. It’ll start with visual evidence of the TAGSAM head from one of the onboard cameras. Then the team will measure the mass of the sample inside the TAGSAM head. You can’t really weigh things in the microgravity field of Bennu (a millionth the gravity at Earth’s surface), so this will focus on observing the spacecraft’s spin (which should change with added mass). If the team thinks a sufficient sample has been collected, it will be stowed in the sample return capsule.
+
+But there’s actually a 30% chance OSIRIS-REx fails to pick up enough material. TAGSAM has two more nitrogen gas bottles for two more collection attempts. Because Nightingale will already have been disturbed by the first touchdown, a second attempt would most likely occur in January at a site called Osprey. That means we could potentially get samples from two different sites on Bennu—and it would be up to researchers on Earth to disentangle everything and figure out what originated from where.
+
+That might seem like a hassle, but it would be a small price to pay to get some rubble from a rock 200 million miles away. Either way, OSIRIS-REx would be scheduled to leave Bennu later in 2021, and deliver the collected samples back home on September 24, 2023.
+
+Correction 10/14: the initial version of the story stated that NFT was developed by Lockheed Martin for the US Army. NFT was developed as part of internal research and development by the company, not for the US military.

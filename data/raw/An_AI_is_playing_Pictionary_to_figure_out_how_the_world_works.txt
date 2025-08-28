@@ -1,0 +1,20 @@
+Title: An AI is playing Pictionary to figure out how the world works
+URL: https://www.technologyreview.com/2019/02/05/137586/an-ai-is-playing-pictionary-to-figure-out-how-the-world-works/
+
+Researchers at the Allen Institute for AI (Ai2) believe that Pictionary could push machine intelligence beyond its current limits. To that end, they have devised an online version of the game that pairs a human player with an AI program.
+
+In case you’ve never played it before, Pictionary involves trying to draw an image that conveys a written word or phrase for your teammates to guess. This tests a person’s drawing skills but also the ability to convey complex meaning using simple concepts. Given the phrase “wedding ring,” for example, a player might try to draw the object itself but also a bride and groom or a wedding ceremony.
+
+“You’ve got to use a lot of sophisticated reasoning,” says Ali Farhadi, the lead research on the Ai2 project. “It actually teaches common sense.”
+
+That makes it the perfect vehicle to help teach machines. The team developed an online version of the game, called Iconary, that pairs a user with an AI bot called AllenAI. Both take turns as the artist and the guesser. Playing as artist, a user is given a phrase and then has to sketch things to convey it. The sketches are first turned into clip-art icons using computer vision; then the computer program tries to guess the phrase using a database of words and concepts and the relationship between them. If the program gets only part of the phrase, it will ask for another image to clarify.
+
+Given the phrase “turning a page,” for instance, a player could try drawing a book, a hand, and a curved arrow. In that particular case, the AllenAI program guesses correctly after just a couple of tries.
+
+The AI program uses a combination of AI techniques to draw and guess. Over time, by playing against enough people, AllenAI should learn from their common-sense understanding of how concepts (like “books” and “pages”) go together in everyday life, Fahadi says. It will also help the researchers explore ways for humans and machines to communicate and collaborate more effectively.
+
+In total there are 1,200 icons, 75,000 possible phrases, and a vocabulary of 20,000 words. And there are two modes: easy and hard. The plan is to create a leaderboard to bring out people’s competitive spirit—and help accelerate the AI's learning.
+
+Fahadi says Iconary is a better measure of AI smarts than Go or chess because it requires much broader intelligence. “Games have been a successful platform for testing AI,” he says, “but intelligence is more than pattern matching.”
+
+Eventually, he says, it could be used as a new kind of Turing test—players could try to guess whether their teammate is a human or a machine.

@@ -1,0 +1,79 @@
+Title: Breaking the ‘intellectual bottleneck’: How AI is computing the previously uncomputable in healthcare
+URL: https://venturebeat.com/ai/breaking-the-intellectual-bottleneck-how-ai-is-computing-the-previously-uncomputible-in-healthcare/
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+Whenever a patient gets a CT scan at the University of Texas Medical Branch (UTMB), the resulting images are automatically sent off to the cardiology department, analyzed by AI and assigned a cardiac risk score.
+
+In just a few months, thanks to a simple algorithm, AI has flagged several patients at high cardiovascular risk. The CT scan doesn’t have to be related to the heart; the patient doesn’t have to have heart problems. Every scan automatically triggers an evaluation.
+
+It is straightforward preventative care enabled by AI, allowing the medical facility to finally start utilizing their vast amounts of data.
+
+“The data is just sitting out there,” Peter McCaffrey, UTMB’s chief AI officer, told VentureBeat. “What I love about this is that AI doesn’t have to do anything superhuman. It’s performing a low intellect task, but at very high volume, and that still provides a lot of value, because we’re constantly finding things that we miss.”
+
+He acknowledged, “We know we miss stuff. Before, we just didn’t have the tools to go back and find it.”
+
+How AI helps UTMB determine cardiovascular risk
+
+Like many healthcare facilities, UTMB is applying AI across a number of areas. One of its first use cases is cardiac risk screening. Models have been trained to scan for incidental coronary artery calcification (iCAC), a strong predictor of cardiovascular risk. The goal is to identify patients susceptible to heart disease who may have otherwise been overlooked because they exhibit no obvious symptoms, McCaffrey explained.
+
+Through the screening program, every CT scan completed at the facility is automatically analyzed using AI to detect coronary calcification. The scan doesn’t have to have anything to do with cardiology; it could be ordered due to a spinal fracture or an abnormal lung nodule.
+
+The scans are fed into an image-based convolutional neural network (CNN) that calculates an Agatston score, which represents the accumulation of plaque in the patient’s arteries. Typically, this would be calculated by a human radiologist, McCaffrey explained.
+
+From there, the AI allocates patients with an iCAC score at or above 100 into three ‘risk tiers’ based on additional information (such as whether they are on a statin or have ever had a visit with a cardiologist). McCaffrey explained that this assignment is rules-based and can draw from discrete values within the electronic health record (EHR), or the AI can determine values by processing free text such as clinical visit notes using GPT-4o.
+
+Patients flagged with a score of 100 or more, with no known history of cardiology visitation or therapy, are automatically sent digital messages. The system also sends a note to their primary physician. Patients identified as having more severe iCAC scores of 300 or higher also receive a phone call.
+
+McCaffrey explained that almost everything is automated, except for the phone call; however, the facility is actively piloting tools in the hopes of also automating voice calls. The only area where humans are in the loop is in confirming the AI-derived calcium score and the risk tier before proceeding with automated notification.
+
+Since launching the program in late 2024, the medical facility has evaluated approximately 450 scans per month, with five to ten of these cases being identified as high-risk each month, requiring intervention, McCaffrey reported.
+
+“The gist here is no one has to suspect you have this disease, no one has to order the study for this disease,” he noted.
+
+Giving physicians the few extra minutes that matter
+
+Another critical use case for AI is in the detection of stroke and pulmonary embolism. UTMB uses specialized algorithms that have been trained to spot specific symptoms and flag care teams within seconds of imaging to accelerate treatment.
+
+Like with the iCAC scoring tool, CNNs, respectively trained for stroke and pulmonary embolisms, automatically receive CT scans and look for indicators such as obstructed blood flows or abrupt blood vessel cutoff.
+
+“Human radiologists can detect these visual characteristics, but here the detection is automated and happens in mere seconds,” said McCaffrey.
+
+Any CT ordered “under suspicion” of stroke or pulmonary embolism is automatically sent to the AI — for instance, a clinician in the ER may identify facial droop or slurring and issue a “CT stroke” order, triggering the algorithm.
+
+Both algorithms include a messaging application that notifies the entire care team as soon as a finding is made. This will include a screenshot of the image with a crosshair over the location of the lesion.
+
+“These are particular emergency use cases where how quickly you initiate treatment matters,” said McCaffrey. “We’ve seen cases where we’re able to gain several minutes of intervention because we had a quicker heads up from AI.”
+
+Reducing hallucinations, anchoring bias
+
+To ensure models perform as optimally as possible, UTMB profiles them for sensitivity, specificity, F-1 score, bias and other factors both pre-deployment and recurrently post-deployment.
+
+So, for example, the iCAC algorithm is validated pre-deployment by running the model on a balanced set of CT scans while radiologists manually score — then the two are compared. In post-deployment review, meanwhile, radiologists are given a random subset of AI-scored CT scans and perform a full iCAC measurement that is blinded to the AI score. McCaffrey explained that this allows his team to calculate model error recurrently and also detect potential bias (which would be seen as a shift in the magnitude and/or directionality of error).
+
+To help prevent anchoring bias — where AI and humans rely too heavily on the first piece of information they encounter, thereby missing important details when making a decision — UTMB employs a “peer learning” technique. A random subset of radiology exams are chosen, shuffled, anonymized and distributed to different radiologists, and their answers are compared.
+
+This not only helps to rate individual radiologist performance, but also detects whether the rate of missed findings was higher in studies in which AI was used to specifically highlight particular anomalies (thus leading to anchoring bias).
+
+For instance, if AI were used to identify and flag bone fractures on an X-Ray, the team would look at whether studies with flags for bone fractures also had increased miss rates for other factors such as joint space narrowing (common in arthritis).
+
+McCaffrey and his team have found that successive model versions both within classes (various versions of GPT-4o) and across classes (GPT-4.5 vs 3.5) tend to have lower hallucination rate. “But this is non-zero and non-deterministic so — while nice — we can’t just ignore the possibility and ramifications of hallucination,” he said.
+
+Therefore, they typically gravitate to generative AI tools that do a good job of citing their sources. For instance, a model that summarizes a patient’s medical course while also surfacing the clinical notes that served as the basis for its output.
+
+“This allows the provider to efficiently serve as a safeguard against hallucination,” said McCaffrey.
+
+Flagging ‘basic stuff’ to enhance healthcare
+
+UTMB is also utilizing AI in several other areas, including an automated system that assists medical staff in determining whether inpatient admissions are justified. The system works as a co-pilot, automatically extracting all patient notes from the EHR and using Claude, GPT and Gemini to summarize and examine them before presenting assessments to staff.
+
+“This lets our personnel look across the entire patient population and filter/triage patients,” McCaffrey explained. The tool also assists personnel in drafting documentation to support admission or observation.
+
+In other areas, AI is used to re-examine reports like echocardiology interpretations or clinical notes and identify gaps in care. In many cases, “it’s simply flagging basic stuff,” said McCaffrey.
+
+Healthcare is complex, with data feeds coming in from everywhere, he noted — images, physician notes, lab results — but very little of that data has been computed because there simply hasn’t been enough human manpower.
+
+This has led to what he described as a “massive, massive intellectual bottleneck.” A lot of data simply isn’t being computed, even though there is great potential be proactive and find things earlier.
+
+“It’s not an indictment of any particular place,” McCaffrey emphasized. “It’s just generally the state of healthcare.” Absent AI, “you can’t deploy the intelligence, the scrutiny, the thought work at the scale required to catch everything.”
+

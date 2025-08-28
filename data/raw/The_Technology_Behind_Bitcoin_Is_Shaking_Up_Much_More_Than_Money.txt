@@ -1,0 +1,22 @@
+Title: The Technology Behind Bitcoin Is Shaking Up Much More Than Money
+URL: https://www.technologyreview.com/2017/04/18/152503/the-technology-behind-bitcoin-is-shaking-up-much-more-than-money/
+
+Behlendorf says that ongoing efforts to deploy these systems in different settings represent a technological shift with broad societal implications. “This is an opportunity to reinvent how much of the world works,” he said, speaking ahead of the event. “This isn’t just about finance.”
+
+The blockchain on which Bitcoin is built serves as a distributed, cryptographically signed ledger that makes it possible track and verify payments without any centralized authority. The ledger is maintained by computers performing computations that eventually generate more bitcoins. The same distributed cryptographic approach can be used to verify all sorts of transactions (see “Why Bitcoin Could Be Much More Than a Currency”).
+
+Among other sectors, the diamond industry is currently piloting the use of blockchain technology to distinguish legitimately acquired diamonds from those sourced from conflict regions. By carefully examining the blockchain data supplied with each diamond, it should be possible to identify suspect diamonds and fraudulent transactions. Others are looking at how blockchains could verify carbon-trading deals or serve as a framework for securing digital health records, Behlendorf said.
+
+One of the big challenges with Bitcoin and blockchain systems is their technical complexity and related questions about security. Hyperledger is meant to help with this issue by offering technical guidance and leadership to the community involved with developing its technology. This is also meant to help with some of the infighting within the Bitcoin community that has arisen as a result of its decentralized nature, threatening to undermine the currency even as its value rises.
+
+Indeed, Behlendorf warned, the excitement and big claims surrounding Bitcoin and blockchains could turn them into victims of their own success. “There are over-inflating expectations right now,” he said.
+
+But Behlendorf, who was previously the main developer for the world’s most widely used Web server software, Apache, remains bullish. He suggested that blockchain technologies could have the same transformational potential as the Web.
+
+Bitcoin gained a huge amount of attention a few years after being released in 2009, as geeks dreamed of technological disruption to the world’s financial system and speculators spied an opportunity to profit from the currency’s ballooning value (see “What Bitcoin Is, and Why It Matters”). Bitcoin’s own blockchain serves as the basis for a number of non-currency applications, but various alternative blockchains have emerged, too. Hyperledger is developing one that is designed to be more amenable to non-currency applications.
+
+At the conference, speakers will discuss cryptocurrencies and other financial instruments, as well as various emerging blockchain applications. These include monitoring energy transactions, tracking supply chain logistics, and collecting payments for listening to music online.
+
+Many of these applications are already here. The state of Delaware, for instance, is studying the use of blockchain technology from a company called Symbiont for business contracts. IBM and a Chinese company called Hejia recently announced a blockchain system for supply chain management.
+
+Despite the challenges ahead, Behlendorf isn’t discouraged. “There are plenty of reasons to be skeptical, and there’s way too much hype,” he said. “But it’s a real opportunity to change the rules of the game.”

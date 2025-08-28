@@ -1,0 +1,10 @@
+Title: A fake eye that sheds fake tears could replace animal testing
+URL: https://www.technologyreview.com/2019/08/06/102826/a-fake-eye-that-sheds-fake-tears-could-replace-animal-testing/
+
+It blinks? It does. The researchers created an ersatz eyelid that opens and closes, to mimic wear and tear. The eyelid is made of soft hydrogels and is controlled by a tiny electromechanical motor.
+
+Not to worry, though—the gadget can’t see or perceive anything. It merely mimics the surface of the eye, say the bioengineers at the University of Pennsylvania who made it.
+
+Fake tears: The researchers prefer to call them “contrived tears.” Whatever the name, they needed to add lubrication to make their version true to life. They say they used their gadget to test dry-eye drugs.
+
+You can read more in the report about the device by Dongeun Huh and colleagues in Nature Medicine.

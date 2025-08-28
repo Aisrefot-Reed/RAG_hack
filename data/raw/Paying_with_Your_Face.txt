@@ -1,0 +1,18 @@
+Title: Paying with Your Face
+URL: https://www.technologyreview.com/technology/paying-with-your-face/
+
+The technology figures to take off in China first because of the country’s attitudes toward surveillance and privacy. Unlike, say, the United States, China has a large centralized database of ID card photos. During my time at Face++, I saw how local governments are using its software to identify suspected criminals in video from surveillance cameras, which are omnipresent in the country. This is especially impressive—albeit somewhat dystopian—because the footage analyzed is far from perfect, and because mug shots or other images on file may be several years old.
+
+Facial recognition has existed for decades, but only now is it accurate enough to be used in secure financial transactions. The new versions use deep learning, an artificial-intelligence technique that is especially effective for image recognition because it makes a computer zero in on the facial features that will most reliably identify a person (see “10 Breakthrough Technologies 2013: Deep Learning”).
+
+“The face recognition market is huge,” says Shiliang Zhang, an assistant professor at Peking University who specializes in machine learning and image processing. Zhang heads a lab not far from the offices of Face++. When I arrived, his students were working away furiously in a dozen or so cubicles. “In China security is very important, and we also have lots of people,” he says. “Lots of companies are working on it.”
+
+Employees simply show their face to gain entry to the company’s headquarters.
+
+One such company is Baidu, which operates China’s most popular search engine, along with other services. Baidu researchers have published papers showing that their software rivals most humans in its ability to recognize a face. In January, the company proved this by taking part in a TV show featuring people who are remarkably good at identifying adults from their baby photos. Baidu’s system outshined them.
+
+Now Baidu is developing a system that lets people pick up rail tickets by showing their face. The company is already working with the government of Wuzhen, a historic tourist destination, to provide access to many of its attractions without a ticket. This involves scanning tens of thousands of faces in a database to find a match, which Baidu says it can do with 99 percent accuracy.
+
+Face++ pinpoints 83 points on a face. The distance between them provides a means of identification.
+
+Jie Tang, an associate professor at Tsinghua University who advised the founders of Face++ as students, says the convenience of the technology is what appeals most to people in China. Some apartment complexes use facial recognition to provide access, and shops and restaurants are looking to the technology to make the customer experience smoother. Not only can he pay for things this way, he says, but the staff in some coffee shops are now alerted by a facial recognition system when he walks in: “They say, ‘Hello, Mr. Tang.’”

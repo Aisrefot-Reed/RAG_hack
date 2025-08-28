@@ -1,0 +1,24 @@
+Title: The key to smarter robot collaborators may be more simplicity
+URL: https://www.technologyreview.com/2020/11/13/1012103/smarter-ai-robot-collaborators-may-be-simpler/
+
+A different theory of mind
+
+Traditional methods for helping robots work alongside humans take inspiration from an idea in psychology called theory of mind. It suggests that people engage and empathize with one another by developing an understanding of one another’s beliefs—a skill we develop as young children. Researchers who draw upon this theory focus on getting robots to construct a model of their collaborators’ underlying intent as the basis for predicting their actions.
+
+Dorsa Sadigh, an assistant professor at Stanford, thinks this is inefficient. “If you think about human-human interactions, we don’t really do that,” she says. “If we’re trying to move a table together, we don’t do belief modeling.” Instead, she says, two people moving a table rely on simple signals like the forces they feel from their collaborator pushing or pulling the table: “So I think what is really happening is that when humans are doing a task together, they keep track of something that’s much lower-dimensional.”
+
+Using this idea, a robot could store very simple descriptions of its surrounding agents’ actions. In a game of air hockey, for example, it might store its opponents’ movements with only one word: “right,” “left,” or “center.” It can then use this data to train two separate algorithms: a machine-learning algorithm that predicts where the opponent will move next, and a reinforcement-learning algorithm to determine how it should respond. The latter algorithm also keeps track of how the opponent changes tack on the basis of its own response, so it can learn to influence the opponent’s actions.
+
+The key idea here is the lightweight nature of the training data, which is what allows the robot to perform all this parallel training on the fly. A more traditional approach might store the coordinates for the entire pathway of the opponent’s movements, not just their overarching direction. While it may seem counterintuitive that less is more, it’s worth remembering again Sadigh’s theory about human interaction. We, too, model the people around us only in broad strokes.
+
+The researchers tested this idea in simulation for applications including a self-driving car, and in the real world with a game of robot air hockey. In each of the trials, the new technique outperformed previous methods for teaching robots to adapt to surrounding agents. The robot also effectively learned to influence those around it.
+
+Future work
+
+There are still some issues that future research will have to resolve. The work currently assumes, for example, that every interaction the robot engages in is finite, says Jakob Foerster, an assistant professor at the University of Toronto, who was not involved in the work.
+
+In the self-driving simulation, the researchers assumed that the robot car was experiencing only one clearly bounded interaction with another car during each round of training. But driving, of course, doesn’t work that way. Interactions are often continuous and would require a self-driving car to learn and adapt its behavior within each interaction, not just between them.
+
+Another challenge, Sadigh says, is that the approach assumes knowledge of the best way to describe a collaborator’s behavior. The researchers themselves had to come up with the labels “right,” “left,” and “center” in the air hockey game for the robot to describe its opponent’s actions. Those labels won’t always be so obvious in more complicated interactions.
+
+Nonetheless, Foerster sees promise in the paper’s contribution. “Bridging the gap between multi-agent learning and human-AI interaction is a super important avenue for future research,” he says. “I’m really excited for when these things get put together.”

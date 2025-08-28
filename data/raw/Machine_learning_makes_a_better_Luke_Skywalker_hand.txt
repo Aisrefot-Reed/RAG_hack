@@ -1,0 +1,8 @@
+Title: Machine learning makes a better Luke Skywalker hand
+URL: https://www.technologyreview.com/2019/06/26/65625/machine-learning-makes-a-better-luke-skywalker-hand/
+
+Handy invention: Researchers in Japan came up with a cheaper, smarter myoelectric device. Their five-fingered, 3D-printed hand is controlled using a neural network trained to recognize combined signals—or, as they call them, “muscle synergies.” Details of the bionic hand are published today in the journal Science Robotics.
+
+Nimble-fingered: The team tested their setup on seven people, including one amputee. The participants were able to perform 10 different finger motions with around 90% accuracy. What’s more, the device only needed to be trained on five motions for each finger before they were able to do this. The amputee participant was able to perform tasks including picking up and putting down bottles, and holding a notebook.
+
+Hold on: It isn’t clear how much these technologies might reduce the cost of prosthetics, and there are still significant challenges to overcome, like muscle fatigue and the complications that will inevitably come with the getting the software to recognize a wide variety of real-world movements. Still, it’s a promising approach that might someday change the lives of those who rely on dumb or hugely expensive prosthetic limbs.

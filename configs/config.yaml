@@ -1,0 +1,39 @@
+# Конфигурация для скрейпинга сайтов
+scraping:
+  article_limit_per_site: 50   # Лимит по умолчанию на количество статей с одного сайта
+  delay_between_articles: 2    # Пауза в секундах между скачиванием статей (по умолчанию)
+  sites:                       # Список сайтов для скрейпинга
+    - name: "VentureBeat AI"     # Имя сайта (должно совпадать с тем, что ищется в коде скрейпера)
+      sitemap_url: "https://venturebeat.com/news-sitemap.xml" # !!! ЗАМЕНИ НА АКТУАЛЬНЫЙ SITEMAP URL (проверь robots.txt или поищи на сайте) !!!
+      # Можно указать более специфичный, если найдешь, например: "https://venturebeat.com/category/ai/feed/sitemap.xml"
+      limit: 100               # Переопределяем лимит для этого сайта (было 100 в старом коде)
+      # delay: 1                 # Можно переопределить паузу (было techcrunch_delay: 2)
+
+    - name: "MIT Technology Review AI" # Имя сайта (должно совпадать с тем, что ищется в коде скрейпера)
+      sitemap_url: "https://www.technologyreview.com/news-sitemap.xml"
+      sitemap_url: "https://www.technologyreview.com/sitemap.xml"
+      limit: 100               # Переопределяем лимит (было 100 в старом коде)
+      # delay: 5                 # Можно переопределить паузу (было minderest_delay: 10, но то был другой сайт)
+
+    # --- Добавь сюда другие сайты по аналогии ---
+    # - name: "Hugging Face Blog"
+    #   sitemap_url: "https://huggingface.co/blog/sitemap.xml"
+    #   limit: 30
+    #   delay: 1
+    #
+
+# Конфигурация для RAG пайплайна (остается без изменений)
+rag:
+  embedding_model_name: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  llm_model_name: "microsoft/Phi-3-mini-4k-instruct"
+  top_k: 5
+  chunk_size: 500
+  chunk_overlap: 50
+
+# Старая секция scraper больше не нужна для новой логики скрейпинга,
+# так как все настройки теперь внутри секции 'scraping'.
+# Можешь удалить старую секцию 'scraper' полностью:
+# scraper:
+#   techcrunch_delay: 2
+#   minderest_delay: 10
+#   disallowed_paths: ...

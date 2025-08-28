@@ -1,0 +1,20 @@
+Title: This may be the Apple II of AI-driven robot arms
+URL: https://www.technologyreview.com/2019/04/09/1169/this-may-be-the-apple-ii-of-ai-driven-robot-arms/
+
+Robots and AI have evolved in parallel as areas of research for decades. In recent years, however, AI has advanced rapidly when applied to abstract problems like labeling images or playing video games. But while industrial robots can do things very precisely, they require painstaking programming and cannot adapt to even the slightest changes. Cheaper, safer robots have emerged, but most are not designed specifically to be controlled using AI software.
+
+“Robots are increasingly able to learn new tasks, whether through trial and error or via expert demonstration,” says Stephen McKinley, a postdoc at UC Berkeley who was involved with developing the robot. “Without a low-cost platform—an Apple II-type device—experimentation, trial and error, and productive research will continue to move slowly. There is potential for research to be greatly accelerated by making more robots more accessible.”
+
+The new arm, known as Blue, costs around $5,000, and it can be controlled via a virtual-reality headset—a technique that is proving useful for training robot-controlling AI algorithms.
+
+Blue is capable of carrying relatively heavy loads but is also extremely “backdrivable,” meaning it will comply when pushed or pulled. This makes it safe for people to work alongside, and allows it to be physically shown how to do something. The system provides low-level software for controlling the robot and for the VR system, and it is designed to be compatible with any computer running AI software.
+
+The project comes from the lab of Pieter Abbeel, a professor at UC Berkeley who has pioneered the application of AI to robotics (see “Innovators Under 35: Pieter Abbeel”). The IP for the project has been licensed from UC Berkeley by a new company called Berkeley Open Arms, which will develop and sell the hardware.
+
+It remains extremely difficult to translate machine learning from a virtual environment to the real world. Despite this, academic researchers have made progress in applying machine learning to robot hardware, leading to some spectacular demonstrations and a few commercial ventures.
+
+Some canny companies have taken notice of the trend. Nvidia, a chipmaker that has ridden the AI boom by making microprocessors and software for deep learning, recently launched a lab dedicated to exploring applications of AI to robots (see “This Ikea kitchen might teach industrial robots to be less dumb and more helpful”).
+
+Nvidia’s CEO, Jensen Huang, describes the Berkeley robot as “very exciting.”
+
+Huang notes that while an industrial robot may cost around $50,000 to buy, it can cost many times that to reprogram one for new a series of different tasks. “We have it the wrong way around,” he says. He expects big advances in robotics in years to come thanks to advances in machine learning and virtual-reality simulation: “Robots and AI are now the same thing.”

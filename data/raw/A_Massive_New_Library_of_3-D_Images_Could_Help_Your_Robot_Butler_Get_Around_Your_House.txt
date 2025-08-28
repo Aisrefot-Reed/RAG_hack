@@ -1,0 +1,22 @@
+Title: A Massive New Library of 3-D Images Could Help Your Robot Butler Get Around Your House
+URL: https://www.technologyreview.com/2017/04/24/152357/a-massive-new-library-of-3-d-images-could-help-your-robot-butler-get-around-your-house/
+
+“ImageNet had a critical amount of annotated data, and that sparked the AI revolution,” says Matthias Niessner, a professor at the Technical University of Munich and one of the researchers behind the data set.
+
+The hope is that ScanNet will give machines a deeper understanding of the physical world, and that this could have practical applications. “The obvious scenario is a robot in your home,” Niessner says. “If you have a robot, it needs to figure out what’s going on around it.”
+
+An off-the-shelf 3-D scanner was used to capture each room.
+
+Niessner, who did the work while he was a visiting associate professor at Stanford University, believes researchers will apply deep learning—the same machine-learning technique used on ImageNet—to train computers to better understand 3-D scenes (see “10 Breakthrough Technologies 2013: Deep Learning”). He created the data set with Angela Dai, one of his students at Stanford, and Thomas Funkhouser, a professor at Princeton, as well as several of his other students.
+
+The researchers describe their approach in a paper posted recently online. They built the data set by scanning 1,513 scenes using a 3-D camera similar to the Microsoft Kinect. This device uses both a conventional camera and an infrared depth sensor to create a 3-D picture of the scene in front of it. The researchers then had volunteers annotate the scans using an iPad app via Amazon’s Mechanical Turk crowdsourcing platform. To improve overall accuracy, one set of participants painted and labeled the objects in a scan, and another group was asked to re-create a scene using a 3-D model.
+
+Stefanie Tellex, an assistant professor at Brown University who is doing research aimed at enabling home robots, says ScanNet is much bigger than anything available previously. “Making a data set that is an order of magnitude larger is a big contribution,” she says. “3-D information is critical for robots to perceive and interact with their environment, yet there is a real lack of data for such tasks.”
+
+A room showing annotated items in different colors.
+
+Niessner says the team behind the data set tried applying deep learning and found that it could recognize many objects reliably using only their depth information, or their shape. This already suggests that the 3-D data will provide a deeper understanding of the physical world, he says. He adds that using 3-D information is a better way of mimicking the way animals perceive things.
+
+Siddhartha Srinivasa, a professor at the Robotics Institute at Carnegie Mellon University, says the new data set could be a “good start” toward enabling machines to understand the insides of homes. “The popularity of ImageNet was partly due to the immensity of the data set and largely due to the immediate and numerous applications of image labeling, especially in Web applications,” says Srinivasa. He says there are fewer obvious applications for a 3-D data set besides robotics and architecture, but says applications could emerge quickly.
+
+Srinivasa adds that others are using synthetic or virtual scenes to train machine-vision systems. “Although simulating real-life imagery is often unrealistic, as you can see from the CGI in movies, simulating depth is quite realistic,” he says.

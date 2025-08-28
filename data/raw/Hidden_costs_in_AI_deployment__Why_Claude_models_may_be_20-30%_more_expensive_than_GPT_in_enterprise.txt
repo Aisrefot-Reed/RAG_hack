@@ -1,0 +1,84 @@
+Title: Hidden costs in AI deployment: Why Claude models may be 20-30% more expensive than GPT in enterprise settings
+URL: https://venturebeat.com/ai/hidden-costs-in-ai-deployment-why-claude-models-may-be-20-30-more-expensive-than-gpt-in-enterprise-settings/
+
+It is a well-known fact that different model families can use different tokenizers. However, there has been limited analysis on how the process of “tokenization” itself varies across these tokenizers. Do all tokenizers result in the same number of tokens for a given input text? If not, how different are the generated tokens? How significant are the differences?
+
+In this article, we explore these questions and examine the practical implications of tokenization variability. We present a comparative story of two frontier model families: OpenAI’s ChatGPT vs Anthropic’s Claude. Although their advertised “cost-per-token” figures are highly competitive, experiments reveal that Anthropic models can be 20–30% more expensive than GPT models.
+
+API Pricing — Claude 3.5 Sonnet vs GPT-4o
+
+As of June 2024, the pricing structure for these two advanced frontier models is highly competitive. Both Anthropic’s Claude 3.5 Sonnet and OpenAI’s GPT-4o have identical costs for output tokens, while Claude 3.5 Sonnet offers a 40% lower cost for input tokens.
+
+Source: Vantage
+
+The hidden “tokenizer inefficiency”
+
+Despite lower input token rates of the Anthropic model, we observed that the total costs of running experiments (on a given set of fixed prompts) with GPT-4o is much cheaper when compared to Claude Sonnet-3.5.
+
+
+
+Why?
+
+The Anthropic tokenizer tends to break down the same input into more tokens compared to OpenAI’s tokenizer. This means that, for identical prompts, Anthropic models produce considerably more tokens than their OpenAI counterparts. As a result, while the per-token cost for Claude 3.5 Sonnet’s input may be lower, the increased tokenization can offset these savings, leading to higher overall costs in practical use cases.
+
+This hidden cost stems from the way Anthropic’s tokenizer encodes information, often using more tokens to represent the same content. The token count inflation has a significant impact on costs and context window utilization.
+
+
+
+Domain-dependent tokenization inefficiency
+
+Different types of domain content are tokenized differently by Anthropic’s tokenizer, leading to varying levels of increased token counts compared to OpenAI’s models. The AI research community has noted similar tokenization differences here. We tested our findings on three popular domains, namely: English articles, code (Python) and math.
+
+Domain Model Input GPT Tokens Claude Tokens % Token Overhead English articles 77 89 ~16% Code (Python) 60 78 ~30% Math 114 138 ~21%
+
+% Token Overhead of Claude 3.5 Sonnet Tokenizer (relative to GPT-4o) Source: Lavanya Gupta
+
+When comparing Claude 3.5 Sonnet to GPT-4o, the degree of tokenizer inefficiency varies significantly across content domains. For English articles, Claude’s tokenizer produces approximately 16% more tokens than GPT-4o for the same input text. This overhead increases sharply with more structured or technical content: for mathematical equations, the overhead stands at 21%, and for Python code, Claude generates 30% more tokens.
+
+This variation arises because some content types, such as technical documents and code, often contain patterns and symbols that Anthropic’s tokenizer fragments into smaller pieces, leading to a higher token count. In contrast, more natural language content tends to exhibit a lower token overhead.
+
+Other practical implications of tokenizer inefficiency
+
+Beyond the direct implication on costs, there is also an indirect impact on the context window utilization. While Anthropic models claim a larger context window of 200K tokens, as opposed to OpenAI’s 128K tokens, due to verbosity, the effective usable token space may be smaller for Anthropic models. Hence, there could potentially be a small or large difference in the “advertised” context window sizes vs the “effective” context window sizes.
+
+
+
+Implementation of tokenizers
+
+GPT models use Byte Pair Encoding (BPE), which merges frequently co-occurring character pairs to form tokens. Specifically, the latest GPT models use the open-source o200k_base tokenizer. The actual tokens used by GPT-4o (in the tiktoken tokenizer) can be viewed here.
+
+JSON { #reasoning "o1-xxx": "o200k_base", "o3-xxx": "o200k_base", # chat "chatgpt-4o-": "o200k_base", "gpt-4o-xxx": "o200k_base", # e.g., gpt-4o-2024-05-13 "gpt-4-xxx": "cl100k_base", # e.g., gpt-4-0314, etc., plus gpt-4-32k "gpt-3.5-turbo-xxx": "cl100k_base", # e.g, gpt-3.5-turbo-0301, -0401, etc. }
+
+Unfortunately, not much can be said about Anthropic tokenizers as their tokenizer is not as directly and easily available as GPT. Anthropic released their Token Counting API in Dec 2024. However, it was soon demised in later 2025 versions.
+
+Latenode reports that “Anthropic uses a unique tokenizer with only 65,000 token variations, compared to OpenAI’s 100,261 token variations for GPT-4.” This Colab notebook contains Python code to analyze the tokenization differences between GPT and Claude models. Another tool that enables interfacing with some common, publicly available tokenizers validates our findings.
+
+
+
+The ability to proactively estimate token counts (without invoking the actual model API) and budget costs is crucial for AI enterprises.
+
+Key Takeaways
+
+Anthropic’s competitive pricing comes with hidden costs:
+
+While Anthropic’s Claude 3.5 Sonnet offers 40% lower input token costs compared to OpenAI’s GPT-4o, this apparent cost advantage can be misleading due to differences in how input text is tokenized.
+
+
+
+While Anthropic’s Claude 3.5 Sonnet offers 40% lower input token costs compared to OpenAI’s GPT-4o, this apparent cost advantage can be misleading due to differences in how input text is tokenized. Hidden “tokenizer inefficiency”:
+
+Anthropic models are inherently more verbose . For businesses that process large volumes of text, understanding this discrepancy is crucial when evaluating the true cost of deploying models.
+
+
+
+Anthropic models are inherently more . For businesses that process large volumes of text, understanding this discrepancy is crucial when evaluating the true cost of deploying models. Domain-dependent tokenizer inefficiency:
+
+When choosing between OpenAI and Anthropic models, evaluate the nature of your input text . For natural language tasks, the cost difference may be minimal, but technical or structured domains may lead to significantly higher costs with Anthropic models.
+
+
+
+When choosing between OpenAI and Anthropic models, . For natural language tasks, the cost difference may be minimal, but technical or structured domains may lead to significantly higher costs with Anthropic models. Effective context window:
+
+Due to the verbosity of Anthropic’s tokenizer, its larger advertised 200K context window may offer less effective usable space than OpenAI’s 128K, leading to a potential gap between advertised and actual context window.
+
+Anthropic did not respond to VentureBeat’s requests for comment by press time. We’ll update the story if they respond.

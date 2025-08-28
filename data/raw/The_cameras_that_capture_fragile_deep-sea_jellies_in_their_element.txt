@@ -1,0 +1,22 @@
+Title: The cameras that capture fragile deep-sea jellies in their element
+URL: https://www.technologyreview.com/2022/03/10/1046971/cameras-fragile-deep-sea-jellies-in-their-element/
+
+But two new imaging systems developed by a team at the Monterey Bay Aquarium Research Institute (MBARI) in California promise to make these intangible creatures tangible at last. The systems, called DeepPIV and EyeRIS, create 3D renderings of gelatinous deep-sea creatures. Together, they can capture an animal’s every feature on a millimeter scale—the structure of internal organs, even food moving through its digestive tract. The MBARI team believes the scans will help researchers describe these fragile species for the first time and perhaps even reduce the time between the first discovery of a creature and its formal introduction to science—which a 2012 study calculated takes an average of 21 years.
+
+On an expedition with the Schmidt Ocean Institute off the coast of San Diego in August 2021, MBARI sent the pair of tools—along with a specialized DNA sampling apparatus—hundreds of meters deep to explore the midwaters. The researchers used the cameras to scan at least two unnamed creatures, a new ctenophore and siphonophore.
+
+Raw footage of a dinner plate jelly (genus Solmissus), taken with DeepPIV during a 2021 expedition. JOOST DANIELS © 2021 MBARI
+
+The successful scans strengthen the case for virtual holotypes—digital, rather than physical, specimens that can serve as the basis for a species definition when collection isn’t possible. Historically, a species’ holotype has been a physical specimen meticulously captured, preserved, and catalogued—an anglerfish floating in a jar of formaldehyde, a fern pressed in a Victorian book, or a beetle pinned to the wall of a natural history museum. Future researchers can learn from these and compare them with other specimens.
+
+Proponents say virtual holotypes like 3D models are our best chance at documenting the diversity of marine life, some of which is on the precipice of being lost forever. Without a species description, scientists can’t monitor populations, identify potential hazards, or push for conservation measures.
+
+“The ocean is changing rapidly: increasing temperatures, decreasing oxygen, acidification,” says Allen Collins, a jelly expert with dual appointments at the National Oceanic and Atmospheric Administration and the Smithsonian National Museum of Natural History. “There are still hundreds of thousands, perhaps even millions, of species to be named, and we can’t afford to wait.”
+
+Jelly in four dimensions
+
+Marine scientists who research gelatinous midwater creatures all have horror stories of watching potentially new species disappear before their eyes. Collins recalls trying to photograph ctenophores in the wet lab of a NOAA research ship off the coast of Florida: “Within a few minutes, because of either the temperature or the light or the pressure, they just started falling apart,” he says. “Their bits just started coming off. It was a horrible experience.”
+
+Kakani Katija, a bioengineer at MBARI and the driving force behind DeepPIV and EyeRIS, didn’t set out to solve the midwater collector’s headache. “DeepPIV was developed to look at fluid physics,” she explains. In the early 2010s, Katija and her team were studying how sea sponges filter-feed and wanted a way to track the movement of water by recording the three-dimensional positions of minute particles suspended in it.
+
+They later realized the system could also be used to noninvasively scan gelatinous animals. Using a powerful laser mounted on a remotely operated vehicle, DeepPIV illuminates one cross-section of the creature’s body at a time. “What we get is a video, and each video frame ends up as one of the images of our stack,” says Joost Daniels, an engineer in Katija’s lab who’s working to refine DeepPIV. “And once you’ve got a stack of images, it’s not much different from how people would analyze CT or MRI scans.”

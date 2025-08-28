@@ -1,0 +1,16 @@
+Title: DeepMind is asking how AI helped turn the internet into an echo chamber
+URL: https://www.technologyreview.com/2019/03/07/65984/deepmind-is-asking-how-google-helped-turn-the-internet-into-an-echo-chamber/
+
+Both ideas were quickly popularized in the aftermath of the 2016 US election, which led to an upswell of relevant research. Now Google’s own AI subsidiary, DeepMind, is adding to the body of scholarship. (Better late than never, right?)
+
+In a new paper, researchers analyzed how different recommendation algorithms can speed up or slow down both phenomena, which the researchers define separately. Echo chambers, they say, reinforce users’ interests through repeated exposure to similar content. Filter bubbles, by comparison, narrow the scope of content users are exposed to. Both are examples in academic-speak of “degenerate feedback loops.” A higher level of degeneracy, in this case, refers to a stronger filter bubble or echo chamber effect.
+
+They ran simulations of five different recommendation algorithms, which placed different degrees of priority on accurately predicting exactly what the user was interested in over randomly promoting new content. The algorithms that prioritized accuracy more highly, they found, led to much faster system degeneracy. In other words, the best way to combat filter bubbles or echo chambers is to design the algorithms to be more exploratory, showing you things that are less certain to capture your interest. Expanding the overall set of information from which the recommendations are drawn from can also help.
+
+Joseph A. Konstan, a computer science professor at the University of Minnesota, who has previously conducted research on filter bubbles, says the results from DeepMind’s analysis are not surprising. Researchers have long understood the tension between accurate prediction and effective exploration in recommendation systems, he says.
+
+Despite past studies showing that users will tolerate lower levels of accuracy to gain the benefit of diverse recommendations, developers still have a disincentive to design their algorithms that way. “It is always easier to ‘be right’ by recommending safe choices,” Konstan says.
+
+Konstan also critiques the DeepMind study for approaching filter bubbles and echo chambers as machine-learning simulations rather than interactive systems involving humans—a limitation the researchers noted as well. “I am always concerned about work that is limited to simulation studies (or offline data analyses),” he says. “People are complex. On the one hand we know they value diversity, but on the other hand we also know that if we stretch the recommendations too far—to the point where users feel we are not trustworthy—we may lose the users entirely.”
+
+Correction: The headline was updated to better reflect the scope of the research.

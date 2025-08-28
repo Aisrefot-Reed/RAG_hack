@@ -1,0 +1,20 @@
+Title: The ambitious plan to reinvent how websites get their names
+URL: https://www.technologyreview.com/2019/06/04/239039/the-ambitious-plan-to-make-the-internets-phone-book-more-trustworthy/
+
+Advocates of freedom of expression online have long warned that relying on a single, bureaucratic organization both to oversee the DNS root and to assign top-level domains is dangerous. They worry that ICANN could decide, perhaps under pressure from certain governments or corporations, to censor the internet by removing names from the DNS, or by prohibiting the use of certain names to begin with.
+
+Besides ICANN, there’s yet another class of organization whose job Handshake aims to decentralize. See that little padlock icon in your browser bar, to the left of the domain name? That means your computer has verified that your connection to this website is encrypted and that the site is authentic, not a fake one designed by a criminal trying to steal your login credentials. It does that by checking the veracity of a string of numbers called the site’s digital certificate, issued by one of a number of so-called certificate authorities. These entities, many of which are for-profit companies, are crucial to internet security.
+
+They can also get hacked. And if one gets breached, and an attacker can start issuing fake certificates, it undermines the security of the whole internet. But if website names are managed on a tamper-resistant blockchain, then you don’t need certificate authorities; the naming system itself can provide the guarantee that the site you’re connected to is real. That’s what Handshake aims to do.
+
+Nick Little
+
+Learning from Namecoin
+
+The idea that a blockchain could be used to uphold Zooko’s Triangle has appealed to enthusiasts from almost day one. A project called Namecoin, which is widely believed to be the first fork of Bitcoin, is still up and running after launching in April 2011. Like Handshake, Namecoin lets people buy their own domain names and record them on a blockchain. But it hasn’t caught on, at least outside a small number of enthusiasts. In 2015, Bonneau and several colleagues took a close look at Namecoin and found “a system in disrepair.” Of 120,000 registered names, only 28 actually seemed to be in use.
+
+Handshake takes advantage of a number of tools and technologies that were unavailable or impractical for Namecoin, says McKie. For example, Namecoin allocates names on a first come, first served basis. This has encouraged “name squatting”—people can register any name they can think of, regardless of whether they intend to build a website with it, hoping to cash in later life someone wants to use it for real. Handshake, by contrast, uses what’s called a Vickrey auction, a sealed bidding process in which the highest bidder wins but pays the price of the second-highest bid. This, at least in theory, gives bidders an incentive to bid what a name is actually worth to them.
+
+Handshake’s software will also be more efficient at storing name data, and easier to use than Namecoin’s, McKie says. Instead of requiring each user to run what’s called a “full node,” which entails downloading a copy of the entire Handshake blockchain with all the domain names stored on it (and requires a certain technical proficiency), Handshake also has a “light client” that can retrieve addresses from the network as needed and can be bundled in an easy-to-use browser extension, he says.
+
+Perhaps most important, Handshake, unlike Namecoin, doesn’t compete with the traditional DNS but is compatible with it. The top 100,000 most popular domains are already in its chain. If you enter one of those names, and if the owner hasn’t yet registered with Handshake, the software will simply redirect your request to regular DNS servers, says McKie: “If it doesn’t exist on Handshake, it’s just going to fall back, redundantly, to the normal web.”

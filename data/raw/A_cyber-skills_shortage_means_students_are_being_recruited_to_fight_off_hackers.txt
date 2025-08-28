@@ -1,0 +1,14 @@
+Title: A cyber-skills shortage means students are being recruited to fight off hackers
+URL: https://www.technologyreview.com/2018/10/18/139708/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/
+
+The college’s Security Operations Center deals with about a million attempts to hack the university system each month. While the center does have some full-time employees, the majority of its security force is made up of students. Ten students currently work alongside AI software to detect, monitor, and remediate the threats.
+
+This setup both trains students for roles at other companies and serves as cheap cybersecurity staff for the college. And unlike many other organizations, Texas A&M is having no trouble filling the positions. “We have never posted a job,” says Daniel Basile, executive director of the Security Operations Center. “All of [the students] have heard about us through side channels.”
+
+The Texas A&M University System | YouTube
+
+When the students come in for the day, they’re presented with a whiteboard displaying different areas of the university, noting how many potential threats each is facing. The AI has already pulled out these “events” and helped to prioritize them. The students then look at each abnormality and check to see if it looks like suspicious activity. They do so by comparing them with past attacks, looking at things like IP addresses, and analyzing data provided by the software. “We try the best we can to get all agencies to zero alerts,” says student security analyst Jennifer Allen. “Then if we do, we do a second review to look at what people may have missed.”
+
+And while that additional look may seem like overkill, Allen says one of her proudest moments actually came during a secondary review. She identified a large amount of data being moved across the school network as illicit BitTorrent activity.
+
+Benjamin Cervantes, a senior majoring in technology management, came to work at the center a year and a half ago with the hope of getting experience to prepare him for a cybersecurity role in the military. Before starting this job, he was working at a local auto repair shop to help pay for university. Now, instead of working on cars, he supports his schooling by using his coding skills 20 to 30 hours a week to analyze threats and work on AI software that can further automate the process of dealing with them.

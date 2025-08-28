@@ -1,0 +1,14 @@
+Title: How space weather could wreck NASA’s return to the moon
+URL: https://www.technologyreview.com/2021/05/20/1025087/space-weather-nasa-artemis-moon-mission/
+
+We just started solar cycle 25 in December 2019. The solar maximum is broadly expected to happen in 2023–2029, so that should mark the nastiest time for space weather. “But because this is an odd cycle, the probability of extreme space weather is highest toward the end of that window—say, 2026–2029,” says Owens.
+
+The authors say that increased risk makes it unsafe to fly missions to the moon during that period. “We're not predicting the timing of individual events,” says Owens. “So the best advice we can give is about the probability of encountering an extreme event.” If a launch has to be delayed to 2026, it might be more desirable to delay it even further, to 2030. Otherwise, mission planners should ensure that a spacecraft has the right hardware to safeguard astronauts from an extreme event.
+
+After all, it’s not as if we can just bring astronauts back from the moon in time once we know a bad solar storm is on the way. Currently, our best warning systems for space weather give us a heads-up of a few hours to a few days—and those forecasts are even worse for predicting catastrophic storms.
+
+Dan Baker, a space physics researcher at the University of Colorado Boulder who was not involved with the study, thinks the findings stands up well, emphasizing that research like this “should be taken seriously and should be folded into [mission] planning.” But he’s not completely confident that the statistical work of this investigation should be adopted as a recommendation for scrubbing any lunar mission between 2026 and 2029.
+
+“Solar storm events and solar energetic particles are a very real risk for astronauts outside the protective envelope of Earth's magnetosphere,” he says. ”However, I think that prudent steps can be taken to guard against the effects of such severe space weather. With an active and effective operational space weather alert and warning system, I believe the threats can be made manageable.” Risks could be tolerable if there was, say, an early warning space weather system that observed the entire sun 24/7, and a module of a spacecraft or lunar outpost that could specifically protect astronauts from such events.
+
+Although an extreme event might be rare, it could mean the difference between life and death on a mission to the moon. Whether NASA and others are willing to take that risk remains to be seen.

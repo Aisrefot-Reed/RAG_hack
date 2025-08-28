@@ -1,0 +1,20 @@
+Title: How green steel made with electricity could clean up a dirty industry
+URL: https://www.technologyreview.com/2022/06/28/1055027/green-steel-electricity-boston-metal/
+
+Industrial steelmaking spits out about two tons of carbon dioxide emissions for every ton of steel produced—adding up to nearly 10% of such emissions worldwide. The global steel market is expected to grow about 30% by 2050, the date by which some of the largest steelmakers have pledged to reach net-zero emissions. Unless major changes come to the industry, and fast, that goal might be out of reach.
+
+Boston Metal’s new reactor, recently installed at its headquarters just north of Boston, is a significant step on the company’s journey to going commercial. Since its founding in 2013, the startup has developed a process to make green steel, working out the details in smaller vessels. The new reactor, along with a coming fundraising round, represents the next leap for the company as it tries to scale up.
+
+If Boston Metal can indeed scale its clean production process and access enough renewable electricity to run it, the company could help solve one of the world’s toughest challenges in controlling carbon emissions.
+
+A new approach
+
+Steel is used in everything from cars to buildings to wind turbines, but decarbonizing the industry isn’t glamorous. “People don’t pay too much attention to the industrials,” says Tadeu Carneiro, Boston Metal’s CEO. “It’s a very conservative industry, and it’s difficult to abate.”
+
+Fossil fuels are essential to today’s steel production. Most steelmaking starts in a blast furnace, where a coal-derived material called coke, which is almost pure carbon, reacts with iron ore, a mixture of iron oxides and other minerals. The reaction pulls out the oxygen, leaving behind liquid iron. The carbon and oxygen are then released together as carbon dioxide.
+
+Boston Metal’s solution is an entirely new approach, called molten oxide electrolysis (MOE). Instead of using carbon to remove oxygen, the process relies on electricity, which runs through a cell filled with a mixture of dissolved iron oxides along with other oxides and materials. The electricity heats the cell up to about 1,600 °C (nearly 3,000 °F), melting everything into a hot oxide soup.
+
+In addition to heating things up, electricity drives the oxygen-removing chemical reactions. Molten iron gathers at the bottom of the reactor, and oxygen gas is emitted instead of carbon dioxide.
+
+Because the impurities largely stay out of the reaction, the MOE process can handle low-quality iron ore, which could be a major benefit of the technology, Carneiro says.

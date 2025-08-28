@@ -1,0 +1,106 @@
+Title: OpenAI rolls back ChatGPT’s sycophancy and explains what went wrong
+URL: https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong/
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+OpenAI has rolled back a recent update to its GPT-4o model used as the default in ChatGPT after widespread reports that the system had become excessively flattering and overly agreeable, even supporting outright delusions and destructive ideas.
+
+The rollback comes amid internal acknowledgments from OpenAI engineers and increasing concern among AI experts, former executives, and users over the risk of what many are now calling “AI sycophancy.”
+
+In a statement published on its website late last night, April 29, 2025, OpenAI said the latest GPT-4o update was intended to enhance the model’s default personality to make it more intuitive and effective across varied use cases.
+
+However, the update had an unintended side effect: ChatGPT began offering uncritical praise for virtually any user idea, no matter how impractical, inappropriate, or even harmful.
+
+As the company explained, the model had been optimized using user feedback—thumbs-up and thumbs-down signals—but the development team placed too much emphasis on short-term indicators.
+
+OpenAI now acknowledges that it didn’t fully account for how user interactions and needs evolve over time, resulting in a chatbot that leaned too far into affirmation without discernment.
+
+Examples sparked concern
+
+On platforms like Reddit and X (formerly Twitter), users began posting screenshots that illustrated the issue.
+
+In one widely circulated Reddit post, a user recounted how ChatGPT described a gag business idea—selling “literal ‘shit on a stick’”—as genius and suggested investing $30,000 into the venture. The AI praised the idea as “performance art disguised as a gag gift” and “viral gold,” highlighting just how uncritically it was willing to validate even absurd pitches.
+
+Other examples were more troubling. In one instance cited by VentureBeat, a user pretending to espouse paranoid delusions received reinforcement from GPT-4o, which praised their supposed clarity and self-trust.
+
+Another account showed the model offering what a user described as an “open endorsement” of terrorism-related ideas.
+
+Criticism mounted rapidly. Former OpenAI interim CEO Emmett Shear warned that tuning models to be people pleasers can result in dangerous behavior, especially when honesty is sacrificed for likability. Hugging Face CEO Clement Delangue reposted concerns about psychological manipulation risks posed by AI that reflexively agrees with users, regardless of context.
+
+OpenAI’s response and mitigation measures
+
+OpenAI has taken swift action by rolling back the update and restoring an earlier GPT-4o version known for more balanced behavior. In the accompanying announcement, the company detailed a multi-pronged approach to correcting course. This includes:
+
+Refining training and prompt strategies to explicitly reduce sycophantic tendencies.
+
+Reinforcing model alignment with OpenAI’s Model Spec, particularly around transparency and honesty.
+
+Expanding pre-deployment testing and direct user feedback mechanisms.
+
+Introducing more granular personalization features, including the ability to adjust personality traits in real-time and select from multiple default personas.
+
+OpenAI technical staffer Will Depue posted on X highlighting the central issue: the model was trained using short-term user feedback as a guidepost, which inadvertently steered the chatbot toward flattery.
+
+OpenAI now plans to shift toward feedback mechanisms that prioritize long-term user satisfaction and trust.
+
+However, some users have reacted with skepticism and dismay to OpenAI’s lessons learned and proposed fixes going forward.
+
+“Please take more responsibility for your influence over millions of real people,” wrote artist @nearcyan on X.
+
+Harlan Stewart, communications generalist at the Machine Intelligence Research Institute in Berkeley, California, posted on X a larger term concern about AI sycophancy even if this particular OpenAI model has been fixed: “The talk about sycophancy this week is not because of GPT-4o being a sycophant. It’s because of GPT-4o being really, really bad at being a sycophant. AI is not yet capable of skillful, harder-to-detect sycophancy, but it will be someday soon.”
+
+A broader warning sign for the AI industry
+
+The GPT-4o episode has reignited broader debates across the AI industry about how personality tuning, reinforcement learning, and engagement metrics can lead to unintended behavioral drift.
+
+Critics compared the model’s recent behavior to social media algorithms that, in pursuit of engagement, optimize for addiction and validation over accuracy and health.
+
+Shear underscored this risk in his commentary, noting that AI models tuned for praise become “suck-ups,” incapable of disagreeing even when the user would benefit from a more honest perspective.
+
+He further warned that this issue isn’t unique to OpenAI, pointing out that the same dynamic applies to other large model providers, including Microsoft’s Copilot.
+
+Implications for the enterprise
+
+For enterprise leaders adopting conversational AI, the sycophancy incident serves as a clear signal: model behavior is as critical as model accuracy.
+
+A chatbot that flatters employees or validates flawed reasoning can pose serious risks—from poor business decisions and misaligned code to compliance issues and insider threats.
+
+Industry analysts now advise enterprises to demand more transparency from vendors about how personality tuning is conducted, how often it changes, and whether it can be reversed or controlled at a granular level.
+
+Procurement contracts should include provisions for auditing, behavioral testing, and real-time control of system prompts. Data scientists are encouraged to monitor not just latency and hallucination rates but also metrics like “agreeableness drift.”
+
+Many organizations may also begin shifting toward open-source alternatives that they can host and tune themselves. By owning the model weights and the reinforcement learning process, companies can retain full control over how their AI systems behave—eliminating the risk of a vendor-pushed update turning a critical tool into a digital yes-man overnight.
+
+Where does AI alignment go from here? What can enterprises learn and act on from this incident?
+
+OpenAI says it remains committed to building AI systems that are useful, respectful, and aligned with diverse user values—but acknowledges that a one-size-fits-all personality cannot meet the needs of 500 million weekly users.
+
+The company hopes that greater personalization options and more democratic feedback collection will help tailor ChatGPT’s behavior more effectively in the future. CEO Sam Altman has also previously stated the company plans to — in the coming weeks and months — release a state-of-the-art open source large language model (LLM) to compete with the likes of Meta’s Llama series, Mistral, Cohere, DeepSeek and Alibaba’s Qwen team.
+
+This would also allow users concerned about a model provider company such as OpenAI updating its cloud-hosted models in unwanted ways or that have deleterious impacts on end-users to deploy their own variants of the model locally or in their cloud infrastructure, and fine-tune them or preserve them with the desired traits and qualities, especially for business use cases.
+
+Similarly, for those enterprise and individual AI users concerned about their models’ sycophancy, already a new benchmark test to gauge this quality across different models has been created by developer Tim Duffy. It’s called “syco-bench” and is available here.
+
+In the meantime, the sycophancy backlash offers a cautionary tale for the entire AI industry: user trust is not built by affirmation alone. Sometimes, the most helpful answer is a thoughtful “no.”
+
+More information revealed in OpenAI’s Reddit AMA
+
+In a Reddit AMA held just hours after the rollback, Joanne Jang, Head of Model Behavior at OpenAI, offered a rare window into the internal thinking behind ChatGPT’s design and the challenges her team faces in tuning large models for personality and trust.
+
+Jang confirmed that the recent sycophantic behavior wasn’t intentional, but rather a result of how subtle shifts in training and reinforcement can spiral into outsized effects.
+
+She explained that behavior like excessive praise or flattery can emerge from attempts to improve usability—especially if the team overweights short-term feedback such as thumbs-up responses. Jang acknowledged this as a mistake.
+
+“We didn’t bake in enough nuance,” she said, noting that early efforts to reduce hallucinations led to models that compulsively hedged, undermining clarity.
+
+She added that while system prompts—those behind-the-scenes instructions that guide a model’s behavior—can shape tone and policy adherence, they’re ultimately too blunt a tool to reliably steer nuanced behavior like disagreeing gracefully.
+
+Instead, OpenAI is leaning more heavily on changes made during model training itself to hardwire behavior like honesty, critical thinking, and tactful disagreement.
+
+One of the core themes of the AMA was the difficulty of striking a balance between helpfulness and honesty. Jang said she hopes to eventually enable every user to mold ChatGPT into a personality that suits them—including personas that offer critical feedback and push back on poor ideas. But until that vision is realized, the company is working toward a more palatable default: something broadly accessible yet capable of evolving through personalization.
+
+Jang also acknowledged internal debate over how much personality is too much. Some users, she said, appreciated the outgoing, emoji-rich personality of the recent GPT-4o variant, seeing it as creative and even inspiring—particularly in use cases like brainstorming and design. But others found it off-putting or even cringeworthy. Rather than enforce a single tone, Jang suggested OpenAI will likely introduce a set of personality presets that users can choose from and adjust in real time, without needing to dive into custom instructions or system prompt editing.
+
+On the specific issue of sycophancy, she reiterated that OpenAI is building new metrics to measure it with more granularity and objectivity. Not all compliments are equal, she noted—and future models will need to distinguish between affirming support and uncritical agreement.
+
+“Not everyone wants a chatbot that agrees with them,” Jang said. “But they do want one that understands them.”

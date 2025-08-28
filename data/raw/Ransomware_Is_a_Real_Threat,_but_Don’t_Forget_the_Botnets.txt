@@ -1,0 +1,22 @@
+Title: Ransomware Is a Real Threat, but Don’t Forget the Botnets
+URL: https://www.technologyreview.com/2017/06/28/150691/ransomware-is-a-real-threat-but-dont-forget-the-botnets/
+
+Like its predecessor, it uses a Windows flaw known as EternalBlue, identified by and leaked from the NSA, to infiltrate devices. But unlike WannaCry, it can’t be halted with a simple kill switch. It appears that NotPetya finds a host via hacked software updates and then spreads by capturing administrator credentials from a computer’s RAM. That allows it to move across an entire organization’s network fairly quickly.
+
+It’s so far unclear who’s behind the attack. But given particularly heavy targeting of Ukrainian systems—in fact, the nation has suffered three large ransomware attacks in the last month—it’s thought that Russia may be involved.
+
+It’s worth taking a moment to contextualize the problem, though. To be sure, ransomware attacks can cripple organizations—in the best cases they waste time and energy while systems are restored from backups, while in the worst they can destroy data or force victims to pay large sums of money. And it is undeniably unpalatable when such attacks are targeted at organizations like hospitals, where they could literally be a matter of life and death.
+
+But the current attacks leverage a vulnerability in Windows XP—whose service pack 3 is almost 10 years old and no longer supported by Microsoft (though the company has stepped up and provided updates to patch the recently abused flaws). While it’s unfortunate that so many organizations still rely on such an operating system, it is very much a solvable problem that can be overcome given the correct allocation of resources.
+
+The same can’t be said for perhaps the biggest security threat that we face today: botnets. These collections of Internet-connected devices, such as webcams or digital video recorders, are increasingly corralled to nefarious ends, often to perform distributed denial of service (DDoS) attacks that overwhelm a server with data requests in order to prevent normal queries from being answered.
+
+Case in point: last year, the so-called Mirai botnet was leveled at Dyn, a domain-name-system host used by thousands of websites to manage the process of pointing computers to the correct files when a user requests a Web page. The result was widespread Internet outages across the East Coast.
+
+The security expert Bruce Schneier, who wrote an article for MIT Technology Review naming botnets of things one of our 10 breakthrough technologies of 2017, said the trend will only continue to grow. “Botnets will get larger and more powerful simply because the number of vulnerable devices will go up by orders of magnitude over the next few years,” he explained. “Expect more attacks like the one against Dyn in the coming year.”
+
+The results could become much more severe as such attacks are leveled at more, and more important, centralized Web services. In theory, far larger networks and chunks of the Internet could be taken down. Importantly, the problem here is that a system could be compromised not by an organization’s failure to keep systems up to date, but by an onslaught generated from cheap and poorly secured connected devices in homes and businesses. And even security products designed to fend off DDoS attacks can’t always block the largest of them.
+
+Security experts have warned Congress that this is a very real problem, which is like to be solved only via regulations on Internet of Things devices. The Trump administration has vowed to crack down on botnets, but its proffered solutions are at best a long shot. That means botnets remain a potent security threat that is incredibly difficult to defend against. And while ransomware may be making the headlines right now, it would pay to remember the bots are still out there.
+
+(Read more: The Register, Guardian, “The WannaCry Ransomware Attack Could’ve Been a Lot Worse,” “10 Breakthrough Technologies: Botnet of Things,” “Holding Data Hostage: The Perfect Internet Crime?”)

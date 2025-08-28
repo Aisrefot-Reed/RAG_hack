@@ -1,0 +1,22 @@
+Title: Inside the strange new world of being a deepfake actor
+URL: https://www.technologyreview.com/2020/10/09/1009850/ai-deepfake-acting/
+
+So Panetta, the creative director at MIT's Center for Virtuality, and Burgund, a fellow at the MIT Open Documentary Lab, partnered up with two AI companies. Canny AI would handle the deepfake video, and Respeecher would prepare the deepfake audio. With all the technical components in place, they just needed one last thing: an actor who would supply the performance.
+
+“We needed to find somebody who was willing to do this, because it’s a little bit of a weird ask,” Burgund says. “Somebody who was more flexible in their thinking about what an actor is and does.”
+
+While deepfakes have now been around for a number of years, deepfake casting and acting are relatively new. Early deepfake technologies weren’t very good, used primarily in dark corners of the internet to swap celebrities into porn videos without their consent. But as deepfakes have grown increasingly realistic, more and more artists and filmmakers have begun using them in broadcast-quality productions and TV ads. This means hiring real actors for one aspect of the performance or another. Some jobs require an actor to provide “base” footage; others need a voice.
+
+For actors, it opens up exciting creative and professional possibilities. But it also raises a host of ethical questions. “This is so new that there’s no real process or anything like that,” Burgund says. “I mean, we were just sort of making things up and flailing about.”
+
+“Want to become Nixon?”
+
+The first thing Panetta and Burgund did was ask both companies what kind of actor they needed to make the deepfakes work. “It was interesting not only what were the important criteria but also what weren’t,” Burgund says.
+
+For the visuals, Canny AI specializes in video dialogue replacement, which uses an actor’s mouth movements to manipulate someone else’s mouth in existing footage. The actor, in other words, serves as a puppeteer, never to be seen in the final product. The person’s appearance, gender, age, and ethnicity don’t really matter.
+
+But for the audio, Respeecher, which transmutes one voice into another, said it’d be easier to work with an actor who had a similar register and accent to Nixon’s. Armed with that knowledge, Panetta and Burgund began posting on various acting forums and emailing local acting groups. Their pitch: “Want to become Nixon?”
+
+Actor Lewis D. Wheeler spent days in the studio training the deepfake algorithms to map his voice and face to Nixon's. PANETTA AND BURGUND
+
+This is how Lewis D. Wheeler, a Boston-based white male actor, found himself holed up in a studio for days listening to and repeating snippets of Nixon’s audio. There were hundreds of snippets, each only a few seconds long, “some of which weren’t even complete words,” he says.

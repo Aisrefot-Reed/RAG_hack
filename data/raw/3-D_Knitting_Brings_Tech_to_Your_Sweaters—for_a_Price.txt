@@ -1,0 +1,12 @@
+Title: 3-D Knitting Brings Tech to Your Sweaters—for a Price
+URL: https://www.technologyreview.com/2017/04/06/152728/3-d-knitting-brings-tech-to-your-sweaters-for-a-price/
+
+At heart, the technique is an incremental improvement on industrial knitting machines: more customizable software and better hardware mean the machines are more capable, sure. But crucially, they are also now more easily programmable. Indeed, in 2013 a U.K. startup called Knyttan created its own software that would allow knitting machines to churn out just about any design a customer could imagine, insisting that the per-unit cost of knitting one sweater would be the same as a run of, say, 50 or more using a single design. Knyttan raised a few million dollars in venture capital to develop the idea, and now sells sweaters and sweater-software-as-a-service under the name Unmade.
+
+Last year, Adidas took the idea to its logical conclusion, launching a pop-up store in Berlin that allowed customers to get a 3-D scan of their bodies, create a sweater design, and have a one-of-a-kind merino wool top ready within four hours at a cost of 200 euros (about $215). The “knit for you” experiment closed up shop in March, but Adidas said it’s part of the company’s push toward faster manufacturing processes.
+
+Speaking to Quartz, Advani argued that Ministry of Supply’s blazer is superior in look and feel to conventionally made garments. It’s also touted as cutting down on wasted fabric and means the company makes a blazer only when there is demand for one. In other words, there is less risk of unsold inventory. That’s probably a good thing, considering it retails for a hefty $345.
+
+Perhaps unsurprisingly, Shima Seiki believes there is a much larger opportunity in 3-D knitting than just on-demand clothing. Late last year it inked a deal with Fast Retailing, the company behind Uniqlo, to set up a factory that would use the whole-garment knitting machines to mass-produce clothing. Whether that will translate into a tech-enabled revolution in the textile industry, however, remains to be seen.
+
+(Read more: Quartz, Reuters, The Guardian)

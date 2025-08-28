@@ -1,0 +1,26 @@
+Title: Ubisoft launches decentralized verification network with LayerZero’s protocol
+URL: https://venturebeat.com/games/ubisoft-launches-decentralized-verification-network-with-layerzeros-protocol/
+
+Ubisoft, the gaming giant behind Assassin’s Creed, has launched its decentralized verification network (DVN) to secure cross-chain asset transfers via LayerZero’s interoperability protocol.
+
+This initiative reinforces Ubisoft’s commitment to fostering a safe, scalable, and accessible environment for digital assets, ensuring gamers can engage seamlessly across multiple ecosystems.
+
+Ubisoft’s DVN establishes a secure foundation for in-game assets, enabling trustless verification and ensuring ownership integrity across multiple blockchains.
+
+Acting as a decentralized verification layer, the DVN eliminates technical barriers and enhances security, empowering a more resilient blockchain gaming environment. By leveraging LayerZero’s omnichain messaging protocol, Ubisoft gives publishers full control over asset security and movement while enabling seamless, interoperable gaming experiences.
+
+LayerZero’s role: Powering seamless omnichain interoperability
+
+To achieve this level of cross-chain functionality, Ubisoft utilizes LayerZero’s omnichain messaging protocol, connecting its platform with gamers across Ethereum, Solana, Polygon, and 130 other blockchains. This enhances the security and interoperability of the DVN, enabling Ubisoft to maintain ownership verification while unlocking new possibilities for asset transfer across chains.
+
+By adopting LayerZero’s ONFT and OFT standards, Ubisoft gains greater control over how assets move across chains, allowing NFTs, PFPs, and in-game currencies to be used wherever players need them, without being confined to a single ecosystem.
+
+Ubisoft has been at the forefront of blockchain gaming since 2021, pioneering new ways to integrate digital ownership into its franchises. With the launch of the DVN and its partnership with LayerZero, Ubisoft is accelerating the shift toward a gaming landscape where asset ownership, protection, and cross-chain interoperability are the standard.
+
+Didier Genevois, executive producer at Ubisoft, said in a statement, “With the launch of the DVN, we are enhancing the security and scalability of our gaming platform. This solution enables us to safeguard assets and ensure their seamless transfer across chains, meeting gamers wherever they are. Our partnership with LayerZero is a testament to our commitment to working with those who provide the tools necessary to build a safe, accessible, and thriving ecosystem for gamers and developers.”
+
+Bryan Pelligrino, CEO of LayerZero, said in a statement, “Ubisoft’s commitment to building a trustworthy, expandable omnichain ecosystem is exactly the kind of forward-thinking approach that will define the future of gaming. By leveraging LayerZero’s protocol, Ubisoft is not only advancing interoperability but also contributing to the broader vision of a unified, permissionless blockchain network.”
+
+The deal is an important one for LayerZero, considering Ubisoft had bookings in the past year of €2.32 billion.
+
+LayerZero is the leading omnichain interoperability protocol connecting 130+ chains and powering 400+ applications. Using the protocol, developers can create applications that exist on many blockchains at once: from stablecoins to onchain lending markets to digital identity. Over 300 teams – such as Ethena, PayPal, and Pudgy Penguins – have built with LayerZero, and the protocol has facilitated over 140 million messages between chains.

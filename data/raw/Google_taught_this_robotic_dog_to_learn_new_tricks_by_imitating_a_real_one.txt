@@ -1,0 +1,10 @@
+Title: Google taught this robotic dog to learn new tricks by imitating a real one
+URL: https://www.technologyreview.com/2020/04/03/998489/google-ai-robotic-dog-learns-with-imitation-reinforcement-learning/
+
+How they did it: First, they used the motion data from the real dog to construct simulations of each maneuver, including a dog trot, side-step, and … a dog version of classic ’80s dance move, the running man. (The last one was not, in fact, performed by the real dog itself. The researchers manually animated the simulated dog to dance to see if that would translate to the robot as well.) They then matched together key joints on the simulated dog and the robot to make the simulated robot move in the exact same way as the animal. Using reinforcement learning, it then learned to stabilize the movements and correct for differences in weight distribution and design. Finally, the researchers were able to port the final control algorithm into a physical robot in the lab—though some moves, like the running man, weren’t entirely successful.
+
+Why it matters: Teaching robots the complex and agile movements necessary to navigate the real world has been a long-standing challenge in the field. Imitation learning of this kind instead allows such machines to easily borrow the agility of animals and even humans.
+
+Future work: Jason Peng, the lead author on the paper, says there are still a number of challenges to overcome. The heaviness of the robot limits its ability to learn certain maneuvers, like big jumps or fast running. Additionally, capturing motion sensor data from animals isn’t always possible. It can be incredibly expensive and requires the animal’s cooperation. (A dog is friendly; a cheetah, not so much.) The team plans to try using animal videos instead, which would make their technique far more accessible and scalable.
+
+To have more stories like this delivered directly to your inbox, sign up for our Webby-nominated AI newsletter The Algorithm. It's free.

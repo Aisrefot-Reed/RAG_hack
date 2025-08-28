@@ -1,0 +1,18 @@
+Title: Smart cities could be lousy to live in if you have a disability
+URL: https://www.technologyreview.com/2019/01/09/137899/smart-cities-coule-be-lousy-if-you-have-a-disability/
+
+People with disabilities affecting mobility, vision, hearing, and cognitive function often move to cities to take advantage of their comprehensive transit systems and social services. But US law doesn’t specify how municipalities should design and implement digital services for disabled people. As a result, cities sometimes adopt new technologies that can end up causing, rather than resolving, problems of accessibility.
+
+Nowhere was this more evident than with New York City’s LinkNYC kiosks, which were installed on sidewalks in 2016 without including instructions in audible form or screen-reading functionality. Shortly after they went in, the American Federation for the Blind sued the city. The suit was settled in 2017 and the kiosks have been updated, but Pineda says touch screens in general are still not fully accessible to people with disabilities.
+
+Also problematic: the social-media-based apps that some municipal governments have started using to solicit feedback from residents. Blind and low-vision people typically can’t use the apps, and people over 65 are less likely to, says James Thurston, a vice president at the nonprofit G3ict, which promotes accessible information and communication technologies. “Cities may think they’re getting data from all their residents, but if those apps aren’t accessible, they’re leaving out the voices of large chunks of their population,” he says.
+
+Room for improvement
+
+Adriana Mallozzi, a technology entrepreneur who lives in Boston, says she loves the city but gets frustrated when it deploys technologies without exploring how they could help people like her: like Pineda, she uses a wheelchair and has trouble using her hands and arms. She struggles with the buttons that cities install next to doorways and intersections to open doors and activate crossing signals, for example. “A lot of the buttons are oddly placed,” she says. “I’d have to kick my foot in a very specific place to activate them—and they’re often blocked by things like decorative plants, so I can’t get close enough to do that anyway.” A smartphone app would be a better way to deal with such needs, she says.
+
+Cities could also use technology to make commuting safer and more predictable for people who have cognitive disabilities, says John Blascovich, the president of the Matthew Foundation, a nonprofit that seeks to improve the lives of people with Down syndrome. “Typically, these folks have memorized what bus to get on and how many stops to go, and if the route changes or the bus isn’t operating, they run into problems,” says Blascovich, whose son has Down syndrome. He’d like to see an app that tracks transportation delays and detours in real time and advises users, through a smartphone or wearable device, on how to handle the route changes.
+
+Some of these technologies aren’t far off. People who are blind can already use their smartphone’s screen reader to operate transit apps like Moovit. The app, which helps plan trips on public transportation, alerts users when buses are arriving and gives step-by-step directions to their destination. It also notes which routes are accessible by wheelchair.
+
+The startup Aira makes wirelessly connected smart glasses that enable blind people to navigate complex interior spaces with the aid of remotely located, sighted “agents.” At $1 to $1.50 per minute, the service is pricey, but it’s available free at some Target and Walgreens stores and 30 airports in the US, as well as Heathrow Airport in London.

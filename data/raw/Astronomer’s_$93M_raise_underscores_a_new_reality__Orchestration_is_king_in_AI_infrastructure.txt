@@ -1,0 +1,76 @@
+Title: Astronomer’s $93M raise underscores a new reality: Orchestration is king in AI infrastructure
+URL: https://venturebeat.com/ai/astronomer-93m-raise-underscores-a-new-reality-orchestration-is-king-in-ai-infrastructure/
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+Astronomer, the company behind the Apache Airflow-powered data orchestration platform Astro, has secured $93 million in Series D funding as enterprises increasingly seek to operationalize AI initiatives through better management of their data pipelines.
+
+The funding round was led by Bain Capital Ventures, with participation from Salesforce Ventures and existing investors including Insight, Meritech, and Venrock. Bosch Ventures is also seeking to participate in the round, reflecting industrial interest in the technology.
+
+In an exclusive interview with VentureBeat, Astronomer CEO Andy Byron explained that the company will use the funding to expedite research and development efforts and expand its global footprint, particularly in Europe, Australia, and New Zealand.
+
+“For us, this is just a step along the way,” Byron said. “We want to build something awesome here. I couldn’t be more excited about our venture partners, our customers, our product vision, which I think is super strong in going after collapsing the data ops market.”
+
+How data orchestration became the hidden key to enterprise AI success
+
+The funding targets what industry analysts have identified as the “AI implementation gap” — the significant technical and organizational hurdles that prevent companies from deploying AI at scale. Data orchestration, the process of automating and coordinating complex data workflows across disparate systems, has become an essential component of successful AI deployments.
+
+Enrique Salem, Partner at Bain Capital Ventures, explained the critical challenges facing enterprises today: “Every company operates a sprawling, fragmented data ecosystem—using a patchworks of tools, teams, and workflows that struggle to deliver reliable insights, creating operational bottlenecks and limiting agility. At the heart of this complexity is orchestration—the layer that coordinates all these moving pieces.”
+
+Salem noted that despite its importance, “today’s orchestration landscape is where cloud infrastructure was 15 years ago: mission critical, yet fragmented, brittle and often built in-house with limited scalability. Data engineers spend more time maintaining pipelines than driving innovation. Without robust orchestration, data is unreliable, agility is lost, and businesses fall behind.”
+
+The company’s platform, Astro, is built on Apache Airflow, an open-source framework that has seen explosive growth. According to the company’s recently released State of Airflow 2025 report, which surveyed over 5,000 data practitioners, Airflow was downloaded more than 324 million times in 2024 alone — more than all previous years combined.
+
+“Airflow has established itself as the proven de facto standard for data pipeline orchestration,” Astronomer SVP of Marketing Mark Wheeler explained. “When we look at the competitive landscape in the orchestration layer, Airflow has clearly emerged as the standard solution for moving modern data efficiently from source to destination.”
+
+From invisible plumbing to enterprise AI backbone: The evolution of data infrastructure
+
+Astronomer’s growth reflects a transformative shift in how enterprises view data orchestration — from hidden backend infrastructure to mission-critical technology that enables AI initiatives and drives business value.
+
+“BCV’s belief in Astronomer goes way back. We invested in the company’s seed round in 2019 and have supported the company over the years, now culminating in leading their Series D,” Salem said. “Beyond the impressive growth, Astronomer’s data orchestration has become even more important in the age of AI, which requires scalable orchestration and model deployment automation amidst a ballooning sea of data tools that don’t talk to each other.”
+
+According to the company’s internal data, 69% of customers who have used its platform for two or more years are using Airflow for AI and machine learning applications. This adoption rate is significantly higher than the broader Airflow community, suggesting that Astronomer’s managed service accelerates enterprise AI deployments.
+
+The company has seen 150% year-over-year growth in Astro (managed SaaS platform) annual recurring revenue and boasts a 130% net revenue retention rate, indicating strong customer expansion.
+
+“While market analysts may be looking for a clear winner in the cloud data platforms battle, enterprises have clearly chosen a multi-solution strategy—just like they earlier determined that multi-cloud would far outpace standardization on any single cloud provider,” Wheeler explained. “Leading enterprises refuse to lock into a single vendor, opting for multi-cloud and diverse data platform approaches to stay agile and take advantage of the latest innovations.”
+
+Inside Ford’s massive AI operation: How petabytes of weekly data power next-generation vehicles
+
+Major enterprises are already leveraging Astronomer’s platform for sophisticated AI use cases that would be challenging to implement without robust orchestration.
+
+At Ford Motor Company, Astronomer’s platform powers the company’s Advanced Driver Assistance Systems (ADAS) and its multi-million dollar “Mach1ML” machine learning operations platform.
+
+The automotive giant processes more than one petabyte of data weekly and runs over 300 parallel workflows, balancing CPU- and GPU-intensive tasks for AI model development across a hybrid public/private cloud platform. These workflows power everything from autonomous driving systems to Ford’s specialized FordLLM platform for large language models.
+
+Ford initially built its MLOps platform using Kubeflow for orchestration but encountered significant challenges, including a steep learning curve and tight integration with Google Cloud, which limited flexibility. After transitioning to Airflow for Mach1ML 2.0, Ford reports dramatically streamlined workflows and seamless integration across on-premises, cloud, and hybrid environments.
+
+From AI experiments to production: How orchestration bridges the implementation divide
+
+A common challenge for enterprises is moving AI from proof-of-concept to production. According to Astronomer’s research, organizations that establish strong data orchestration foundations are more successful at operationalizing AI.
+
+“As more enterprises are running ML workflows and real-time AI pipelines, they require scalable orchestration and model deployment automation,” Salem explained. “Astronomer delivers on this today, and as the orchestrator, is the one system that sees everything happening across the stack — when data moves, when transformations run, when models are trained.”
+
+Over 85% of Airflow users surveyed expect an increase in external-facing or revenue-generating solutions built on Airflow in the next year, highlighting how data orchestration is increasingly powering customer-facing applications rather than just internal analytics.
+
+This trend is evident across industries, from automotive to legal technology companies that are building specialized AI models to automate professional workflows. These organizations are turning to Astronomer to handle the complex orchestration challenges that arise when scaling AI systems from prototypes to production environments serving thousands of users.
+
+Strategic technology expansion: Airflow 3.0 and cloud partnerships position Astronomer for market leadership
+
+The company recently announced the general availability of Airflow 3.0, which it describes as “the most significant release in Airflow’s history.” The update introduces several transformative capabilities designed specifically for AI workloads, including the ability to run tasks “anywhere, any time, in any language.”
+
+“Airflow 3.0 lays the foundation for executing tasks on any machine, on-prem or in the cloud, triggered by events across the data ecosystem,” Byron explained. “It also introduces a proof of concept for defining tasks in languages beyond Python, greatly improving data team agility and facilitating migration from legacy systems to Airflow.”
+
+Astronomer has also expanded its industry partnerships, recently achieving the Google Cloud Ready – BigQuery Designation, making its platform available for purchase directly from the Google Cloud Marketplace. This allows existing Google Cloud customers to expedite their purchase of Astro and use their existing Google Cloud commit credits.
+
+“We’ve just signed an awesome partnership with IBM,” Byron told VentureBeat. “They’re putting us into their broader data portfolio of products. And we think there’s an awesome opportunity for us, not only in North America, but internationally, to get a lot of momentum with IBM as well.”
+
+Unified DataOps: The next evolution in enterprise data management
+
+Salem believes Astronomer is positioned to redefine enterprise data operations, moving beyond orchestration to what the company calls “unified DataOps” — a comprehensive approach integrating observability, quality management, and governance into a single platform.
+
+“We invested in Astronomer in 2019 with a simple bet: Airflow would become the standard for data orchestration,” Salem said. “Today, it runs at over 80,000 companies and drives 30 million downloads a month. We backed Astronomer because they’re not only riding that wave; they’re building the enterprise control plane on top of it.”
+
+For enterprises struggling to realize value from their AI investments, Astronomer’s growth signals a crucial shift in how data infrastructure is built and managed — one where orchestration serves as the foundation for the entire data stack.
+
+“As AI raises the stakes for reliable, scalable data infrastructure, we’re doubling down on our investment,” Salem concluded. “Orchestration is just the start. The team at Astronomer are poised to unify the entire DataOps stack.”

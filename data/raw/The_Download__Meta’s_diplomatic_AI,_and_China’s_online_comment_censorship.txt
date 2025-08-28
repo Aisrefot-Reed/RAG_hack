@@ -1,0 +1,68 @@
+Title: The Download: Meta’s diplomatic AI, and China’s online comment censorship
+URL: https://www.technologyreview.com/2022/11/23/1055294/download-meta-diplomatic-ai-china-online-comment-censorship/
+
+China recently published a draft law on its forthcoming social credit system, which will eventually guide how the country builds it.
+
+The system is intended to promote trustworthiness in business, education, and almost every other aspect of life. How it will actually achieve this is far from straightforward.
+
+One example of the social credit system’s implications—specifically, how it can affect social media and freedom of speech—reveals how the noble-sounding goal of building trust can be problematic in practice. And while the Chinese government is confident in its ability to pass judgments on the trustworthiness of social media posts, other parties are unlikely to agree. Read the full story.
+
+—Zeyi Yang
+
+Zeyi’s story is from China Report, his weekly newsletter covering everything you need to know about China. Sign up to receive it in your inbox every Tuesday.
+
+The must-reads
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Twitter is becoming more dangerous
+
+Elon Musk is tearing down the platform’s safety systems. (WP $)
+
++ Toxic speech is proliferating as a result. (Wired $)
+
++ There’s a lot of tweets about tweets at the moment. (The Atlantic $)
+
++ Twitter’s advertisers are leaving in droves. (WP $)
+
++ Mastodon is a much quieter, slower place, comparatively. (New Yorker $)
+
+
+
+2 Sam Bankman-Fried treated FTX as his “personal fiefdom”
+
+That’s according to the attorney representing the company at its first bankruptcy hearing. (The Guardian)
+
++ A substantial amount of FTX’s assets are either missing or stolen. (WSJ $)
+
++ Bankman-Fried’s influence on Washington DC’s crypto policy was undeniable. (Motherboard)
+
++ He hasn’t done the industry any favors. (New Yorker $)
+
+
+
+3 Tax filing sites secretly shared financial data with Facebook
+
+Users’ incomes and scholarship amounts can power Facebook’s advertising algorithms. (The Markup)
+
+
+
+4 Americans seem to be tiring of covid vaccines
+
+The fear is that hesitancy could spill over into future outbreaks too. (Vox)
+
++ Paxlovid refusal is particularly prominent. (The Atlantic $)
+
+5 Twins have been born from embryos frozen 30 years ago
+
+The healthy boy and girl are believed to be the longest-frozen embryos to be born. (CNN)
+
+6 China says it’s “resolved” a video game addiction among children
+
+Thanks to very tight restrictions on how many hours they can play. (FT $)
+
++ China is buying fewer chip-making machines. (Bloomberg $)
+
++ Video game addiction is now being recognized—what happens next? (MIT Technology Review)

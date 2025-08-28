@@ -1,0 +1,1 @@
+ove downstream to smaller, more accessible, affordable, and customizable models. For technical decision-makers tasked with managing performance, scalability, cost, and risk, it offers a modular, interpretable alternative that can be evaluated and integrated on a flexible basis—whether in isolated inference endpoints, embedded tooling, or full-stack generative AI systems.

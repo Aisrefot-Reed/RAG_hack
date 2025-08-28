@@ -1,0 +1,58 @@
+Title: Epic Games touts victory in latest court ruling in Apple antitrust case
+URL: https://venturebeat.com/games/epic-games-touts-victory-in-latest-court-ruling-in-apple-antitrust-case/
+
+A federal district court judge found that Apple willfully violated a court order in Epic Games vs. Apple antitrust case.
+
+Tim Sweeney, Epic Games’ CEO, tweeted about the court victory, saying “NO FEES on web transactions. Game over for the Apple Tax.”
+
+If Sweeney is correct in his interpretation of the ruling, it could be a lucrative outcome for Epic Games, whose Fortnite has been banned by Apple in the U.S., largely because of the litigation.
+
+In a statement, a spokesperson for Apple said, “We strongly disagree with the decision. We will comply with the court’s order and we will appeal.”
+
+He said that “Apple’s 15% to 30% junk fees are now just as dead here in the United States of America as they are in Europe under the Digital Markets Act. Unlawful here, unlawful there.”
+
+U.S. District Court judge Yvonne Gonzalez Rogers held Apple in contempt of her prior court ruling. She wrote, “For the reasons set forth herein, the court finds Apple in willful violation of this court’s
+
+2021 injunction which issued to restrain and prohibit Apple’s anticompetitive conduct and
+
+anticompetitive pricing. Apple’s continued attempts to interfere with competition will not be
+
+tolerated.”
+
+Sweeney noted that the case has been going on for four years, four months and 17 days.
+
+“We will return Fortnite to the US iOS App Store next week,” said Sweeney. “Epic puts forth a peace proposal: If Apple extends the court’s friction-free, Apple-tax-free framework worldwide, we’ll return Fortnite to the App Store worldwide and drop current and future litigation on the topic.”
+
+We’ve asked Apple for comment. Gonzalez Rogers wrote in her ruling, “Apple’s response to the Injunction strains credulity. After two sets of evidentiary hearings, the truth emerged. Apple, despite knowing its obligations thereunder, thwarted the Injunction’s goals, and continued its anticompetitive conduct solely to maintain its revenue stream. Remarkably, Apple believed that this Court would not see through its obvious cover-up (the 2024 evidentiary hearing). To unveil Apple’s actual decision-making process, not the one tailor-made for litigation, the Court ordered production of real-time documents and ultimately held a second set of hearings in 2025.”
+
+Epic Games has fought Apple for antitrust for years.
+
+To summarize: the judge wrote, “One, after trial, the court found that Apple’s 30% commission “allowed it to reap supracompetitive operating margins” and was not tied to the value of its intellectual property, and thus, was anticompetitive. Apple’s response: charge a 27% commission (again tied to nothing) on off-app purchases, where it had previously charged nothing, and extend the commission for a period of seven days after the consumer linked-out of the app.
+
+She added, “Apple’s goal: maintain its anticompetitive revenue stream. Two, the Court had prohibited Apple from denying developers the ability to communicate with, and direct consumers to, other
+
+purchasing mechanisms. Apple’s response: impose new barriers and new requirements to increase
+
+friction and increase breakage rates with full page “scare” screens, static URLs, and generic
+
+statements. Apple’s goal: to dissuade customer usage of alternative purchase opportunities and
+
+maintain its anticompetitive revenue stream. In the end, Apple sought to maintain a revenue
+
+stream worth billions in direct defiance of this Court’s Injunction.”
+
+The judge said that “in stark contrast to Apple’s initial in-court testimony,” the documents revealed that Apple knew exactly what it was doing and at every turn chose the most anticompetitive option.
+
+“To hide the truth, vice president of finance, Alex Roman, outright lied under oath,” the judge wrote. “Internally, Phillip Schiller had advocated that Apple comply with the injunction, but Tim Cook ignored Schiller and instead allowed Chief Financial Officer Luca Maestri and his finance team to convince him otherwise. Cook chose poorly. The real evidence, detailed herein, more than meets the clear and convincing standard to find a violation. The court refers the matter to the United States Attorney for the Northern District of California to investigate whether criminal contempt proceedings are appropriate.”
+
+In 2021, the judge found in Apple’s favor on most antitrust issues, but she said that Apple went too far when it told developers that they could not advertise lower off-app-store prices to consumers inside their own apps that were subject to Apple’s 30% fee. After the judge ruled in 2021 that Apple had violated antitrust law by muzzling developers who were directing consumers to lower prices, Apple and Epic both appealed the verdict and the case went up to the U.S. Supreme Court. The court held that the judge’s ruling was correct, handing Epic a pretty large defeat.
+
+But today the judge wrote, “This is an injunction, not a negotiation. There are no do-overs once a party willfully disregards a court order. Time is of the essence. The court will not tolerate further delays. As previously ordered, Apple will not impede competition. The Court enjoins Apple from implementing its new anticompetitive acts to avoid compliance with the Injunction. Effective immediately Apple will no longer impede developers’ ability to communicate with users nor will they levy or impose a new commission on off-app purchases.”
+
+That could prompt a lot of game developers to follow Epic Games and create their own web shops or alternatives to Apple’s store, opening the floodgates as those developers can no longer be punished by Apple for seeking to circumvent its 30% fees.
+
+Joost van Dreunen, a well-known game industry analyst and author of One Up, wrote in a newsletter, “This is the first time a U.S. court has called Apple’s platform fee what it is: rent-seeking. It doesn’t mean the end of the 30% cut, but it does mean that fee structures will face greater scrutiny, especially when they’re engineered to look compliant while stifling competition. Even so, the court made clear this wasn’t accidental or incidental. It was engineered to maintain the cash flow from the world’s most lucrative digital tollbooth.”
+
+Van Dreunen added, “The court further found Apple’s actions to be a deliberate attempt to preserve its supracompetitive margins—profits that exceed what would exist in a truly competitive market.”
+
+And he concluded, “By establishing that rent-seeking behaviors warrant not just civil penalties but potential criminal consequences, the court has dramatically altered the risk calculus for dominant platforms. As this precedent permeates through adjacent markets, expect a cascading series of adaptations: proactive platform concessions, more aggressive regulatory enforcement, and increasingly sophisticated developer strategies to reclaim economic agency. The Apple-Epic confrontation may ultimately be remembered not merely as a corporate dispute but as the catalyst that reconfigured the structural foundations of the digital economy.”

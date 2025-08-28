@@ -1,0 +1,80 @@
+Title: Salesforce takes aim at ‘jagged intelligence’ in push for more reliable AI
+URL: https://venturebeat.com/ai/salesforce-tackles-jagged-intelligence-problem-with-new-ai-benchmarks-and-models/
+
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+Salesforce is tackling one of artificial intelligence’s most persistent challenges for business applications: the gap between an AI system’s raw intelligence and its ability to consistently perform in unpredictable enterprise environments — what the company calls “jagged intelligence.”
+
+In a comprehensive research announcement today, Salesforce AI Research revealed several new benchmarks, models, and frameworks designed to make future AI agents more intelligent, trusted, and versatile for enterprise use. The innovations aim to improve both the capabilities and consistency of AI systems, particularly when deployed as autonomous agents in complex business settings.
+
+“While LLMs may excel at standardized tests, plan intricate trips, and generate sophisticated poetry, their brilliance often stumbles when faced with the need for reliable and consistent task execution in dynamic, unpredictable enterprise environments,” said Silvio Savarese, Salesforce’s Chief Scientist and Head of AI Research, during a press conference preceding the announcement.
+
+The initiative represents Salesforce’s push toward what Savarese calls “Enterprise General Intelligence” (EGI) — AI designed specifically for business complexity rather than the more theoretical pursuit of Artificial General Intelligence (AGI).
+
+“We define EGI as purpose-built AI agents for business optimized not just for capability, but for consistency, too,” Savarese explained. “While AGI may conjure images of superintelligent machines surpassing human intelligence, businesses aren’t waiting for that distant, illusory future. They’re applying these foundational concepts now to solve real-world challenges at scale.”
+
+How Salesforce is measuring and fixing AI’s inconsistency problem in enterprise settings
+
+A central focus of the research is quantifying and addressing AI’s inconsistency in performance. Salesforce introduced the SIMPLE dataset, a public benchmark featuring 225 straightforward reasoning questions designed to measure how jagged an AI system’s capabilities really are.
+
+“Today’s AI is jagged, so we need to work on that. But how can we work on something without measuring it first? That’s exactly what this SIMPLE benchmark is,” explained Shelby Heinecke, Senior Manager of Research at Salesforce, during the press conference.
+
+For enterprise applications, this inconsistency isn’t merely an academic concern. A single misstep from an AI agent could disrupt operations, erode customer trust, or inflict substantial financial damage.
+
+“For businesses, AI isn’t a casual pastime; it’s a mission-critical tool that requires unwavering predictability,” Savarese noted in his commentary.
+
+Inside CRMArena: Salesforce’s virtual testing ground for enterprise AI agents
+
+Perhaps the most significant innovation is CRMArena, a novel benchmarking framework designed to simulate realistic customer relationship management scenarios. It enables comprehensive testing of AI agents in professional contexts, addressing the gap between academic benchmarks and real-world business requirements.
+
+“Recognizing that current AI models often fall short in reflecting the intricate demands of enterprise environments, we’ve introduced CRMArena: a novel benchmarking framework meticulously designed to simulate realistic, professionally grounded CRM scenarios,” Savarese said.
+
+The framework evaluates agent performance across three key personas: service agents, analysts, and managers. Early testing revealed that even with guided prompting, leading agents succeed less than 65% of the time at function-calling for these personas’ use cases.
+
+“The CRM arena essentially is a tool that’s been introduced internally for improving agents,” Savarese explained. “It allows us to stress test these agents, understand when they’re failing, and then use these lessons we learn from those failure cases to improve our agents.”
+
+New embedding models that understand enterprise context better than ever before
+
+Among the technical innovations announced, Salesforce highlighted SFR-Embedding, a new model for deeper contextual understanding that leads the Massive Text Embedding Benchmark (MTEB) across 56 datasets.
+
+“SFR embedding is not just research. It’s coming to Data Cloud very, very soon,” Heinecke noted.
+
+A specialized version, SFR-Embedding-Code, was also introduced for developers, enabling high-quality code search and streamlining development. According to Salesforce, the 7B parameter version leads the Code Information Retrieval (CoIR) benchmark, while smaller models (400M, 2B) offer efficient, cost-effective alternatives.
+
+Why smaller, action-focused AI models may outperform larger language models for business tasks
+
+Salesforce also announced xLAM V2 (Large Action Model), a family of models specifically designed to predict actions rather than just generate text. These models start at just 1 billion parameters—a fraction of the size of many leading language models.
+
+“What’s special about our xLAM models is that if you look at our model sizes, we’ve got a 1B model, we all the way up to a 70B model. That 1B model, for example, is a fraction of the size of many of today’s large language models,” Heinecke explained. “This small model packs just so much power in taking the ability to take the next action.”
+
+Unlike standard language models, these action models are specifically trained to predict and execute the next steps in a task sequence, making them particularly valuable for autonomous agents that need to interact with enterprise systems.
+
+“Large action models are LLMs under the hood, and the way we build them is we take an LLM and we fine-tune it on what we call action trajectories,” Heinecke added.
+
+Enterprise AI safety: How Salesforce’s trust layer establishes guardrails for business use
+
+To address enterprise concerns about AI safety and reliability, Salesforce introduced SFR-Guard, a family of models trained on both publicly available data and CRM-specialized internal data. These models strengthen the company’s Trust Layer, which provides guardrails for AI agent behavior.
+
+“Agentforce’s guardrails establish clear boundaries for agent behavior based on business needs, policies, and standards, ensuring agents act within predefined limits,” the company stated in its announcement.
+
+The company also launched ContextualJudgeBench, a novel benchmark for evaluating LLM-based judge models in context—testing over 2,000 challenging response pairs for accuracy, conciseness, faithfulness, and appropriate refusal to answer.
+
+Looking beyond text, Salesforce unveiled TACO, a multimodal action model family designed to tackle complex, multi-step problems through chains of thought-and-action (CoTA). This approach enables AI to interpret and respond to intricate queries involving multiple media types, with Salesforce claiming up to 20% improvement on the challenging MMVet benchmark.
+
+Co-innovation in action: How customer feedback shapes Salesforce’s enterprise AI roadmap
+
+Itai Asseo, Senior Director of Incubation and Brand Strategy at AI Research, emphasized the importance of customer co-innovation in developing enterprise-ready AI solutions.
+
+“When we’re talking to customers, one of the main pain points that we have is that when dealing with enterprise data, there’s a very low tolerance to actually provide answers that are not accurate and that are not relevant,” Asseo explained. “We’ve made a lot of progress, whether it’s with reasoning engines, with RAG techniques and other methods around LLMs.”
+
+Asseo cited examples of customer incubation yielding significant improvements in AI performance: “When we applied the Atlas reasoning engine, including some advanced techniques for retrieval augmented generation, coupled with our reasoning and agentic loop methodology and architecture, we were seeing accuracy that was twice as much as customers were able to do when working with kind of other major competitors of ours.”
+
+The road to Enterprise General Intelligence: What’s next for Salesforce AI
+
+Salesforce’s research push comes at a critical moment in enterprise AI adoption, as businesses increasingly seek AI systems that combine advanced capabilities with dependable performance.
+
+While the entire tech industry pursues ever-larger models with impressive raw capabilities, Salesforce’s focus on the consistency gap highlights a more nuanced approach to AI development — one that prioritizes real-world business requirements over academic benchmarks.
+
+The technologies announced Thursday will begin rolling out in the coming months, with SFR-Embedding heading to Data Cloud first, while other innovations will power future versions of Agentforce.
+
+As Savarese noted in the press conference, “It’s not about replacing humans. It’s about being in charge.” In the race to enterprise AI dominance, Salesforce is betting that consistency and reliability — not just raw intelligence—will ultimately define the winners of the business AI revolution.

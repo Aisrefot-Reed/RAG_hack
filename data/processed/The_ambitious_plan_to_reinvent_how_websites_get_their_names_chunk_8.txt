@@ -1,0 +1,1 @@
+its chain. If you enter one of those names, and if the owner hasn’t yet registered with Handshake, the software will simply redirect your request to regular DNS servers, says McKie: “If it doesn’t exist on Handshake, it’s just going to fall back, redundantly, to the normal web.”

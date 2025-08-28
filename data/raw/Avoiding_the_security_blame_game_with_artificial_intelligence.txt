@@ -1,0 +1,50 @@
+Title: Avoiding the security blame game with artificial intelligence
+URL: https://venturebeat.com/security/avoiding-the-security-blame-game-with-artificial-intelligence/
+
+Presented by Elastic
+
+95% of cyber security breaches are caused by human error: headaches like insider threats, credential misuse and human missteps. Even the most rigorous, experienced security professionals can overlook a step among the error-prone, manual processes that security protocols entail. And that risk is very much compounded by the amount of pressure IT professionals are under, including the extreme time crunches necessary to resolve issues quickly with the least damage as possible, mounting organizational pressures and increasingly sophisticated threats.
+
+Unfortunately, the human error challenge is no surprise, says Mike Nichols, VP of product for security at Elastic.
+
+“IT professionals have always been forced to do a great deal of complex switching between tasks and tools, they’re inundated with a massive number of alerts across systems, they’re chasing down data and putting out fires,” Nichols says. “On top of that, IT leaders are finding themselves in the trenches, triaging the effects of cybersecurity breaches, rather than hunting down and stopping these issues at the source. We’re hiring and paying for detectives, and they end up as beat cops instead.”
+
+The solution, Nichols says, is putting automation and AI into the hands of IT leaders and teams. By doing so, they can elevate and accelerate their performance — giving analysts immediate access to the information they need, helping them spot potential challenges early and automating parts of the data-sifting and discovery process. But while AI supports this work, it doesn’t replace the critical thinking and expertise analysts apply when making business and mission-driven decisions.
+
+How AI boosts human security expertise
+
+Prescriptive AI made a dramatic difference when it first emerged on the security front, with machine learning algorithms able to identify suspicious patterns and send out alerts. But adversaries can wiggle around signature-based rules, and false positives became the bane of many an IT team’s life. Generative AI and today’s security solutions have even greater potential — as long as it’s deployed strategically, and not just as a shiny new toy. It also works best directly embedded into workflows, to mitigate the context-switching problem that is the source of much human error. When choosing a solution, the critical questions are whether it will accelerate the user’s processes, does the AI show its work and can its output be trusted and is it positioned to improve an analyst’s understanding of security issues in the enterprise.
+
+“Where we’ve seen implementation work well is as an expert on an IT user’s shoulder, so they have the ability to ask questions quickly, get information and data on the fly,” Nichols says. “It’s also critical for prioritization and discovery, solving the problem of alert overwhelm, because it’s able to sort tickets, filter false positives or smaller problems and bring the biggest issues to the forefront.”
+
+It’s a setup that helps establish the OODA approach to decision-making: Observe, Orient, Decide and Act. In this looped approach, available information is filtered, then put into context so the decision-maker can make an informed choice at that moment, while staying agile and ready to pivot as more data becomes available.
+
+Once an expert analyst discovers a problem and then writes it up or fixes it, AI automation can put that learning back into the overall security operation, making it easily available to other analysts so that problems are solved more easily and work isn’t replicated over and over. With retrieval augmented generation, private context can be added to a well-trained public model, so that it returns bespoke answers to any analyst queries. This is especially true if organizational data is not typically operationalized, such as ticketing information from an ITSM solution, or configuration data from systems like firewalls or change logs.
+
+That also creates a natural learning environment. When a tier-1 analyst joins the team, they can use an AI assistant as a coach to ask questions, in natural language, in order to learn on the job. It’s a far more natural, easy-to-use way to take in and actually absorb critical information. This kind of conversational-learning environment helps employees feel engaged, especially in remote work environments, and offers new employees a way to grow as they learn from tier-2 and tier-3 experiences.
+
+Making security an enterprise-wide endeavor
+
+“The fact that security ended up in IT is limiting, because there are so many amazing analytical thinkers in other places,” Nichols says. “Across your organization you’ll find people who have great analytical minds that can really see and understand patterns in data and can pick apart logistical dilemmas. They might not know a thing about logs, ports or servers, but they shouldn’t need to.”
+
+In fact, AI does make security a business or a mission problem, taking the pressure off overwhelmed security teams. Organizations can bring in a larger circle of people who understand the business context of security dilemmas, how they impact the wider organizational strategy as well as the daily workflows of employees — and generative AI tools give them the real-time insight they need into the systems they’re analyzing.
+
+“When you bring in outside influences that aren’t in the typical IT or security suite you’ll find some amazing lessons learned and ways to improve your own processes,” he adds. “AI is just one way to help accelerate that, by expanding your horizon around what you think a security analyst actually has to be. Not the check-box certifications, but someone who understands what the underlying systems mean to a business, and can make business critical business calls when developing security strategy, implementing processes and mitigating risk.”
+
+Why AI adoption remains a struggle
+
+AI has proven benefits at this point, but organizations are still lagging in adoption rates. The contributing factor mostly boils down to hesitation to perceived risks, and the cost and complexity of migrating from legacy security information and event management (SIEM) solutions to an AI-driven security analytics platform.
+
+The first phase of a migration plan requires collecting and normalizing data, starting with prebuilt data integrations. Technologies that require custom connectors typically come next, but the manual nature of building each such integration can significantly slow the adoption of the new SIEM.
+
+“The cost to switch is always a big challenge,” Nichols says. “It’s not the product cost. The product cost is almost negligible in this. The cost of the switch is all of your TTPs, all of your rules, all of your queries, they all need to move to this other system, and we don’t have a magic universal language that we all use to make things simple.”
+
+Elastic developed a way to accelerate the process by automating SIEM data onboarding. Automatic Import automates the development of custom data integrations with generative AI, cutting the effort needed to create and validate custom integrations from several days to less than 10 minutes, and significantly lowering the learning curve for onboarding data.
+
+The feature is powered by the Elastic Search AI Platform, which provides model-agnostic access to harness the knowledge from LLMs and the ability to ground answers in proprietary data using RAG. The whole operation is completely transparent, from start to finish, with visual reports that highlight each successful one to one transfer, potential areas of conflict, and areas that require reconfiguration for the new security solution paradigm.
+
+“It’s about trust in real time,” Nichols says. “Instead of a contractor presenting you with a PDF that claims there are green lights across the board, you have an in-depth view into what exactly happened over the course of the migration, so when you do flip the switch, you know you have coverage exactly where you need it.”
+
+sales@venturebeat.com.
+
+Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact

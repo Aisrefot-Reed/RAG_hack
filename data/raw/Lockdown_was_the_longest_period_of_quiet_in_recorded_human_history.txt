@@ -1,0 +1,18 @@
+Title: Lockdown was the longest period of quiet in recorded human history
+URL: https://www.technologyreview.com/2020/07/23/1005574/lockdown-was-the-longest-period-of-quiet-in-human-history/
+
+“We can safely say that in modern seismology, we’ve never seen such a long period of human quiet,” says Raphael De Plaen at the Universidad Nacional Autónoma de México in Querétaro, one of the paper’s 76 authors.
+
+Seismic noise, or vibrations of the earth, is most often associated with earthquakes. But seismology also listens to the interplay of earth and water, tracking things like ocean swells and atmospheric pressure changes.
+
+Humans are the third-biggest source of seismic noise. Everyday urban activities like commutes, or stadiums full of fans simultaneously going wild in “football quakes,” are strong enough to register on seismometers.
+
+“It’s transport, like cars, trains, traffic, buses,” says coauthor Paula Koelemeijer of the Royal Holloway University of London. “It’s retail and recreation—not just people going shopping, but also going to parks. It’s workplaces and residences.”
+
+Under normal circumstances, this human noise merges with and muffles natural seismic activity. Exactly how much our behavior affects the levels of background noise has been hard to work out until now. Lockdown presented a unique opportunity for researchers not only to control for human activity but also to hear seismic noise that otherwise gets drowned out.
+
+The researchers—who included academics and citizen scientists—used data collected from 268 seismic monitoring stations around the world. These devices included highly technical seismographs housed in academic institutions. But about 40% of the data also came from Raspberry Shakes, personal seismographs that are built and used by hobbyists. The group used these devices in tandem with anonymized mobility data collected from Google and Apple to detect human movement. They were then able to match those observations with seismic noise reports in order to figure out whether seismic events were likely to be human-caused or natural.
+
+Of the 268 stations, 185, or 69%, showed significant reductions in high-frequency seismic ambient noise, the cocktail of human-produced and natural ambient noise that surrounds us. This silence began in late January in China; by mid-March, it had descended on the world.
+
+While the periods between Christmas and New Year and over Chinese New Year are usually the quietest, the difference was even starker this time. Sri Lanka, for example, saw a 50% reduction in noise, the largest the researchers measured. Sundays in New York’s Central Park are usually lively, but lockdown numbers registered a 10% reduction from the weeks immediately before. Even sensors buried deep under the surface picked up on the sudden lack of human activity above. A German observatory that lies almost 500 feet beneath rock was able to detect a drop in vibrations once lockdown kicked in.

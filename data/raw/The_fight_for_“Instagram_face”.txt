@@ -1,0 +1,24 @@
+Title: The fight for “Instagram face”
+URL: https://www.technologyreview.com/2022/08/19/1057133/fight-for-instagram-face/
+
+But behind every filter is a person dragging lines and shifting shapes on a computer screen to achieve the desired look. Beauty may be subjective, and yet society continues to promote stringent, unattainable ideals that—for women and girls—are disproportionately white, slender, and feminine.
+
+Instagram publishes very little data about filters, especially beauty filters. In September of 2020, Meta announced that over 600 million people had tried at least one of its AR features. The metaverse is a concept much bigger than Meta and other companies investing in AR and VR products. Snap and TikTok capture huge numbers of filter users, though Snap is also investing in place-based AR. Meta’s product suite includes the Oculus headset and Ray-Ban smart glasses, but it’s focused on what made Facebook popular—the face.
+
+Beauty filters, especially those that dramatically alter the shape of a face and its features, are particularly popular—and contested. Instagram banned these so-called deformation effects from October 2019 until August 2020 because of concerns about the impact they have on mental health. The policy has since been updated to outlaw only filters that encourage plastic surgery. The policy states that “content must not promote the use or depict the sale of a potentially dangerous cosmetic procedure, as per the Facebook Community Standards. This includes effects that depict such procedures through surgery lines.” According to a statement to MIT Technology Review in April 2021, this policy is enforced by “a combination of human and automated systems to review effects as they are submitted for publishing.” Creators told me, however, that deformation filters often get flagged inconsistently, and it’s not clear what exactly encourages the use of cosmetic surgery.
+
+“It became sensational”
+
+Though many people use beauty filters merely for fun and entertainment, those puppy ears are actually a big technical feat. First they require face detection, in which an algorithm interprets the various shades of pixels picked up by a camera to identify a face and its features. A digital mask of some standard face is then applied to the image of the real face and adjusts to its shape, aligning the mask’s virtual jawline and nose to the person’s. On that mask, graphics developed by coders create the effects seen on the screen. Computer vision technology of just the past few years has allowed this to happen in real time and in motion.
+
+Spark AR is Instagram’s software developer kit, or SDK, and it allows creators of augmented-reality effects to more easily make and share the face filters that cover the Instagram feed. It is in this deep rabbit hole of filter demonstration videos on YouTube that I first came across Florencia Solari, a creative AR technologist and a well-known creator of filters on Instagram. She showed me how to make a face filter that promised to plump and lift my cheeks and fill out my lips for that Kardashianesque, surgically enhanced face shape.
+
+“Thirty-two percent of teen girls said that when they felt bad about their bodies, Instagram made them feel worse.”
+
+“I have this inflate tool that I am going to apply with symmetry,” Solari said, “because any modifications that I do to this face, I want to be symmetrical.” I tried to keep up by dragging the outline of my digital mannequin’s cheekbone up and out with my cursor. Next, I right-clicked on the map of her bottom lip and selected “Increase” several times, playing God. Soon, with Solari as my guide, I had a filter that, while sloppy and simple, I could upload to Instagram and unleash to the world.
+
+FLORENCIA SOLARI
+
+Solari is part of a new class of AR and VR creators who have made a career by mastering this technology. She started coding when she was around nine years old and was drawn to the creativity of virtual-­world development. Making her own filters on Instagram was a hobby at first. But in 2020, Solari left a full-time job as an AR developer at Ulta Beauty to pursue online AR full time as an independent consultant. She’s recently worked with Meta and several other big brands (which she says she can’t disclose) to create branded AR web experiences, including filters.
+
+Solari’s very first filter, called “vedette++,” went viral back in September 2019. “I tried to make an interpretation of what the superstar of the future would be,” Solari says. The filter applies an iridescent, slightly green shine to the skin, which is smoothed all over and inflated under each eye to the point that it looks as if half a clementine has been shoved inside each cheek. Lips double in size, and face shape is adjusted so that a distinct jawline tapers into a small chin. “It was kind of a mix of an alien, but with a face that looked like it was full of Botox,” says Solari. “It really became, like, sensational.”

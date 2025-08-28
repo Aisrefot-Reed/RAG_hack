@@ -1,0 +1,20 @@
+Title: Japanese Robotics Giant Gives Its Arms Some Brains
+URL: https://www.technologyreview.com/2016/10/07/70007/japanese-robotics-giant-gives-its-arms-some-brains/
+
+Machine learning offers a way to have a robot reprogram itself by learning how to do something through practice. The technique involved, called reinforcement learning, uses a large or deep neural network that controls a robotic arm’s movement and varies its behavior, reinforcing actions that lead it closer to an end goal, like picking up a particular object. And the process can also be sped up by having lots of robots work in concert and then sharing what they have learned. Although robots have become easier to program in recent years, their learning abilities have not advanced very much.
+
+The graphics processing units that Nvidia makes, which enable high-speed parallel computation, are especially well suited to deep learning. Fanuc will use Nvidia processors inside individual robots and also in a central system that controls all the bots in a factory. The training will feed into the central system, which Nvidia calls a “GPU supercomputer,” and trained models will then be transferred to robots to execute actions, using computer vision and deep learning.
+
+“Complex robots with high levels of articulation can perform a task in many ways, so they generate a lot of data and require massive amounts of computing power,” says Masataka Osaki, vice president of worldwide operations at Nvidia.
+
+Fanuc makes a wide range of industrial robots, which are used in all sorts of settings, from auto factories to electronics and food production facilities. The company has been progressive in connecting its robots to the cloud, and in exploring ways to use advances in machine learning (see “50 Smartest Companies: Fanuc”).
+
+Reinforcement learning is a particularly hot research area in robotics. The technique was used by Google to build a program that taught itself to play the incredibly complex and subtle board game Go to a superhuman level. As with Go, the skills required to have a robot manipulate objects, or perform other tasks, can be complex to program by hand.
+
+Ashutosh Saxena, the founder of a company called Brain of Things and an expert on robot learning, says making it possible for industrial robots to share data is an important idea. “Earlier such robots were not designed with data sharing in mind,” he says. “Deep learning is particularly well-suited to handling such variations without needing much manual programming.”
+
+“We can see a chance for a huge synergy between the AI learning community and traditional factory robot builders,” says Yezhou Yang, an assistant professor who runs a robot learning lab at Arizona State University. But Yang says that because no one is involved in programming a robot, it will be difficult for human operators to understand how the system actually works.
+
+“They will treat it as a black box,” Yang says. “What if something goes wrong? We need some sort of interface. I believe a huge amount of work still needs to be done along the lines of explainability.”
+
+Fanuc has been researching the use of reinforcement learning for some time, previously working with a Japanese company called Preferred Networks (see “Factory Robot Learns a New Job Overnight”). Others have clearly spied an opportunity to develop the artificial intelligence required for a new generation of robots, both industrial ones and ones that might operate in other workplaces or even homes (see “Google Builds a Robotic Hive-Mind Kindergarten”).

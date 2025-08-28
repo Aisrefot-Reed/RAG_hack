@@ -1,0 +1,14 @@
+Title: Building AI you can trust
+URL: https://www.technologyreview.com/2020/02/05/349095/building-ai-you-can-trust/
+
+As AI becomes increasingly easy to use and plays a role in more and more everyday decisions—from medical diagnosis to criminal sentencing to financial trading—it’s growing clear that the real issues with AI aren’t about its power, but about the limit of that power and how we can use it intelligently.
+
+That’s why the theme of MIT Technology Review’s EmTech Digital, our annual conference on AI, is trust. How do we make the algorithms’ decisions more transparent and their data more reliable? Which decisions are safe to leave to them, and which require human judgment? What’s the best way for people and AI to work together?
+
+In short, how do we get machines we can trust, data we can trust, and decisions we can trust?
+
+Join us March 23-25 for a deep dive on these questions. With sessions featuring some of the world’s leading experts on everything from data privacy to deepfakes, virtual reality to voice recognition, it’ll be a masterclass for executive decision-makers on how to apply AI effectively, reliably, and ethically.
+
+This year we’ve also added the optional AI Strategy Studio. If you’re responsible for your organization’s AI strategy, this is where you’ll hear real-life case studies from executives in leading organizations talking about how they have—and in some cases, haven’t—successfully integrated AI into their processes, products, and services.
+
+Purchase your ticket today.

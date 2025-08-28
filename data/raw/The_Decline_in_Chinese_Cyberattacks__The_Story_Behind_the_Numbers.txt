@@ -1,0 +1,20 @@
+Title: The Decline in Chinese Cyberattacks: The Story Behind the Numbers
+URL: https://www.technologyreview.com/2016/10/25/156465/the-decline-in-chinese-cyberattacks-the-story-behind-the-numbers/
+
+For some in the Obama administration, this is proof that using both carrots and sticks to combat Chinese theft of intellectual property—what Carlin called an “all-tools” approach—is working. Indictments and so-called “naming and shaming” have been accompanied by economic sanctions and diplomatic efforts, including a September 2015 agreement between President Obama and Xi Jinping to refrain from conducting or supporting cyber-theft of intellectual property. “This approach is a giant ‘No trespassing’ sign,” Carlin said. “It’s ‘Get off our lawn.’”
+
+But others are not sure the U.S. government should get so much credit. The perceived decline in attacks from China raises a question: why? Former government officials and cybersecurity experts now offer up a range of theories—including a provocative one that questions the extent to which straight commercial cyber-espionage, as opposed to the more targeted spying on military technologies and capabilities that many nations engage in, was ever a priority of the Chinese central government in the first place.
+
+There is little doubt that the Chinese government invests substantial energy in stealing everything from plans for U.S. fighter jets to the 22 million records kept by the Office of Personnel Management, or that it has done little to pursue commercial spies. But some of the more commercially focused attacks carried out by Unit 61398, this theory holds, may have been illusions, while others may never have had explicit backing from Beijing to begin with.
+
+Skeptics abound
+
+Five members of China’s People’s Liberation Army Unit 61398 were indicted by the U.S. Justice Department for commercial espionage in 2014.
+
+In 2013, former FBI director Robert Mueller called for a broad effort to root out cyber-threats and seek the “warm body behind the keyboard.” Speaking at the Brookings Institution the day after the Unit 61398 indictment was unveiled, Carlin said that the bureau had succeeded in “putting a face” on that warm body—or rather, on five of them. The mug shots of these men, who went by monikers like KandyGoo and UglyGorilla, were splashed across posters that read: Wanted by the FBI.
+
+The indictment marked a break with the standard diplomatic practice of not subjecting active military officials of other countries to criminal prosecution, and many in Washington greeted it with skepticism. Some doubted whether the charges would be actionable, while others pointed out that the Justice Department’s stance on commercial espionage—that collecting general economic intelligence is routine statecraft and therefore acceptable, while spying for the benefit of specific companies is not—is a distinction few other countries would recognize. Benjamin Wittes, a senior fellow at Brookings, even wondered whether the Justice Department’s move might be simply “a very sophisticated form of legal PR.”
+
+Doubt continued in September 2015, after the announcement of the China-U.S. agreement. Some believed that Xi’s commitment to refrain from supporting commercial hacking was little more than lip service. Director of National Intelligence James Clapper told Defense News at the time, “I personally am somewhat of a skeptic.”
+
+But as time went on, cybersecurity analysts noticed a curious change. For its recent report, FireEye started in February 2013, the month the threat intelligence firm Mandiant (now owned by FireEye) publicly tied Unit 61398 to a heavily guarded building in Shanghai. Over the years that followed, FireEye analysts logged assaults on clients in the U.S., Japan, and Europe. Attacks peaked at just over 70 per month in September 2013. By the beginning of September 2015, before Obama and Xi signed the agreement, they had slowed to 10 per month, making the accord look like a mere footnote in China’s about-face.
